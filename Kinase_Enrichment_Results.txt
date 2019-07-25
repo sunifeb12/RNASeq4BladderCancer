@@ -1,0 +1,976 @@
+term_name	zscore	combined_score	FDR	pvalue	overlapping_genes	gene_set_library	geneset
+ERBB2_human_kinase_ARCHS4_coexpression	-1.642373178	81.85825984	8.32E-20	2.26E-22	"['CDS1', 'WWC1', 'TACSTD2', 'AC234582.1', 'CBLC', 'KRT23', 'KLHDC7A', 'SPINT2', 'HID1', 'ALDH3B2', 'MUC1', 'TMEM125', 'MIEN1', 'RAB25', 'KIAA1522', 'MAL2', 'MYH14', 'EPS8L1', 'PRSS8', 'AP1M2', 'ST14', 'RARRES1', 'TMEM132A', 'KRT7', 'LSR', 'CDC6', 'NR2F6', 'CAMSAP3', 'KRT18', 'KLF5', 'SPINT1', 'SAPCD2', 'ADAM15', 'TMEM54', 'MMP15', 'PRR15L', 'FASN', 'GIPC1', 'SCNN1A', 'B3GNT3', 'SLC25A10', 'AGRN', 'CYB561', 'VGLL1', 'CRB3']"	ARCHS4 (coexpressed genes)	upregulated
+TNK1_human_kinase_ARCHS4_coexpression	-1.713473343	65.4622222	4.71E-15	2.56E-17	"['CDS1', 'SOWAHB', 'PWWP2B', 'TACSTD2', 'CBLC', 'SPINT2', 'HID1', 'SLC9A3R1', 'ALDH3B2', 'MUC1', 'TMEM125', 'RAB25', 'KIAA1522', 'AP1S1', 'MAL2', 'MYH14', 'EPS8L1', 'PRSS8', 'S100A14', 'AP1M2', 'ST14', 'KRT8', 'KRT7', 'LSR', 'NR2F6', 'CAMSAP3', 'KRT18', 'KLF5', 'SPINT1', 'ADAM15', 'TMEM54', 'PRR15L', 'GIPC1', 'TMEM79', 'SCNN1A', 'B3GNT3', 'SLC25A10', 'CYB561', 'CRB3']"	ARCHS4 (coexpressed genes)	upregulated
+CDC42BPG_human_kinase_ARCHS4_coexpression	-1.690124162	55.43269491	6.99E-13	5.70E-15	"['CDS1', 'SOWAHB', 'PWWP2B', 'WWC1', 'TACSTD2', 'CBLC', 'SPINT2', 'HID1', 'SLC9A3R1', 'ALDH3B2', 'MUC1', 'TMEM125', 'RAB25', 'KIAA1522', 'MAL2', 'MYH14', 'EPS8L1', 'PRSS8', 'S100A14', 'AP1M2', 'SPTBN2', 'ST14', 'KRT8', 'LSR', 'CAMSAP3', 'KRT18', 'KLF5', 'SPINT1', 'ADAM15', 'TMEM54', 'FASN', 'GIPC1', 'SCNN1A', 'B3GNT3', 'AGRN', 'CYB561']"	ARCHS4 (coexpressed genes)	upregulated
+RIPK4_human_kinase_ARCHS4_coexpression	-1.585720969	49.25402775	2.98E-12	3.24E-14	"['CDS1', 'SOWAHB', 'WWC1', 'CBLC', 'SPINT2', 'TMEM125', 'RAB25', 'IRAK1', 'KIAA1522', 'AP1S1', 'MAL2', 'MYH14', 'EPS8L1', 'S100A14', 'PRSS8', 'S100A11', 'AP1M2', 'ST14', 'RARRES1', 'KRT7', 'LSR', 'NR2F6', 'KRT18', 'KLF5', 'SPINT1', 'ADAM15', 'TMEM54', 'GIPC1', 'SCNN1A', 'B3GNT3', 'SLC25A10', 'AGRN', 'CYB561', 'VGLL1', 'CRB3']"	ARCHS4 (coexpressed genes)	upregulated
+TNNI3K_human_kinase_ARCHS4_coexpression	-1.716835305	50.40224001	3.72E-11	1.78E-13	"['SYNM', 'PDE1C', 'HSPB8', 'SLC8A1', 'ADCY5', 'JPH2', 'C14ORF180', 'TBX20', 'SPEG', 'DMD', 'PGM5', 'FLNC', 'BVES', 'TMOD1', 'SVIL', 'MYOCD', 'DTNA', 'CACNA2D1', 'TPM1', 'SORBS2', 'SORBS1', 'ALS2CR11', 'TMEFF2', 'DES', 'BMS1P7', 'NBEA', 'RCAN2', 'HAND2', 'CTD-2547E10.6', 'CASQ2', 'COL21A1', 'ITGA7', 'MYL9', 'CRYAB']"	ARCHS4 (coexpressed genes)	downregulated
+PRKG1_human_kinase_ARCHS4_coexpression	-1.676453156	49.21671523	3.72E-11	1.78E-13	"['SYNM', 'HSPB6', 'PTPRQ', 'SYNPO2', 'HSPB8', 'FHL1', 'LMOD1', 'ATP1A2', 'FHL5', 'JPH2', 'PDLIM3', 'SPEG', 'DMD', 'PGM5', 'FLNC', 'AC096949.1', 'CAP2', 'RP11-123K3.4', 'SVIL', 'EGF', 'CACNA2D1', 'TPM2', 'EYA4', 'KLHL41', 'TRDN', 'SMOC2', 'ARHGAP10', 'DES', 'MYL1', 'TCEA3', 'CASQ2', 'PDE5A', 'ASB2', 'MYL9']"	ARCHS4 (coexpressed genes)	downregulated
+MYLK_human_kinase_ARCHS4_coexpression	-1.614107195	44.69266835	1.32E-10	9.44E-13	"['KANK2', 'TAGLN', 'BNC2', 'SYNPO2', 'LPAR1', 'LMOD1', 'ACTG2', 'CYR61', 'PTGS1', 'CNN1', 'CSRP1', 'ADAMTS1', 'RAB23', 'FLNA', 'MYH11', 'PGM5', 'FLNC', 'PAMR1', 'PRKG1', 'TNS1', 'MYOCD', 'FOXF1', 'TPM2', 'ADAM33', 'DCN', 'ACTA2', 'MFAP4', 'SMTN', 'SDPR', 'ITGA8', 'MRVI1', 'PDE5A', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+ERBB3_human_kinase_ARCHS4_coexpression	-1.661159011	43.28181411	3.56E-10	4.83E-12	"['CDS1', 'SOWAHB', 'TACSTD2', 'CBLC', 'KRT20', 'HID1', 'ALDH3B2', 'MUC1', 'TMEM125', 'RAB25', 'KIAA1522', 'MAL2', 'MYH14', 'PRSS8', 'AP1M2', 'ST14', 'KRT8', 'LSR', 'SLC9A2', 'CAMSAP3', 'KRT18', 'KLF5', 'SPINT1', 'RNF128', 'TMEM54', 'TST', 'MMP15', 'PRR15L', 'SCNN1A', 'B3GNT3', 'DPEP1', 'CYB561']"	ARCHS4 (coexpressed genes)	upregulated
+ALPK2_human_kinase_ARCHS4_coexpression	-1.635220388	39.99373314	2.00E-09	2.39E-11	"['TAGLN', 'SYNPO2', 'HSPB8', 'FHL1', 'SLC8A1', 'JPH2', 'PDLIM3', 'TBX20', 'SPEG', 'DMD', 'PGM5', 'FLNC', 'BVES', 'AC096949.1', 'PRKG1', 'CAP2', 'SVIL', 'MYOCD', 'TPM2', 'TPM1', 'ADAM33', 'SORBS2', 'KLHL41', 'TRDN', 'ARHGAP10', 'DES', 'MYL1', 'CASQ2', 'ASB2', 'MYL9', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+TTN_human_kinase_ARCHS4_coexpression	-1.617907491	39.57029946	2.00E-09	2.39E-11	"['SYNM', 'PTPRQ', 'SYNPO2', 'HSPB8', 'FHL1', 'FHL5', 'JPH2', 'PDLIM3', 'SPEG', 'DMD', 'PGM5', 'FLNC', 'BVES', 'AC096949.1', 'PRKG1', 'CAP2', 'SVIL', 'EGF', 'CACNA2D1', 'TPM2', 'SORBS1', 'ANO5', 'KLHL41', 'TRDN', 'SMOC2', 'ARHGAP10', 'DES', 'MYL1', 'TCEA3', 'CASQ2', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+PRKAA2_human_kinase_ARCHS4_coexpression	-1.590001749	33.98578224	3.63E-08	5.21E-10	"['SYNM', 'SYNPO2', 'HSPB8', 'FHL1', 'ATP1A2', 'JPH2', 'PDLIM3', 'SPEG', 'DMD', 'FLNC', 'BVES', 'AC096949.1', 'PRKG1', 'CAP2', 'SVIL', 'EGF', 'CACNA2D1', 'TPM2', 'PDE4D', 'EYA4', 'SORBS1', 'ANO5', 'KLHL41', 'TRDN', 'DES', 'MYL1', 'TCEA3', 'CASQ2', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+PAK4_human_kinase_ARCHS4_coexpression	-1.640461553	35.06434453	3.20E-08	5.21E-10	"['WWC1', 'SPINT2', 'MRPL12', 'PKMYT1', 'LMNB2', 'HID1', 'IRAK1', 'KIAA1522', 'AP1S1', 'RAC3', 'MYH14', 'AP1M2', 'ST14', 'TMEM132A', 'KRT8', 'PYCR1', 'LSR', 'NR2F6', 'CAMSAP3', 'KRT18', 'SPINT1', 'SAPCD2', 'ADAM15', 'FASN', 'GIPC1', 'SCNN1A', 'SLC25A10', 'AGRN', 'CYB561']"	ARCHS4 (coexpressed genes)	upregulated
+ALPK3_human_kinase_ARCHS4_coexpression	-1.574444656	31.31745116	1.37E-07	2.30E-09	"['SYNM', 'HSPB6', 'SYNPO2', 'HSPB8', 'FHL1', 'HSPB2', 'JPH2', 'PDLIM3', 'SPEG', 'DMD', 'FLNC', 'BVES', 'AC096949.1', 'PRKG1', 'CAP2', 'SVIL', 'CACNA2D1', 'TPM2', 'SORBS1', 'KLHL41', 'TRDN', 'SMOC2', 'DES', 'MYL1', 'TCEA3', 'CASQ2', 'ITGA7', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+PLK1_human_kinase_ARCHS4_coexpression	-1.504854994	29.93323558	1.21E-07	2.30E-09	"['TOP2A', 'FEN1', 'CDCA5', 'MRPL12', 'MKI67', 'PKMYT1', 'LMNB2', 'PSMD2', 'E2F1', 'POC1A', 'OIP5', 'KPNA2', 'RANBP1', 'UBE2C', 'HMGA1', 'PYCR1', 'CDC6', 'ZWINT', 'CDC25A', 'TRAIP', 'CCNA2', 'SAPCD2', 'CDK1', 'BIRC5', 'FAM64A', 'KIF2C', 'FAM72D', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+AURKB_human_kinase_ARCHS4_coexpression	-1.507360568	27.80714253	3.98E-07	9.73E-09	"['TOP2A', 'FEN1', 'CDCA5', 'MRPL12', 'MKI67', 'PKMYT1', 'LMNB2', 'POC1A', 'OIP5', 'TK1', 'KPNA2', 'RANBP1', 'UBE2C', 'MND1', 'CDC6', 'ZWINT', 'CDC25A', 'NME1', 'TRAIP', 'CCNA2', 'SAPCD2', 'CDK1', 'BIRC5', 'FAM64A', 'KIF2C', 'FAM72D', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+SRMS_human_kinase_ARCHS4_coexpression	-1.629783446	30.06554738	3.98E-07	9.73E-09	"['WWC1', 'AC234582.1', 'CBLC', 'HID1', 'MUC1', 'IRAK1', 'KIAA1522', 'MAL2', 'MYH14', 'RP1-34B20.4', 'SPTBN2', 'LRRC26', 'ST14', 'KRT8', 'PYCR1', 'LSR', 'SLC9A2', 'CAMSAP3', 'GPRIN2', 'KRT18', 'SPINT1', 'SAPCD2', 'ADAM15', 'FASN', 'SLC25A10', 'AGRN', 'CYB561']"	ARCHS4 (coexpressed genes)	upregulated
+MYLK4_human_kinase_ARCHS4_coexpression	-1.645331104	30.35236392	5.09E-07	9.73E-09	"['SYNM', 'PTPRQ', 'SYNPO2', 'HSPB8', 'FHL1', 'ATP1A2', 'JPH2', 'PDLIM3', 'SPEG', 'DMD', 'FLNC', 'AC096949.1', 'PRKG1', 'CAP2', 'SVIL', 'EGF', 'CACNA2D1', 'TPM2', 'EYA4', 'ANO5', 'KLHL41', 'TRDN', 'DES', 'MYL1', 'TCEA3', 'CASQ2', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+MST1R_human_kinase_ARCHS4_coexpression	-1.557755435	26.55227438	1.21E-06	3.96E-08	"['SOWAHB', 'ITLN1', 'TACSTD2', 'CBLC', 'KRT20', 'MUC1', 'RAB25', 'KIAA1522', 'MAL2', 'MYH14', 'EPS8L1', 'PRSS8', 'ST14', 'KRT7', 'LSR', 'SLC9A2', 'KLF5', 'SPINT1', 'ADAM15', 'TMEM54', 'TST', 'MMP15', 'PRR15L', 'GIPC1', 'SCNN1A', 'AGRN']"	ARCHS4 (coexpressed genes)	upregulated
+PBK_human_kinase_ARCHS4_coexpression	-1.511352129	25.76132013	1.21E-06	3.96E-08	"['TOP2A', 'FEN1', 'CDCA5', 'MKI67', 'LMNB2', 'CDC20', 'PSMD2', 'POC1A', 'OIP5', 'TK1', 'KPNA2', 'RANBP1', 'UBE2C', 'MND1', 'CDC6', 'ZWINT', 'NME1', 'TRAIP', 'CCNA2', 'SAPCD2', 'BIRC5', 'FAM64A', 'KIF2C', 'FAM72D', 'APOBEC3B', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+HIPK3_human_kinase_ARCHS4_coexpression	-1.665311449	28.38558965	1.84E-06	3.96E-08	"['WDR49', 'SETD3', 'PTPRQ', 'SYNPO2', 'HSPB8', 'INMT-FAM188B', 'FAM129A', 'CARF', 'PREX2', 'PDLIM3', 'BBS9', 'DMD', 'PGM5', 'AC096949.1', 'CDR1', 'DYNC2H1', 'SVIL', 'DTNA', 'EYA4', 'STON1-GTF2A1L', 'KLHL41', 'TRDN', 'ARHGAP10', 'MYL1', 'UTRN', 'MATN2']"	ARCHS4 (coexpressed genes)	downregulated
+MELK_human_kinase_ARCHS4_coexpression	-1.529910261	26.07764745	1.21E-06	3.96E-08	"['TOP2A', 'FEN1', 'CDCA5', 'MKI67', 'PKMYT1', 'LMNB2', 'CDC20', 'PSMD2', 'POC1A', 'OIP5', 'TK1', 'KPNA2', 'UBE2C', 'MND1', 'CDC6', 'ZWINT', 'CDC25A', 'NME1', 'TRAIP', 'CCNA2', 'CDK1', 'BIRC5', 'FAM64A', 'KIF2C', 'FAM72D', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+OBSCN_human_kinase_ARCHS4_coexpression	-1.579161685	24.7695556	5.37E-06	1.54E-07	"['SYNM', 'HSPB6', 'SYNPO2', 'HSPB8', 'FHL1', 'JPH2', 'PDLIM3', 'SPEG', 'DMD', 'FLNC', 'AC096949.1', 'PRKG1', 'CAP2', 'SVIL', 'CACNA2D1', 'TPM2', 'SORBS1', 'KLHL41', 'TRDN', 'SMOC2', 'DES', 'MYL1', 'TCEA3', 'CASQ2', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+PKMYT1_human_kinase_ARCHS4_coexpression	-1.4557482	22.83378347	4.36E-06	1.54E-07	"['FEN1', 'CDCA5', 'MRPL12', 'MKI67', 'LMNB2', 'CDC20', 'BCL2L12', 'COMTD1', 'IRAK1', 'E2F1', 'EIF4EBP1', 'RAC3', 'TK1', 'RANBP1', 'PAQR4', 'HMGA1', 'PYCR1', 'CDC6', 'ZWINT', 'CDC25A', 'CCNA2', 'SAPCD2', 'KIF2C', 'SLC25A10', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+SPEG_human_kinase_ARCHS4_coexpression	-1.555061818	24.39154301	5.37E-06	1.54E-07	"['SYNM', 'HSPB6', 'SYNPO2', 'HSPB8', 'FHL1', 'ATP1A2', 'PDLIM3', 'DMD', 'FLNC', 'BVES', 'PRKG1', 'CAP2', 'SVIL', 'CACNA2D1', 'TPM2', 'SORBS1', 'KLHL41', 'TRDN', 'SMOC2', 'DES', 'MYL1', 'TCEA3', 'CASQ2', 'ITGA7', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+PINK1_human_kinase_ARCHS4_coexpression	-1.621581333	25.43491865	5.37E-06	1.54E-07	"['HSPB6', 'HSPB8', 'FHL1', 'LMOD1', 'ATP1A2', 'PHYHIP', 'JPH2', 'PDLIM3', 'C14ORF180', 'SPEG', 'PRKG1', 'CAP2', 'RP11-123K3.4', 'SVIL', 'CADM3', 'TPM2', 'KLHL41', 'TRDN', 'DES', 'BMS1P7', 'RCAN2', 'TCEA3', 'CTD-2547E10.6', 'ASB2', 'MYL9']"	ARCHS4 (coexpressed genes)	downregulated
+AURKA_human_kinase_ARCHS4_coexpression	-1.619497558	23.27056707	1.51E-05	5.75E-07	"['TOP2A', 'FEN1', 'UBE2C', 'CDCA5', 'FAM228A', 'CDC6', 'MKI67', 'ACTL8', 'ZWINT', 'CDC25A', 'LMNB2', 'CDC20', 'CCNA2', 'SAPCD2', 'PSMD2', 'CDK1', 'POC1A', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5', 'DPPA5', 'KPNA2', 'FAM72D']"	ARCHS4 (coexpressed genes)	upregulated
+PDK4_human_kinase_ARCHS4_coexpression	-1.608950694	23.11901915	1.85E-05	5.75E-07	"['TMOD1', 'SVIL', 'SYNM', 'TNXB', 'PARM1', 'MAOB', 'F10', 'SCARA5', 'HSPB6', 'ADH1B', 'SYNPO2', 'HSPB8', 'FHL1', 'SORBS1', 'SMOC2', 'DES', 'FABP4', 'C14ORF180', 'CNTN1', 'CASQ2', 'ITGA7', 'PGM5', 'CRYAB', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+CDK4_human_kinase_ARCHS4_coexpression	-1.459795965	19.12019407	4.71E-05	2.05E-06	"['RANBP1', 'FEN1', 'CDCA5', 'HMGA1', 'PYCR1', 'CDC6', 'MRPL12', 'PKMYT1', 'ZWINT', 'CDC25A', 'LMNB2', 'NME1', 'CDC20', 'IRAK1', 'PSMD2', 'CFL1', 'E2F1', 'EIF4EBP1', 'POC1A', 'SLC25A10', 'TK1', 'DCTPP1', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+BUB1_human_kinase_ARCHS4_coexpression	-1.531077719	20.05383206	4.71E-05	2.05E-06	"['TOP2A', 'RANBP1', 'FEN1', 'UBE2C', 'CDCA5', 'MND1', 'CDC6', 'MKI67', 'ZWINT', 'CDC25A', 'LMNB2', 'TRAIP', 'CDC20', 'CCNA2', 'CDK1', 'POC1A', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5', 'KPNA2', 'FAM72D', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+PDGFRA_human_kinase_ARCHS4_coexpression	-1.538374694	20.14940677	5.71E-05	2.05E-06	"['KANK2', 'SRPX', 'TNXB', 'PTGIS', 'BNC2', 'FOXF1', 'COL14A1', 'LPAR1', 'ADAM33', 'DCN', 'MFAP4', 'EDNRA', 'ZEB1', 'C7', 'ADAMTS1', 'RAB23', 'MRVI1', 'SLIT3', 'PDE5A', 'PDE7B', 'MYL9', 'PAMR1', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+DMPK_human_kinase_ARCHS4_coexpression	-1.593682778	20.87382396	5.71E-05	2.05E-06	"['KANK2', 'SVIL', 'SYNM', 'HSPB6', 'SYNPO2', 'HSPB8', 'FHL1', 'KLHL41', 'TRDN', 'SMOC2', 'SMTN', 'JPH2', 'PDLIM3', 'DES', 'MYL1', 'TCEA3', 'CASQ2', 'ITGA7', 'SPEG', 'FLNC', 'ASB2', 'MYL9', 'CAP2']"	ARCHS4 (coexpressed genes)	downregulated
+STYK1_human_kinase_ARCHS4_coexpression	-1.543740989	18.32930136	0.000135078	6.97E-06	"['CDS1', 'ST14', 'SOWAHB', 'ITLN1', 'CBLC', 'KRT20', 'SLC9A2', 'TMEM125', 'KLF5', 'SPINT1', 'TMEM54', 'RAB25', 'PRR15L', 'SCNN1A', 'KIAA1522', 'LCN2', 'MAL2', 'MYH14', 'PRSS8', 'C19ORF33', 'RPS2P41', 'AP1M2']"	ARCHS4 (coexpressed genes)	upregulated
+EEF2K_human_kinase_ARCHS4_coexpression	-1.539585659	18.27996388	0.000171482	6.97E-06	"['SVIL', 'SYNM', 'TNXB', 'HSPB6', 'SYNPO2', 'TPM2', 'HSPB8', 'FHL1', 'LMOD1', 'SORBS1', 'KLHL41', 'TRDN', 'JPH2', 'PDLIM3', 'DES', 'MYL1', 'TCEA3', 'SPEG', 'PGM5', 'FLNC', 'ASB2', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+PDGFRB_human_kinase_ARCHS4_coexpression	-1.47420651	17.50369757	0.000171482	6.97E-06	"['KANK2', 'SRPX', 'TAGLN', 'TNXB', 'PTGIS', 'HSPB6', 'COL14A1', 'TPM2', 'LPAR1', 'ADAM33', 'DCN', 'MFAP4', 'SMTN', 'CLEC3B', 'EDNRA', 'ADAMTS1', 'MRVI1', 'SLIT3', 'MYL9', 'PAMR1', 'FERMT2', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+CDK2_human_kinase_ARCHS4_coexpression	-1.45375841	17.26091112	0.000135078	6.97E-06	"['RANBP1', 'LRRC59', 'FEN1', 'CDCA5', 'PYCR1', 'CDC6', 'MRPL12', 'MKI67', 'PKMYT1', 'ZWINT', 'CDC25A', 'LMNB2', 'CDC20', 'CCNA2', 'IRAK1', 'PSMD2', 'E2F1', 'KIF2C', 'CALR', 'TK1', 'MAGEA3', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+DDR1_human_kinase_ARCHS4_coexpression	-1.473338131	17.49338704	0.000135078	6.97E-06	"['CDS1', 'ST14', 'PODXL2', 'WWC1', 'TMEM132A', 'TACSTD2', 'LMTK3', 'FOXJ1', 'LSR', 'HID1', 'CAMSAP3', 'MUC1', 'SPINT1', 'ADAM15', 'MMP15', 'GIPC1', 'SCNN1A', 'KIAA1522', 'MYH14', 'AGRN', 'CYB561', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+PDK2_human_kinase_ARCHS4_coexpression	-1.499928378	16.04465878	0.000429662	2.26E-05	"['SVIL', 'SYNM', 'HSPB6', 'SYNPO2', 'TPM2', 'HSPB8', 'FHL1', 'ATP1A2', 'SORBS1', 'KLHL41', 'TRDN', 'JPH2', 'PDLIM3', 'DES', 'MYL1', 'TCEA3', 'ITGA7', 'SPEG', 'ASB2', 'CRYAB', 'CAP2']"	ARCHS4 (coexpressed genes)	downregulated
+TEK_human_kinase_ARCHS4_coexpression	-1.50102592	16.05639913	0.000429662	2.26E-05	"['KANK2', 'IL33', 'SRPX', 'SEPT10', 'TNXB', 'ADH1B', 'FOXF1', 'LIFR', 'SORBS1', 'SELE', 'AQP1', 'PREX2', 'MFAP4', 'SMTN', 'MMRN1', 'ADAMTS1', 'A2M', 'MYL9', 'ITM2A', 'FERMT2', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+EPHA6_human_kinase_ARCHS4_coexpression	-1.541683685	16.4913132	0.000429662	2.26E-05	"['SH3GL3', 'DTNA', 'DGKB', 'PRUNE2', 'C2ORF66', 'SLC8A1', 'ADCY5', 'STXBP5L', 'KIAA1107', 'PTPRD', 'RIMS1', 'RANBP3L', 'LRCH2', 'NBEA', 'ADGRB3', 'AKT3', 'CNTN1', 'NCAM1', 'ANKS1B', 'CDR1', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+SRPK3_human_kinase_ARCHS4_coexpression	-1.542852547	16.50381647	0.000429662	2.26E-05	"['SVIL', 'SYNM', 'HSPB6', 'SYNPO2', 'TPM2', 'HSPB8', 'FHL1', 'HSPB2', 'KLHL41', 'TRDN', 'JPH2', 'PDLIM3', 'DES', 'MYL1', 'TCEA3', 'CASQ2', 'ITGA7', 'SPEG', 'FLNC', 'ASB2', 'CAP2']"	ARCHS4 (coexpressed genes)	downregulated
+NTRK3_human_kinase_ARCHS4_coexpression	-1.546615414	16.54406767	0.000429662	2.26E-05	"['CADM3', 'EPHA6', 'DTNA', 'DGKB', 'SLC8A1', 'ADCY5', 'STXBP5L', 'PTPRD', 'RIMS1', 'NBEA', 'ADGRB3', 'MAP1B', 'AKT3', 'CNTN1', 'SPARCL1', 'NCAM1', 'DYNC1I1', 'MAPK4', 'ANKS1B', 'CDR1', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+SIK2_human_kinase_ARCHS4_coexpression	-1.372983662	13.14017127	0.001166302	6.98E-05	"['ITIH5', 'KANK2', 'TNXB', 'MAOB', 'SCARA5', 'HSPB6', 'ADH1B', 'FHL1', 'LIFR', 'SORBS1', 'CHRDL1', 'ADCY5', 'AQP1', 'FABP4', 'C14ORF180', 'ITGA7', 'AOX1', 'SLIT3', 'A2M', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+CDK1_human_kinase_ARCHS4_coexpression	-1.473004924	14.09742701	0.001069575	6.98E-05	"['TOP2A', 'FEN1', 'UBE2C', 'CDCA5', 'MND1', 'CDC6', 'MKI67', 'ZWINT', 'CDC25A', 'NME1', 'TRAIP', 'CDC20', 'CCNA2', 'POC1A', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5', 'KPNA2', 'FAM72D']"	ARCHS4 (coexpressed genes)	upregulated
+PKN3_human_kinase_ARCHS4_coexpression	-1.442733798	13.80771652	0.001069575	6.98E-05	"['RANBP1', 'FEN1', 'CDKN2A', 'CDCA5', 'PYCR1', 'MRPL12', 'MKI67', 'PKMYT1', 'YDJC', 'LMNB2', 'CDC20', 'SAPCD2', 'ADAM15', 'IRAK1', 'E2F1', 'RAC3', 'KIF2C', 'SLC25A10', 'AL589743.1', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+BUB1B_human_kinase_ARCHS4_coexpression	-1.432766802	13.71232716	0.001069575	6.98E-05	"['TOP2A', 'FEN1', 'UBE2C', 'CDCA5', 'MND1', 'CDC6', 'MKI67', 'ZWINT', 'CDC25A', 'LMNB2', 'CDC20', 'CCNA2', 'CDK1', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5', 'KPNA2', 'FAM72D', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+TTK_human_kinase_ARCHS4_coexpression	-1.416319757	13.55492034	0.001069575	6.98E-05	"['TOP2A', 'FEN1', 'UBE2C', 'CDCA5', 'MND1', 'CDC6', 'MKI67', 'ZWINT', 'CDC25A', 'TRAIP', 'CDC20', 'CCNA2', 'CDK1', 'POC1A', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5', 'KPNA2', 'FAM72D']"	ARCHS4 (coexpressed genes)	upregulated
+DDR2_human_kinase_ARCHS4_coexpression	-1.453830328	13.91391611	0.001166302	6.98E-05	"['KANK2', 'SRPX', 'TAGLN', 'TNXB', 'PTGIS', 'BNC2', 'FOXF1', 'COL14A1', 'LPAR1', 'ADAM33', 'DCN', 'MFAP4', 'ADAMTS1', 'RAB23', 'SLIT3', 'PDE5A', 'MYL9', 'PAMR1', 'FERMT2', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+PKDCC_human_kinase_ARCHS4_coexpression	-1.462029686	13.99238826	0.001166302	6.98E-05	"['KANK2', 'SVIL', 'MYOC', 'HSPB6', 'COL14A1', 'SYNPO2', 'TPM2', 'FHL1', 'TRDN', 'SMOC2', 'JPH2', 'EDNRA', 'C14ORF180', 'TCEA3', 'ITGA7', 'SPEG', 'FLNC', 'ASB2', 'FERMT2', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+RET_human_kinase_ARCHS4_coexpression	-1.501545732	14.37057747	0.001069575	6.98E-05	"['HAGHL', 'CITED4', 'TMEM132A', 'KRT8', 'MANEAL', 'HID1', 'SLC9A2', 'CAMSAP3', 'SLC9A3R1', 'ALDH3B2', 'KRT18', 'SAPCD2', 'FASN', 'KIAA1522', 'AP1S1', 'SLC25A10', 'AL589743.1', 'CYB561', 'AP1M2', 'PPFIA3']"	ARCHS4 (coexpressed genes)	upregulated
+MASTL_human_kinase_ARCHS4_coexpression	-1.427160062	12.12496385	0.00278468	0.000204311	"['RANBP1', 'FEN1', 'UBE2C', 'CDCA5', 'MND1', 'MKI67', 'ZWINT', 'CDC25A', 'CDC20', 'CCNA2', 'CCNE1', 'CDK1', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5', 'KPNA2', 'FAM72D', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+NEK2_human_kinase_ARCHS4_coexpression	-1.390899279	11.81689702	0.00278468	0.000204311	"['UBE2C', 'CDCA5', 'MND1', 'CDC6', 'MKI67', 'ZWINT', 'TRAIP', 'CDC20', 'CCNA2', 'SAPCD2', 'CDK1', 'POC1A', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5', 'RPS2P41', 'KPNA2', 'FAM72D']"	ARCHS4 (coexpressed genes)	upregulated
+PLK4_human_kinase_ARCHS4_coexpression	-1.43433508	12.18592186	0.00278468	0.000204311	"['TOP2A', 'FEN1', 'UBE2C', 'CDCA5', 'MND1', 'CDC6', 'MKI67', 'ZWINT', 'CDC25A', 'CDC20', 'CCNA2', 'CDK1', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5', 'KPNA2', 'FAM72D', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+MYLK2_human_kinase_ARCHS4_coexpression	-1.495617994	11.17970273	0.008466017	0.000567102	"['SVIL', 'SYNM', 'HSPB6', 'SYNPO2', 'TPM2', 'HSPB8', 'FHL1', 'KLHL41', 'TRDN', 'JPH2', 'PDLIM3', 'DES', 'MYL1', 'TCEA3', 'SPEG', 'FLNC', 'ASB2', 'CAP2']"	ARCHS4 (coexpressed genes)	downregulated
+EPHB4_human_kinase_ARCHS4_coexpression	-1.376663622	10.29052212	0.007196324	0.000567102	"['TMEM132A', 'KRT8', 'PYCR1', 'LSR', 'LMNB2', 'NR2F6', 'CAMSAP3', 'KRT18', 'SAPCD2', 'ADAM15', 'IRAK1', 'FASN', 'GIPC1', 'KIAA1522', 'AP1S1', 'SLC25A10', 'CALR', 'AGRN']"	ARCHS4 (coexpressed genes)	upregulated
+PHKG1_human_kinase_ARCHS4_coexpression	-1.499184919	11.20636539	0.008466017	0.000567102	"['SVIL', 'SYNM', 'HSPB6', 'SYNPO2', 'TPM2', 'HSPB8', 'FHL1', 'ANO5', 'KLHL41', 'TRDN', 'JPH2', 'PDLIM3', 'DES', 'MYL1', 'TCEA3', 'SPEG', 'ASB2', 'CAP2']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK12_human_kinase_ARCHS4_coexpression	-1.513632287	11.31435907	0.008466017	0.000567102	"['SVIL', 'SYNM', 'HSPB6', 'SYNPO2', 'TPM2', 'HSPB8', 'FHL1', 'KLHL41', 'TRDN', 'JPH2', 'PDLIM3', 'DES', 'MYL1', 'TCEA3', 'SPEG', 'FLNC', 'ASB2', 'CAP2']"	ARCHS4 (coexpressed genes)	downregulated
+PTK6_human_kinase_ARCHS4_coexpression	-1.436420828	10.73720556	0.007196324	0.000567102	"['ST14', 'ITLN1', 'CBLC', 'KRT20', 'SLC9A2', 'KLF5', 'SPINT1', 'TMEM54', 'RAB25', 'PRR15L', 'SCNN1A', 'KIAA1522', 'B3GNT3', 'DPEP1', 'MYH14', 'EPS8L1', 'PRSS8', 'S100A14']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK3	-2.139634916	15.92740345	0.04486821	0.000584951	"['JUN', 'BTG2', 'MYOCD', 'DUSP1', 'HSPB8', 'PDE4D', 'PLA2G4A', 'LIFR', 'FOS', 'ZFP36', 'MAP1B', 'GRB10', 'ASB2', 'CRYAB']"	KEA (experimentally validated targets)	downregulated
+AURKB	-1.816454065	13.27582452	0.064962984	0.000669721	"['WWC1', 'CDCA5', 'KRT8', 'BIRC5', 'KIF2C', 'HIST1H2BB', 'MKI67', 'HIST1H3B']"	KEA (experimentally validated targets)	upregulated
+PRKG1	-1.948000482	12.84991797	0.04486821	0.001365185	"['PPP1R14A', 'RGS2', 'HSPB6', 'GKAP1', 'MAP1B', 'MRVI1', 'PDE5A', 'CRYAB', 'PRKG1']"	KEA (experimentally validated targets)	downregulated
+MAPK4	-1.653239944	10.79103115	0.04486821	0.001463094	"['ZFP36', 'PLA2G4A', 'LIFR', 'FOS', 'MAPK4']"	KEA (experimentally validated targets)	downregulated
+EPHB3_human_kinase_ARCHS4_coexpression	-1.470082852	9.570186041	0.017670336	0.001488534	"['ST14', 'TMEM132A', 'TACSTD2', 'NIPSNAP1', 'NR2F6', 'CAMSAP3', 'ALDH3B2', 'EFNA3', 'SPINT1', 'RAB25', 'MMP15', 'H3F3AP4', 'KIAA1522', 'MYH14', 'EPS8L1', 'PRSS8', 'AGRN']"	ARCHS4 (coexpressed genes)	upregulated
+SIK1_human_kinase_ARCHS4_coexpression	-1.374922836	8.950697792	0.020071197	0.001488534	"['JUN', 'DUSP2', 'BTG2', 'PDE4D', 'GLP2R', 'EYA4', 'PLA2G4A', 'LIFR', 'ADARB1', 'AQP3', 'NR4A1', 'ZFP36', 'KRT17', 'ADAMTS1', 'ID1', 'FOSB', 'ATF3']"	ARCHS4 (coexpressed genes)	downregulated
+PAK3_human_kinase_ARCHS4_coexpression	-1.45250592	9.455760854	0.020071197	0.001488534	"['SOBP', 'RPL12P24', 'ELAVL2', 'STXBP5L', 'KIAA1107', 'PTPRD', 'REEP1', 'NBEA', 'MAP1B', 'RCAN2', 'DPYSL3', 'CNTN1', 'FXYD6', 'NCAM1', 'DYNC1I1', 'ANKS1B', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+PRKCQ_human_kinase_ARCHS4_coexpression	-1.483961915	9.660538239	0.020071197	0.001488534	"['SVIL', 'SYNM', 'HSPB6', 'EGF', 'SYNPO2', 'TPM2', 'HSPB8', 'FHL1', 'KLHL41', 'TRDN', 'JPH2', 'PDLIM3', 'DES', 'MYL1', 'TCEA3', 'SPEG', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+TRIB3_human_kinase_ARCHS4_coexpression	-1.352699099	8.806022066	0.017670336	0.001488534	"['LRRC59', 'PYCR1', 'LSR', 'LMNB2', 'SAPCD2', 'ADAM15', 'IRAK1', 'PSMD2', 'GIPC1', 'KIAA1522', 'EIF4EBP1', 'AP1S1', 'MAL2', 'SLC25A10', 'CALR', 'AGRN', 'SEPHS2']"	ARCHS4 (coexpressed genes)	upregulated
+RPS6KA5	-1.682817303	9.658081116	0.156035847	0.003217234	"['HIST3H2A', 'HIST1H2AI', 'EIF4EBP1', 'HIST1H2AB']"	KEA (experimentally validated targets)	upregulated
+NEK7_human_kinase_ARCHS4_coexpression	-1.345693866	7.540087205	0.039509962	0.003686336	"['KANK2', 'TAGLN', 'TPM2', 'ADAM33', 'PDCD1LG2', 'BIVM-ERCC5', 'CYR61', 'CSRP1', 'ADAMTS1', 'RAB23', 'FLNA', 'SLIT3', 'FLNC', 'MYL9', 'FERMT2', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+ROCK2_human_kinase_ARCHS4_coexpression	-1.394754302	7.814978824	0.039509962	0.003686336	"['SVIL', 'SEPT10', 'SYNM', 'SYNPO2', 'TPM2', 'PDE4D', 'GLP2R', 'LIFR', 'BIVM-ERCC5', 'KLHL41', 'DMD', 'A2M', 'UTRN', 'AC096949.1', 'FERMT2', 'PRKG1']"	ARCHS4 (coexpressed genes)	downregulated
+DYRK1B_human_kinase_ARCHS4_coexpression	-1.509788865	8.459531542	0.039509962	0.003686336	"['SVIL', 'HSPB6', 'TPM2', 'HSPB8', 'FHL1', 'KLHL41', 'TRDN', 'JPH2', 'PDLIM3', 'DES', 'MYL1', 'TCEA3', 'HOMER2P2', 'SPEG', 'ASB2', 'CAP2']"	ARCHS4 (coexpressed genes)	downregulated
+EPHA7_human_kinase_ARCHS4_coexpression	-1.53456771	8.59837044	0.039509962	0.003686336	"['KHDRBS2', 'SORBS2', 'PTPRD', 'REEP1', 'EPB41L5', 'LRCH2', 'NBEA', 'ADGRB3', 'MAP1B', 'AKT3', 'COL4A6', 'CACHD1', 'FXYD6', 'DMD', 'SLIT2', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+MUSK_human_kinase_ARCHS4_coexpression	-1.537259149	8.613450901	0.039509962	0.003686336	"['WDR49', 'BNC2', 'SYNPO2', 'TPM2', 'LPAR1', 'HSPB2', 'HIPK3', 'KLHL41', 'ACTA2', 'JPH2', 'RANBP3L', 'PDLIM3', 'ACTC1', 'MYL1', 'CASQ2', 'PRKG1']"	ARCHS4 (coexpressed genes)	downregulated
+TP53RK_human_kinase_ARCHS4_coexpression	-1.476615076	8.273654746	0.039899168	0.003686336	"['RANBP1', 'ZNF593', 'FEN1', 'C11ORF31', 'HN1', 'MIF', 'LAGE3', 'COMTD1', 'ZNHIT2', 'NUDT8', 'TMEM147', 'H3F3AP4', 'EIF4EBP1', 'PAFAH1B3', 'DCTPP1', 'NCBP2-AS2']"	ARCHS4 (coexpressed genes)	upregulated
+AKT3_human_kinase_ARCHS4_coexpression	-1.385534629	7.763319868	0.039509962	0.003686336	"['CADM3', 'DGKB', 'CACNA2D1', 'SLC8A1', 'STXBP5L', 'PTPRD', 'RIMS1', 'KATNAL1', 'NBEA', 'ADGRB3', 'MAP1B', 'DPYSL3', 'CNTN1', 'NCAM1', 'CDR1', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+FGFR4_human_kinase_ARCHS4_coexpression	-1.454307687	8.148663719	0.039899168	0.003686336	"['PALM3', 'PYCR1', 'LSR', 'INHBC', 'NR2F6', 'CAMSAP3', 'EFNA2', 'SAPCD2', 'RNF128', 'MMP15', 'FASN', 'KIAA1522', 'APOC1', 'SLC25A10', 'SEPHS2', 'CRB3']"	ARCHS4 (coexpressed genes)	upregulated
+MET_human_kinase_ARCHS4_coexpression	-1.398267531	7.834663875	0.039899168	0.003686336	"['LRRC59', 'WWC1', 'AMIGO2', 'KRT7', 'DKK1', 'LMNB2', 'KLF5', 'ADAM15', 'IRAK1', 'PSMD2', 'GIPC1', 'B3GNT3', 'AP1S1', 'MAL2', 'CALR', 'AGRN']"	ARCHS4 (coexpressed genes)	upregulated
+RPS6KA2_human_kinase_ARCHS4_coexpression	-1.269807363	7.114885851	0.039509962	0.003686336	"['KANK2', 'SRPX', 'TAGLN', 'PTGIS', 'HSPB6', 'LPAR1', 'ADAM33', 'DCN', 'MFAP4', 'CSRP1', 'ADAMTS1', 'ITGA7', 'SLIT3', 'MYL9', 'PAMR1', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+TTBK2_human_kinase_ARCHS4_coexpression	-1.39353371	7.808139696	0.039509962	0.003686336	"['SH3GL3', 'CADM3', 'SLC8A1', 'STXBP5L', 'PTPRD', 'RIMS1', 'SPZ1', 'NBEA', 'MAP1B', 'AKT3', 'CCDC7', 'CNTN1', 'MICU3', 'NCAM1', 'DYNC1I1', 'ANKS1B']"	ARCHS4 (coexpressed genes)	downregulated
+SRPK1_human_kinase_ARCHS4_coexpression	-1.338154408	6.365434498	0.081077107	0.008592411	"['RANBP1', 'FEN1', 'CDCA5', 'HMGA1', 'CDC6', 'MKI67', 'ZWINT', 'CDC25A', 'LMNB2', 'NME1', 'CDC20', 'CCNA2', 'KIF2C', 'FAM72D', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+GRK5_human_kinase_ARCHS4_coexpression	-1.35290419	6.43559738	0.085514945	0.008592411	"['KANK2', 'FOXF1', 'ADAM33', 'ARHGAP6', 'DCN', 'PTGS1', 'MFAP4', 'SDPR', 'MRVI1', 'SLIT3', 'PDE5A', 'TEK', 'MYL9', 'PAMR1', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+BCKDK_human_kinase_ARCHS4_coexpression	-1.372561726	6.529105839	0.081077107	0.008592411	"['ZNF593', 'ECHS1', 'DCXR', 'MIF', 'JOSD2', 'MRPL12', 'PKMYT1', 'MYDGF', 'COMTD1', 'TMEM147', 'CFL1', 'EIF4EBP1', 'TSPO', 'RP11-343C2.11', 'SLC25A10']"	ARCHS4 (coexpressed genes)	upregulated
+EPHA2_human_kinase_ARCHS4_coexpression	-1.341670589	6.382160534	0.081077107	0.008592411	"['LRRC59', 'AMIGO2', 'HMGA1', 'KRT7', 'DKK1', 'LMNB2', 'KLF5', 'ADAM15', 'IRAK1', 'PSMD2', 'GIPC1', 'KIAA1522', 'AP1S1', 'CALR', 'AGRN']"	ARCHS4 (coexpressed genes)	upregulated
+GSG2_human_kinase_ARCHS4_coexpression	-1.209638711	5.754101271	0.081077107	0.008592411	"['RANBP1', 'FEN1', 'CDCA5', 'CDC6', 'PKMYT1', 'ZWINT', 'CDC25A', 'LMNB2', 'CDC20', 'CCNA2', 'SAPCD2', 'IRAK1', 'E2F1', 'KIF2C', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+CDK5_human_kinase_ARCHS4_coexpression	-1.375648203	6.543787832	0.081077107	0.008592411	"['ECHS1', 'PODXL2', 'HN1', 'JOSD2', 'MRPL12', 'LAGE3', 'HSD17B10', 'NME1', 'TMEM238', 'CFL1', 'EIF4EBP1', 'AP1S1', 'STRA13', 'ATP6V0E2', 'PAFAH1B3']"	ARCHS4 (coexpressed genes)	upregulated
+MAST2_human_kinase_ARCHS4_coexpression	-1.359906881	6.468908315	0.085514945	0.008592411	"['SVIL', 'HSPB6', 'TPM2', 'HSPB8', 'FHL1', 'KLHL41', 'TRDN', 'SMTN', 'JPH2', 'PDLIM3', 'DES', 'TCEA3', 'SPEG', 'FLNC', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+FGFR2_human_kinase_ARCHS4_coexpression	-1.3929229	6.625961418	0.085514945	0.008592411	"['EPHA7', 'DTNA', 'PKDCC', 'NLGN4X', 'AQP1', 'PTPRD', 'SFRP1', 'SFRP2', 'ADAMTS19', 'COL4A6', 'CACHD1', 'CKB', 'CRYAB', 'AASS', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K8	-1.673949768	7.523465008	0.2425	0.011170947	"['EIF4EBP1', 'CDK1', 'HIST1H2BB']"	KEA (experimentally validated targets)	upregulated
+CDK1	-1.957378468	8.473766875	0.2425	0.013178867	"['TOP2A', 'CEBPA', 'FEN1', 'CDCA5', 'KRT8', 'HMGA1', 'MKI67', 'CDC25A', 'LMNB2', 'NME1', 'CDC20', 'TFPT', 'MUC1', 'KRT18', 'EIF4EBP1', 'CDK1', 'E2F1', 'BIRC5', 'KIF2C', 'TK1', 'PPFIA3']"	KEA (experimentally validated targets)	upregulated
+CDK7	-1.275638463	5.376313689	0.2425	0.014778141	"['E2F1', 'CDK1', 'MCM2']"	KEA (experimentally validated targets)	upregulated
+MAP2K2	-1.039662334	4.311921636	0.191666667	0.015805061	"['DUSP1', 'FOS']"	KEA (experimentally validated targets)	downregulated
+RPS6KB1_human_kinase_ARCHS4_coexpression	-1.347880029	5.356196604	0.160909938	0.018801976	"['KRT8', 'HID1', 'SLC9A2', 'SLC9A3R1', 'ALDH3B2', 'KRT18', 'SAPCD2', 'FASN', 'KIAA1522', 'AP1S1', 'MAL2', 'AL589743.1', 'CYB561', 'AP1M2']"	ARCHS4 (coexpressed genes)	upregulated
+ACVR1B_human_kinase_ARCHS4_coexpression	-1.384426583	5.501425056	0.160909938	0.018801976	"['CDS1', 'ST14', 'TMEM132A', 'LMTK3', 'ACTL8', 'HID1', 'CAMSAP3', 'FAM155B', 'MMP15', 'KIAA1522', 'MYH14', 'ATP13A2', 'RAB11FIP4', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+EPHA4_human_kinase_ARCHS4_coexpression	-1.311461806	5.211478116	0.157184523	0.018801976	"['KHDRBS2', 'EPHA6', 'C2ORF66', 'PHYHIP', 'PTPRD', 'LRCH2', 'MAP1B', 'AKT3', 'COL4A6', 'NCAM1', 'CKB', 'SLIT2', 'ANKS1B', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+CDK16_human_kinase_ARCHS4_coexpression	-1.285988377	5.110251976	0.160909938	0.018801976	"['PAQR4', 'PODXL2', 'MRPL12', 'LMNB2', 'SLC6A8', 'ADAM15', 'IRAK1', 'FASN', 'GIPC1', 'E2F1', 'AP1S1', 'RAC3', 'ATP13A2', 'SLC25A10']"	ARCHS4 (coexpressed genes)	upregulated
+FGFR1_human_kinase_ARCHS4_coexpression	-1.288770128	5.12130608	0.157184523	0.018801976	"['KANK2', 'SEPT10', 'PKDCC', 'NLGN4X', 'ADAM33', 'SFRP1', 'SFRP2', 'ADAMTS19', 'DPYSL3', 'COL4A6', 'CACHD1', 'ROR1', 'FERMT2', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+NRK_human_kinase_ARCHS4_coexpression	-1.342750458	5.335812752	0.157184523	0.018801976	"['COL14A1', 'TPM2', 'CEP85L', 'KLHL41', 'METTL21C', 'MYL1', 'TCEA3', 'OGN', 'CASQ2', 'COL21A1', 'DMD', 'FLNC', 'PRKG1', 'MATN2']"	ARCHS4 (coexpressed genes)	downregulated
+ACVRL1_human_kinase_ARCHS4_coexpression	-1.330770842	5.288208233	0.157184523	0.018801976	"['KANK2', 'SRPX', 'TNXB', 'SCARA5', 'ADAM33', 'SELE', 'AQP1', 'MFAP4', 'SMTN', 'MMRN1', 'TEK', 'MS4A12', 'DUOX2', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+DCLK2_human_kinase_ARCHS4_coexpression	-1.297063247	5.15426122	0.157184523	0.018801976	"['CADM3', 'DTNA', 'LIFR', 'ATP1A2', 'PTN', 'PTPRD', 'ADGRB3', 'DPYSL3', 'SPARCL1', 'FXYD6', 'NCAM1', 'TNIK', 'MAPK4', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK10_human_kinase_ARCHS4_coexpression	-1.315200024	5.226333021	0.157184523	0.018801976	"['CADM3', 'DGKB', 'ELAVL2', 'STXBP5L', 'PTPRD', 'REEP1', 'ADGRB3', 'MAP1B', 'CNTN1', 'FXYD6', 'NCAM1', 'DYNC1I1', 'ANKS1B', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+BMPR2_human_kinase_ARCHS4_coexpression	-1.301962782	5.173730958	0.157184523	0.018801976	"['CACNA2D1', 'LIFR', 'SORBS1', 'SLC8A1', 'STXBP5L', 'PTPRD', 'RCAN2', 'AKT3', 'CNTN1', 'SPARCL1', 'MICU3', 'NCAM1', 'CDR1', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+NTRK2_human_kinase_ARCHS4_coexpression	-1.220854385	4.851422957	0.157184523	0.018801976	"['CADM3', 'DTNA', 'LIFR', 'ATP1A2', 'PTN', 'PTPRD', 'RANBP3L', 'ADGRB3', 'CNTN1', 'SPARCL1', 'NCAM1', 'TNIK', 'MAPK4', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+WEE1_human_kinase_ARCHS4_coexpression	-1.331601378	5.291508612	0.160909938	0.018801976	"['TOP2A', 'CDCA5', 'CDC6', 'MKI67', 'CDC25A', 'CDC20', 'CCNA2', 'CDK1', 'BIRC5', 'FAM64A', 'HMGB3P4', 'KIF2C', 'OIP5', 'KPNA2']"	ARCHS4 (coexpressed genes)	upregulated
+CHEK2	-1.220233251	4.838197038	0.2425	0.018968469	"['CDS1', 'E2F1', 'CDC25A']"	KEA (experimentally validated targets)	upregulated
+ILK	-1.094876245	4.057600185	0.191666667	0.02457588	"['PPP1R14A', 'AKT3']"	KEA (experimentally validated targets)	downregulated
+MYLK4	2.237337149	-8.25326704	0.191666667	0.025	['MYL9']	KEA (experimentally validated targets)	downregulated
+MYLK3	1.794797436	-6.620791387	0.191666667	0.025	['MYL9']	KEA (experimentally validated targets)	downregulated
+WEE2	4.956036755	-18.28222216	0.2425	0.025	['CDK1']	KEA (experimentally validated targets)	upregulated
+CIT	0.904820335	-3.337773145	0.191666667	0.025	['MYL9']	KEA (experimentally validated targets)	downregulated
+PKDCC	5.892638799	-21.7372342	0.191666667	0.025	['PKDCC']	KEA (experimentally validated targets)	downregulated
+TEK	7.755097119	-28.60761843	0.191666667	0.025	['TEK']	KEA (experimentally validated targets)	downregulated
+EPHA6	6.52356973	-24.06466235	0.191666667	0.025	['EPHA6']	KEA (experimentally validated targets)	downregulated
+ROR1	6.335425375	-23.3706205	0.191666667	0.025	['ROR1']	KEA (experimentally validated targets)	downregulated
+NEK11	2.352504634	-8.678106011	0.2425	0.025	['CDC25A']	KEA (experimentally validated targets)	upregulated
+EPHB6	4.119571415	-15.19660235	0.2425	0.025	['EPHB6']	KEA (experimentally validated targets)	upregulated
+PKMYT1	4.03227395	-14.87457253	0.2425	0.025	['CDK1']	KEA (experimentally validated targets)	upregulated
+MAPK1	-1.343404793	4.480418109	0.216314863	0.035610262	"['JUN', 'BTG2', 'MYOCD', 'DUSP1', 'PDE4D', 'PLA2G4A', 'LIFR', 'FOS', 'NR4A1', 'ZFP36', 'MAP1B', 'GRB10', 'ASB2', 'CRYAB']"	KEA (experimentally validated targets)	downregulated
+MAPK8_human_kinase_ARCHS4_coexpression	-1.272045099	4.142487726	0.263962109	0.038520786	"['CACNA2D1', 'MSANTD3-TMEFF1', 'ELAVL2', 'PTPRD', 'REEP1', 'KATNAL1', 'NBEA', 'MAP1B', 'DPYSL3', 'FXYD6', 'NCAM1', 'ANKS1B', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+DCLK1_human_kinase_ARCHS4_coexpression	-1.26844802	4.130773633	0.263962109	0.038520786	"['CADM3', 'DTNA', 'CACNA2D1', 'PTN', 'PHYHIP', 'PTPRD', 'DPYSL3', 'CNTN1', 'SPARCL1', 'NCAM1', 'TNIK', 'DYNC1I1', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+RPS6KC1_human_kinase_ARCHS4_coexpression	-1.267371844	4.127269006	0.263962109	0.038520786	"['RP11-73M18.2', 'FAM13B', 'DGKB', 'PLA2G4A', 'SORBS2', 'LIFR', 'BTBD10', 'SLC8A1', 'RANBP3L', 'BBS9', 'AC096949.1', 'FERMT2', 'DYNC1I1']"	ARCHS4 (coexpressed genes)	downregulated
+HIPK2_human_kinase_ARCHS4_coexpression	-1.199003602	3.904623909	0.263962109	0.038520786	"['CADM3', 'DTNA', 'PRUNE2', 'LPAR1', 'ATP1A2', 'SORBS1', 'PHYHIP', 'ADCY5', 'PTPRD', 'SPARCL1', 'NCAM1', 'CRYAB', 'MAPK4']"	ARCHS4 (coexpressed genes)	downregulated
+VRK1_human_kinase_ARCHS4_coexpression	-1.226975758	3.995716837	0.295326028	0.038520786	"['FEN1', 'CDCA5', 'MND1', 'CDC6', 'TRIAP1', 'ZWINT', 'NME1', 'CCNA2', 'CDK1', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5']"	ARCHS4 (coexpressed genes)	upregulated
+CHEK1_human_kinase_ARCHS4_coexpression	-1.258084273	4.097023497	0.295326028	0.038520786	"['FEN1', 'CDCA5', 'MND1', 'CDC6', 'ZWINT', 'CDC25A', 'NME1', 'CCNA2', 'BIRC5', 'FAM64A', 'KIF2C', 'OIP5', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+PRKACB_human_kinase_ARCHS4_coexpression	-1.194972343	3.891495882	0.263962109	0.038520786	"['CADM3', 'PRUNE2', 'PHYHIP', 'SLC8A1', 'STXBP5L', 'PTPRD', 'RIMS1', 'RCAN2', 'CNTN1', 'SPARCL1', 'MICU3', 'DYNC1I1', 'ANKS1B']"	ARCHS4 (coexpressed genes)	downregulated
+EPHA1_human_kinase_ARCHS4_coexpression	-1.325300448	4.315916821	0.295326028	0.038520786	"['PALM3', 'HMGA1', 'CBLC', 'KLHDC7A', 'LSR', 'CDC6', 'CDC25A', 'SPINT1', 'RAB25', 'SCNN1A', 'PRSS8', 'AP1M2', 'CRB3']"	ARCHS4 (coexpressed genes)	upregulated
+EGFR_human_kinase_ARCHS4_coexpression	-1.164152636	3.791129743	0.263962109	0.038520786	"['SRPX', 'DTNA', 'EYA4', 'KRT5', 'PTN', 'KRT17', 'PMP22', 'GRB10', 'SPARCL1', 'FLNA', 'ITGA7', 'CRYAB', 'MATN2']"	ARCHS4 (coexpressed genes)	downregulated
+ERN2_human_kinase_ARCHS4_coexpression	-1.391121334	4.530266308	0.295326028	0.038520786	"['CDS1', 'ST14', 'ITLN1', 'FOXJ1', 'KRT20', 'TMEM125', 'KLF5', 'TMEM54', 'PRR15L', 'SCNN1A', 'B3GNT3', 'MYH14', 'CAPS']"	ARCHS4 (coexpressed genes)	upregulated
+SGK2_human_kinase_ARCHS4_coexpression	-1.217567867	3.965079502	0.295326028	0.038520786	"['CEBPA', 'SOWAHB', 'KRT20', 'INHBC', 'RNF128', 'TMEM54', 'TST', 'SCD', 'PRR15L', 'RP11-400G3.5', 'APOC1', 'MYH14', 'UGT1A4']"	ARCHS4 (coexpressed genes)	upregulated
+PRKD1_human_kinase_ARCHS4_coexpression	-1.342791084	4.37287608	0.263962109	0.038520786	"['HFM1', 'FAM13B', 'PRUNE2', 'IFIT6P', 'ARHGAP6', 'STXBP5L', 'CYP39A1', 'ADGRB3', 'ZNF418', 'GRB10', 'COL21A1', 'TLL1', 'GTF2H2B']"	ARCHS4 (coexpressed genes)	downregulated
+TAOK1_human_kinase_ARCHS4_coexpression	-1.312340293	4.273711335	0.263962109	0.038520786	"['RP11-123K3.4', 'SYNM', 'LMOD1', 'LIFR', 'RP11-403I13.4', 'SLC8A1', 'PTPRD', 'BMS1P7', 'NBEA', 'AKT3', 'CTD-2547E10.6', 'UTRN', 'CDR1']"	ARCHS4 (coexpressed genes)	downregulated
+ACVR2B_human_kinase_ARCHS4_coexpression	-1.337116354	4.354395997	0.263962109	0.038520786	"['NLGN4X', 'MSANTD3-TMEFF1', 'TMEM252', 'ELAVL2', 'SFRP1', 'SFRP2', 'ZEB1', 'ADAMTS19', 'DPYSL3', 'ZNF208', 'CACHD1', 'ROR1', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+EPHA3_human_kinase_ARCHS4_coexpression	-1.403704424	4.571243861	0.263962109	0.038520786	"['KHDRBS2', 'NLGN4X', 'CACNA2D1', 'SORBS2', 'ELAVL2', 'PTPRD', 'EPB41L5', 'ZEB1', 'ADGRB3', 'MAP1B', 'IL1RAPL1', 'NCAM1', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+PAK5_human_kinase_ARCHS4_coexpression	-1.299238818	4.231045632	0.263962109	0.038520786	"['MSANTD3-TMEFF1', 'SOBP', 'ELAVL2', 'PTPRD', 'REEP1', 'NBEA', 'MAP1B', 'DPYSL3', 'AKT3', 'FXYD6', 'NCAM1', 'ANKS1B', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+MINK1	0.182054412	-0.583522329	0.216314863	0.04055045	"['ACTA2', 'MAP1B']"	KEA (experimentally validated targets)	downregulated
+PKN1	0.019686146	-0.063098199	0.216314863	0.04055045	"['PPP1R14A', 'CRYAB']"	KEA (experimentally validated targets)	downregulated
+MTOR	-0.780760308	2.409242297	0.216314863	0.045695095	"['JUN', 'MAP1B', 'DPYSL3', 'GRB10', 'FLNA']"	KEA (experimentally validated targets)	downregulated
+PLK1	-1.144578468	3.531899393	0.342106659	0.045695095	"['TOP2A', 'CDS1', 'BIRC5', 'CDC6', 'PKMYT1']"	KEA (experimentally validated targets)	upregulated
+DAPK3	0.0438354	-0.134461018	0.216314863	0.046541674	"['PPP1R14A', 'MYL9']"	KEA (experimentally validated targets)	downregulated
+MAPK15	6.313752123	-18.99357446	0.216314863	0.049376219	['JUN']	KEA (experimentally validated targets)	downregulated
+TTN	6.776071407	-20.38436326	0.216314863	0.049376219	['FLNA']	KEA (experimentally validated targets)	downregulated
+TIE1	8.323396312	-25.03915969	0.216314863	0.049376219	['TEK']	KEA (experimentally validated targets)	downregulated
+BUB1	3.628367602	-10.91516881	0.342106659	0.049376219	['CDC20']	KEA (experimentally validated targets)	upregulated
+TNIK	12.41233529	-37.33985909	0.216314863	0.049376219	['TNIK']	KEA (experimentally validated targets)	downregulated
+TESK2	6.462934065	-19.44235647	0.342106659	0.049376219	['CFL1']	KEA (experimentally validated targets)	upregulated
+IRAK3	5.33050352	-16.03568109	0.342106659	0.049376219	['IRAK1']	KEA (experimentally validated targets)	upregulated
+PAK2	0.701604434	-2.063151627	0.220937969	0.052832993	"['JUN', 'MYL9']"	KEA (experimentally validated targets)	downregulated
+ATR	-0.764465541	2.191160804	0.366055211	0.056911095	"['CDS1', 'CDKN2A', 'E2F1', 'MCM2']"	KEA (experimentally validated targets)	upregulated
+RPS6KA2	0.676867809	-1.911044706	0.237622885	0.059405721	"['FLNA', 'FOS']"	KEA (experimentally validated targets)	downregulated
+AURKA	-0.530006863	1.487778748	0.366055211	0.060380241	"['WWC1', 'HIST2H3C', 'MCM2']"	KEA (experimentally validated targets)	upregulated
+TESK1	4.424234677	-11.57080084	0.373717959	0.07314419	['CFL1']	KEA (experimentally validated targets)	upregulated
+PIK3CG	8.399530324	-21.96748131	0.280386062	0.07314419	['TPM2']	KEA (experimentally validated targets)	downregulated
+PLK3	0.003625075	-0.009471821	0.373717959	0.073324368	"['TOP2A', 'CDC25A']"	KEA (experimentally validated targets)	upregulated
+TXK_human_kinase_ARCHS4_coexpression	-1.197688192	3.12346654	0.433826155	0.073688175	"['DOCK11', 'ZFP36', 'DUSP1', 'GPR171', 'THEMIS', 'RP11-62H7.3', 'AC013264.1', 'FOS', 'CD69', 'UTRN', 'SYTL3', 'CTD-2140B24.4']"	ARCHS4 (coexpressed genes)	downregulated
+MARK1_human_kinase_ARCHS4_coexpression	-1.179898065	3.077071438	0.433826155	0.073688175	"['PTPRD', 'REEP1', 'EPHA7', 'NLGN4X', 'NBEA', 'ADGRB3', 'MAP1B', 'FXYD6', 'NCAM1', 'MSANTD3-TMEFF1', 'ELAVL2', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+ROS1_human_kinase_ARCHS4_coexpression	-1.174857641	3.06392645	0.433826155	0.073688175	"['KANK2', 'IL33', 'IGSF10', 'MFAP4', 'SLC46A2', 'KRT16P2', 'KRT17', 'ADH1B', 'CRTAC1', 'A2M', 'AQP1', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+SGK1_human_kinase_ARCHS4_coexpression	-1.14539556	2.987091908	0.433826155	0.073688175	"['ARHGAP10', 'NR4A1', 'JUN', 'ZFP36', 'ADAMTS1', 'PDE4D', 'GLP2R', 'PLA2G4A', 'FOSB', 'A2M', 'ITM2A', 'ATF3']"	ARCHS4 (coexpressed genes)	downregulated
+TNIK_human_kinase_ARCHS4_coexpression	-1.14887896	2.996176311	0.433826155	0.073688175	"['PTPRD', 'DTNA', 'NLGN4X', 'ADGRB3', 'CACNA2D1', 'DPYSL3', 'AKT3', 'LIFR', 'NCAM1', 'PTN', 'ADCY5', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+STK17B_human_kinase_ARCHS4_coexpression	-1.120943232	2.923322364	0.433826155	0.073688175	"['DOCK11', 'DUSP1', 'GZMA', 'FGL2', 'GPR171', 'TRAF5', 'THEMIS', 'FAM129A', 'AC013264.1', 'CD69', 'SYTL3', 'TRAV29DV5']"	ARCHS4 (coexpressed genes)	downregulated
+LATS2_human_kinase_ARCHS4_coexpression	-1.161686535	3.029577352	0.433826155	0.073688175	"['KANK2', 'ARHGAP10', 'TAGLN', 'ADAMTS1', 'TPM2', 'KIAA0125P1', 'FLNA', 'FLNC', 'RP11-1305N21.3', 'MYL9', 'FERMT2', 'CYR61']"	ARCHS4 (coexpressed genes)	downregulated
+ROR2_human_kinase_ARCHS4_coexpression	-1.200873531	3.131773627	0.433826155	0.073688175	"['SEPT10', 'ARL4D', 'SFRP1', 'PKDCC', 'COL14A1', 'SEMA3A', 'KLHDC1', 'COL4A6', 'RHOBTB3', 'LIFR', 'FERMT2', 'PRIMA1']"	ARCHS4 (coexpressed genes)	downregulated
+KALRN_human_kinase_ARCHS4_coexpression	-1.162180994	3.030866857	0.433826155	0.073688175	"['PTPRD', 'CADM3', 'CACNA2D1', 'MAP1B', 'RCAN2', 'SPARCL1', 'ATP1A2', 'NCAM1', 'PHYHIP', 'ANKS1B', 'ADGRL3', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK9_human_kinase_ARCHS4_coexpression	-1.231169419	3.210782664	0.493040878	0.073688175	"['HIST3H2A', 'HIST2H3A', 'HIST1H2BO', 'PODXL2', 'HIST1H4L', 'HIST3H2BA', 'HIST1H3B', 'HIST2H3D', 'HIST1H2BB', 'HIST1H3C', 'HIST2H3C', 'HIST1H2AB']"	ARCHS4 (coexpressed genes)	upregulated
+EPHA8_human_kinase_ARCHS4_coexpression	-1.463805681	3.817477785	0.493040878	0.073688175	"['CAMSAP3', 'COMTD1', 'PODXL2', 'RPS19BP1', 'RAC3', 'ATP13A2', 'MANEAL', 'CTB-60B18.10', 'ACTL8', 'FAM71E1', 'CDC25A', 'BOLA2B']"	ARCHS4 (coexpressed genes)	upregulated
+ADCK2_human_kinase_ARCHS4_coexpression	-1.26469832	3.298223119	0.493040878	0.073688175	"['PAQR4', 'SAPCD2', 'ADAM15', 'IRAK1', 'GIPC1', 'DCXR', 'AP1S1', 'RAC3', 'SLC25A10', 'MRPL12', 'C17ORF96', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+IRAK1_human_kinase_ARCHS4_coexpression	-1.243288112	3.242387162	0.493040878	0.073688175	"['LRRC59', 'SAPCD2', 'ADAM15', 'GIPC1', 'E2F1', 'AP1S1', 'PYCR1', 'SLC25A10', 'CALR', 'MRPL12', 'LMNB2', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+EPHA5_human_kinase_ARCHS4_coexpression	-1.226943209	3.199761078	0.433826155	0.073688175	"['PTPRD', 'REEP1', 'KHDRBS2', 'NBEA', 'MAP1B', 'AKT3', 'FXYD6', 'NCAM1', 'DYNC1I1', 'ELAVL2', 'ANKS1B', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+PRKDC_human_kinase_ARCHS4_coexpression	-1.159028445	3.022645285	0.493040878	0.073688175	"['CCNA2', 'FEN1', 'HIST1H2AH', 'CDCA5', 'E2F1', 'KIF2C', 'CDC6', 'HIST1H3B', 'MKI67', 'CDC25A', 'LMNB2', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK13_human_kinase_ARCHS4_coexpression	-1.213303602	3.16419017	0.493040878	0.073688175	"['ST14', 'KLF5', 'SPINT1', 'TMEM54', 'SLC31A2', 'PRR15L', 'B3GNT3', 'CBLC', 'MYH14', 'TREM2', 'PRSS8', 'S100A11']"	ARCHS4 (coexpressed genes)	upregulated
+CDC7_human_kinase_ARCHS4_coexpression	-1.208858979	3.15259898	0.493040878	0.073688175	"['CCNA2', 'FEN1', 'CDCA5', 'CDK1', 'BIRC5', 'FAM64A', 'KIF2C', 'MND1', 'CDC6', 'ZWINT', 'CDC25A', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+RPS6KA1	-0.177359384	0.449044363	0.285329277	0.07951313	"['NR4A1', 'KRT17', 'FLNA', 'FOS']"	KEA (experimentally validated targets)	downregulated
+MAP2K1	0.885781897	-2.230224711	0.285329277	0.080636535	"['DUSP1', 'HSPB8']"	KEA (experimentally validated targets)	downregulated
+RPS6KC1	0.707644715	-1.659131327	0.295378456	0.095887239	"['FLNA', 'FOS']"	KEA (experimentally validated targets)	downregulated
+RPS6KL1	0.813654143	-1.907679164	0.295378456	0.095887239	"['FLNA', 'FOS']"	KEA (experimentally validated targets)	downregulated
+IRAK2	5.459543184	-12.77581717	0.373717959	0.096319062	['IRAK1']	KEA (experimentally validated targets)	upregulated
+LIMK1	4.279906873	-10.01536316	0.373717959	0.096319062	['CFL1']	KEA (experimentally validated targets)	upregulated
+CDK8	3.018249116	-7.062971675	0.373717959	0.096319062	['E2F1']	KEA (experimentally validated targets)	upregulated
+PIK3CA	7.439009524	-17.40794465	0.295378456	0.096319062	['TPM1']	KEA (experimentally validated targets)	downregulated
+NME1	6.138434244	-14.36448269	0.373717959	0.096319062	['NME1']	KEA (experimentally validated targets)	upregulated
+MYLK	5.307216323	-12.41935875	0.295378456	0.096319062	['MYL9']	KEA (experimentally validated targets)	downregulated
+WEE1	5.848877944	-13.68689517	0.373717959	0.096319062	['CDK1']	KEA (experimentally validated targets)	upregulated
+CDC7	4.406841385	-10.31240123	0.373717959	0.096319062	['MCM2']	KEA (experimentally validated targets)	upregulated
+IRAK4	5.310940527	-12.42807372	0.373717959	0.096319062	['IRAK1']	KEA (experimentally validated targets)	upregulated
+RPS6KA6	0.969496706	-2.123561373	0.315718411	0.111874785	"['FLNA', 'FOS']"	KEA (experimentally validated targets)	downregulated
+PAK1	0.403546208	-0.862156362	0.315718411	0.11807324	"['PPP1R14A', 'FLNA', 'MYL9']"	KEA (experimentally validated targets)	downregulated
+IRAK1	4.789875838	-10.19928018	0.443646678	0.118915604	['IRAK1']	KEA (experimentally validated targets)	upregulated
+MKNK1	7.125020821	-15.1716007	0.315718411	0.118915604	['PLA2G4A']	KEA (experimentally validated targets)	downregulated
+TRPM7	5.615164339	-11.95660102	0.315718411	0.118915604	['TMOD1']	KEA (experimentally validated targets)	downregulated
+ROCK2	1.437291763	-3.046117231	0.315718411	0.120110265	"['PPP1R14A', 'DES']"	KEA (experimentally validated targets)	downregulated
+RPS6KA5	1.538693376	-3.157256505	0.321156552	0.128489574	"['NR4A1', 'PLA2G4A']"	KEA (experimentally validated targets)	downregulated
+PRKCZ	0.784204814	-1.605029829	0.321156552	0.129160787	"['PPP1R14A', 'AKT3', 'NR1H4']"	KEA (experimentally validated targets)	downregulated
+RIOK3_human_kinase_ARCHS4_coexpression	-1.127899711	2.290279245	0.694518585	0.131260689	"['DOCK11', 'SDPR', 'SMG1P2', 'SWT1', 'FGL2', 'FAM129A', 'HBB', 'IFIT6P', 'UTRN', 'RBBP8P1', 'PTGS1']"	ARCHS4 (coexpressed genes)	downregulated
+CLK1_human_kinase_ARCHS4_coexpression	-1.09577183	2.225041336	0.694518585	0.131260689	"['DOCK11', 'JUN', 'BTG2', 'ZFP36', 'RGS2', 'SMG1P2', 'FGL2', 'CEP85L', 'FOSB', 'FOS', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+ACVR1C_human_kinase_ARCHS4_coexpression	-1.083283362	2.199682628	0.694518585	0.131260689	"['EGR1', 'LMBRD1', 'PARM1', 'NBEA', 'DGKB', 'CNTN1', 'MICU3', 'SORBS1', 'HMGCLL1', 'CHRDL1', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+STK25_human_kinase_ARCHS4_coexpression	-1.02064986	2.072500923	0.694518585	0.131260689	"['SMTN', 'JPH2', 'PDLIM3', 'HSPB6', 'TPM2', 'TCEA3', 'FHL1', 'SPEG', 'FLNC', 'ASB2', 'TRDN']"	ARCHS4 (coexpressed genes)	downregulated
+ULK2_human_kinase_ARCHS4_coexpression	-1.142310838	2.319542047	0.694518585	0.131260689	"['PTPRD', 'RIMS1', 'SH3GL3', 'CADM3', 'DTNA', 'MAP1B', 'AKT3', 'NCAM1', 'ELAVL2', 'ANKS1B', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+RNASEL_human_kinase_ARCHS4_coexpression	-1.142490362	2.319906582	0.694518585	0.131260689	"['EEF1A1P5', 'KRT17', 'CSRP1', 'PDE4D', 'GLP2R', 'EYA4', 'BZW1P2', 'PLA2G4A', 'FLNA', 'ADARB1', 'CYR61']"	ARCHS4 (coexpressed genes)	downregulated
+EPHB1_human_kinase_ARCHS4_coexpression	-1.09766951	2.228894707	0.694518585	0.131260689	"['PTPRD', 'REEP1', 'DTNA', 'ADGRB3', 'MAP1B', 'DPYSL3', 'FXYD6', 'NCAM1', 'CKB', 'MSANTD3-TMEFF1', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+STK36_human_kinase_ARCHS4_coexpression	-1.215409154	2.46797329	0.694518585	0.131260689	"['ZBED8', 'PID1', 'C2ORF40', 'ORC3', 'AL135791.1', 'TNIK', 'MSANTD3-TMEFF1', 'RP11-74E24.2', 'CCDC60', 'RPS6P12', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+PLK2_human_kinase_ARCHS4_coexpression	-1.123042594	2.280416529	0.832826444	0.131260689	"['ESM1', 'KRT18', 'SOWAHB', 'PSMD2', 'WWC1', 'AMIGO2', 'TMEM132A', 'KRT8', 'AP1S1', 'SPINT2', 'DKK1']"	ARCHS4 (coexpressed genes)	upregulated
+RPS6KB2_human_kinase_ARCHS4_coexpression	-1.181127689	2.398362376	0.832826444	0.131260689	"['SLC9A3R1', 'COMTD1', 'ADAM15', 'RPS19BP1', 'IRAK1', 'HAGHL', 'CFL1', 'SLC25A10', 'MRPL12', 'INO80B-WBP1', 'YDJC']"	ARCHS4 (coexpressed genes)	upregulated
+POMK_human_kinase_ARCHS4_coexpression	-1.514931483	3.076174327	0.832826444	0.131260689	"['HIST2H2AA3', 'RP11-599B13.6', 'HIST2H3A', 'HIST1H2BO', 'HIST1H2AI', 'SNTG1', 'HIST1H2AH', 'HIST1H3I', 'HIST1H3B', 'HIST2H3C', 'HIST1H2AB']"	ARCHS4 (coexpressed genes)	upregulated
+CAMK2B	0.712233804	-1.41575796	0.471447503	0.13700041	"['KRT18', 'KRT8']"	KEA (experimentally validated targets)	upregulated
+CAMK2B	1.772212866	-3.522753985	0.331685202	0.13700041	"['PPP1R14A', 'FLNA']"	KEA (experimentally validated targets)	downregulated
+GRK6	4.654377376	-9.119613296	0.471447503	0.140948222	['SLC9A3R1']	KEA (experimentally validated targets)	upregulated
+RPS6KB2	3.814931155	-7.474833704	0.471447503	0.140948222	['KRT18']	KEA (experimentally validated targets)	upregulated
+MAPKAPK5	5.125282462	-10.04228714	0.332493243	0.140948222	['PLA2G4A']	KEA (experimentally validated targets)	downregulated
+PRKACB	0.580471724	-1.1188864	0.334660849	0.145504717	"['EGR1', 'ZFP36', 'DES', 'FLNA', 'PLA2G4A']"	KEA (experimentally validated targets)	downregulated
+UHMK1	4.079279616	-7.414099753	0.523165275	0.162430962	['FAM64A']	KEA (experimentally validated targets)	upregulated
+VRK1	4.45381507	-8.094818771	0.355801154	0.162430962	['JUN']	KEA (experimentally validated targets)	downregulated
+NTRK2	6.178400294	-11.22925624	0.355801154	0.162430962	['NCAM1']	KEA (experimentally validated targets)	downregulated
+GSK3B	-0.190358763	0.335314405	0.523165275	0.171789296	"['TOP2A', 'CEBPA', 'KRT8', 'HMGA1', 'CBLC', 'CDC6', 'MKI67', 'CDC25A', 'BCL2L12', 'MUC1', 'KLF5', 'CCNE1', 'EIF4EBP1', 'E2F1', 'PPFIA3', 'HIST1H1B', 'MCM2']"	KEA (experimentally validated targets)	upregulated
+CAMK2D	1.013257694	-1.731177164	0.523165275	0.181132576	"['KRT18', 'KRT8']"	KEA (experimentally validated targets)	upregulated
+CAMK2D	1.995164941	-3.408791274	0.387539466	0.181132576	"['PPP1R14A', 'FLNA']"	KEA (experimentally validated targets)	downregulated
+MAP2K2	3.996489612	-6.778878875	0.523165275	0.183377519	['KRT8']	KEA (experimentally validated targets)	upregulated
+TTK	4.140120707	-7.022507132	0.523165275	0.183377519	['CDS1']	KEA (experimentally validated targets)	upregulated
+CAMK2G	1.100498812	-1.826461622	0.527132079	0.190202297	"['KRT18', 'KRT8']"	KEA (experimentally validated targets)	upregulated
+CAMK2G	1.88597691	-3.130093742	0.397695711	0.190202297	"['PPP1R14A', 'FLNA']"	KEA (experimentally validated targets)	downregulated
+TEC	6.678358693	-10.62266427	0.407602501	0.20380125	['TEK']	KEA (experimentally validated targets)	downregulated
+PRKG2	6.083346562	-9.676232013	0.407602501	0.20380125	['PRKG1']	KEA (experimentally validated targets)	downregulated
+GSK3A	0.944993517	-1.481529191	0.542509313	0.208510368	"['CEBPA', 'CCNE1']"	KEA (experimentally validated targets)	upregulated
+CASK_human_kinase_ARCHS4_coexpression	-1.075374535	1.642132017	0.999513231	0.217179161	"['PTPRD', 'NLGN4X', 'TGFB3', 'MAP1B', 'DPYSL3', 'LIFR', 'NCAM1', 'PTN', 'TNIK', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+EPHB2_human_kinase_ARCHS4_coexpression	-1.051327074	1.605410758	0.999513231	0.217179161	"['PTPRD', 'SHH', 'MAP1B', 'DPYSL3', 'COL4A6', 'NCAM1', 'PTN', 'MSANTD3-TMEFF1', 'ELAVL2', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K2_human_kinase_ARCHS4_coexpression	-1.047609991	1.599734651	0.999513231	0.217179161	"['DOCK11', 'RGS2', 'EIF4E3', 'FAM13B', 'SMG1P2', 'FGL2', 'FAM129A', 'AC013264.1', 'UTRN', 'RBBP8P1']"	ARCHS4 (coexpressed genes)	downregulated
+ACVR1_human_kinase_ARCHS4_coexpression	-1.041077984	1.589760064	0.999513231	0.217179161	"['SEPT10', 'ARHGAP10', 'TAGLN', 'EGF', 'SDPR', 'PDE5A', 'PDCD1LG2', 'MYL9', 'PAMR1', 'PTGS1']"	ARCHS4 (coexpressed genes)	downregulated
+CDKL2_human_kinase_ARCHS4_coexpression	-1.038963392	1.586531013	0.999513231	0.217179161	"['DYNC2H1', 'REEP1', 'EPHA6', 'ADGRB3', 'MAP1B', 'CNTN1', 'FXYD6', 'NCAM1', 'ELAVL2', 'ANKS1B']"	ARCHS4 (coexpressed genes)	downregulated
+CDK14_human_kinase_ARCHS4_coexpression	-1.035034226	1.580531048	0.999513231	0.217179161	"['PTPRD', 'CADM3', 'RCAN2', 'CNTN1', 'SPARCL1', 'MICU3', 'NCAM1', 'PHYHIP', 'SLC8A1', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+CAMK4_human_kinase_ARCHS4_coexpression	-1.033684255	1.578469598	0.999513231	0.217179161	"['PTPRD', 'RIMS1', 'CADM3', 'DGKB', 'RCAN2', 'CNTN1', 'PHYHIP', 'ADCY5', 'CDR1', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+STK24_human_kinase_ARCHS4_coexpression	-1.140134481	1.741022568	0.999513231	0.217179161	"['ST14', 'ZNF185', 'SPINT1', 'TMEM54', 'KIAA1522', 'B3GNT3', 'CBLC', 'MAL2', 'LSR', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+CDC42BPB_human_kinase_ARCHS4_coexpression	-1.183517352	1.807269627	0.999513231	0.217179161	"['ADAM15', 'FASN', 'GIPC1', 'TMEM132A', 'KIAA1522', 'AP1S1', 'ATP13A2', 'AGRN', 'LMNB2', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+EGFR_human_kinase_ARCHS4_coexpression	-1.109144702	1.693700163	0.999513231	0.217179161	"['IRAK1', 'KRT8P8', 'GIPC1', 'WWC1', 'TMEM132A', 'TACSTD2', 'KRT7', 'KRT23', 'CALR', 'VGLL1']"	ARCHS4 (coexpressed genes)	upregulated
+ROCK1	2.015120322	-3.072032269	0.426198634	0.217731911	"['DES', 'MYL9']"	KEA (experimentally validated targets)	downregulated
+PRKCA	0.224047553	-0.340308098	0.542509313	0.218950384	"['TOP2A', 'CDKN2A', 'TACSTD2', 'KRT8', 'KRT20', 'NR2F6', 'SLC9A3R1', 'KRT18', 'CFL1', 'SPP1', 'E2F1', 'BIRC5', 'KIF2C', 'HIST1H2BB']"	KEA (experimentally validated targets)	upregulated
+STK4	4.433646821	-6.638860957	0.542509313	0.22371518	['HIST1H2BB']	KEA (experimentally validated targets)	upregulated
+ZAP70	4.440515916	-6.649146615	0.542509313	0.22371518	['MUC1']	KEA (experimentally validated targets)	upregulated
+CDC42BPA	5.664269443	-8.48157257	0.428787429	0.22371518	['MYL9']	KEA (experimentally validated targets)	downregulated
+CDK6	4.119414847	-6.168335798	0.542509313	0.22371518	['CEBPA']	KEA (experimentally validated targets)	upregulated
+EIF2AK2	3.002041589	-4.245339318	0.575214754	0.243132009	['CDK1']	KEA (experimentally validated targets)	upregulated
+CHEK1	0.630007297	-0.851809946	0.578984225	0.258705839	"['FEN1', 'CDK1', 'KPNA2', 'MKI67', 'CDC25A']"	KEA (experimentally validated targets)	upregulated
+DYRK2	3.032839035	-4.061475117	0.578984225	0.262064122	['EIF4EBP1']	KEA (experimentally validated targets)	upregulated
+DYRK2	3.681476488	-4.930108383	0.482197984	0.262064122	['DPYSL3']	KEA (experimentally validated targets)	downregulated
+MARK2	5.499210632	-7.364356265	0.482197984	0.262064122	['UTRN']	KEA (experimentally validated targets)	downregulated
+PRKCD	0.924146208	-1.235584767	0.578984225	0.26263202	"['MUC1', 'KLF5', 'KRT8', 'NR2F6']"	KEA (experimentally validated targets)	upregulated
+EGFR	1.753512686	-2.305241727	0.483946537	0.268570408	"['ACTC1', 'TEK', 'MYL9']"	KEA (experimentally validated targets)	downregulated
+PRKD1	2.093330145	-2.713637662	0.483946537	0.273534999	"['PPP1R14A', 'JUN']"	KEA (experimentally validated targets)	downregulated
+MINK1	4.369305877	-5.553813523	0.60326362	0.280523594	['SPTBN2']	KEA (experimentally validated targets)	upregulated
+CDK3	5.856218681	-7.443824585	0.486946617	0.280523594	['JUN']	KEA (experimentally validated targets)	downregulated
+MAPK14	1.290192709	-1.601383537	0.492435083	0.289037984	"['RIMS1', 'JUN', 'BTG2', 'ZFP36', 'SMTN', 'HSPB8', 'GRB10', 'FLNA', 'PLA2G4A', 'NCAM1', 'CRYAB', 'MAPK4']"	KEA (experimentally validated targets)	downregulated
+PRKDC	0.842500429	-1.026910919	0.60326362	0.295559608	"['CDS1', 'IGFBP3', 'E2F1', 'EIF4EBP1', 'HMGA1', 'CDC25A']"	KEA (experimentally validated targets)	upregulated
+HIPK2	3.191670626	-3.858445616	0.60326362	0.298522204	['HMGA1']	KEA (experimentally validated targets)	upregulated
+DAPK3	3.303175633	-3.993245241	0.60326362	0.298522204	['HIST1H3B']	KEA (experimentally validated targets)	upregulated
+MAPK11	3.920957359	-4.516107859	0.607269426	0.316071433	['E2F1']	KEA (experimentally validated targets)	upregulated
+PRKCI	4.152439353	-4.782725818	0.607269426	0.316071433	['IRAK1']	KEA (experimentally validated targets)	upregulated
+RPS6KA3	1.164299254	-1.329243278	0.607269426	0.319285987	"['SLC9A3R1', 'HIST1H2BM', 'KRT18', 'WWC1', 'E2F1', 'CDK1', 'KIF2C', 'HIST1H2BB', 'CDC25A', 'GRIN2D']"	KEA (experimentally validated targets)	upregulated
+RPS6KA3	1.439402009	-1.64331931	0.528496348	0.319285987	"['NR4A1', 'PPP1R14A', 'ZFP36', 'MAP1B', 'FLNA', 'PHKB', 'FOS', 'SORBS1', 'MYL9', 'DYNC1I1']"	KEA (experimentally validated targets)	downregulated
+FYN	1.518901722	-1.710316802	0.528496348	0.324320832	"['CNN1', 'GRB10', 'FLNA', 'PTGS2']"	KEA (experimentally validated targets)	downregulated
+MAPKAPK2	2.178475836	-2.420643307	0.528496348	0.329175671	"['ZFP36', 'CRYAB']"	KEA (experimentally validated targets)	downregulated
+MAPKAPK2	1.823164374	-2.025834102	0.609975482	0.329175671	"['KRT18', 'KRT20']"	KEA (experimentally validated targets)	upregulated
+PRKACA_human_kinase_ARCHS4_coexpression	-0.815301641	0.89627425	0.999513231	0.3330988	"['SVIL', 'JPH2', 'HSPB6', 'TPM2', 'HSPB8', 'TCEA3', 'FHL1', 'SPEG', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+PTK2_human_kinase_ARCHS4_coexpression	-0.823127123	0.904876927	0.999513231	0.3330988	"['PTPRD', 'EPB41L5', 'SEPT10', 'DTNA', 'KIAA1586', 'AKT3', 'CNTN1', 'BBS9', 'LIFR']"	ARCHS4 (coexpressed genes)	downregulated
+PLK3_human_kinase_ARCHS4_coexpression	-0.86463509	0.950507306	0.999513231	0.3330988	"['DUSP2', 'BTG2', 'ZFP36', 'SLAMF7', 'FOSB', 'CCL2', 'PTGS2', 'ATF3', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+EPHA8_human_kinase_ARCHS4_coexpression	-1.149631667	1.263808641	0.999513231	0.3330988	"['KRT17P2', 'MAP1B', 'MAPK6PS4', 'DPYSL3', 'RP5-877J2.1', 'MSANTD3-TMEFF1', 'TSPY2', 'SOBP', 'SPATA6']"	ARCHS4 (coexpressed genes)	downregulated
+STRADB_human_kinase_ARCHS4_coexpression	-0.899558144	0.988898783	0.999513231	0.3330988	"['DOCK11', 'TMEM56', 'SMIM1', 'FGL2', 'FAM129A', 'HBB', 'HBA2', 'AC013264.1', 'HBA1']"	ARCHS4 (coexpressed genes)	downregulated
+ILK_human_kinase_ARCHS4_coexpression	-0.911283333	1.001788472	0.999513231	0.3330988	"['RP11-142C4.5', 'SRPX', 'TAGLN', 'EGF', 'SDPR', 'MYL9', 'ARHGAP6', 'PTGS1', 'CORO1C']"	ARCHS4 (coexpressed genes)	downregulated
+PDPK2P_human_kinase_ARCHS4_coexpression	-1.495110867	1.6435995	0.999513231	0.3330988	"['RP11-123K3.4', 'SYNM', 'BMS1P7', 'ENPP7P4', 'SMG1P2', 'CTD-2547E10.6', 'LMOD1', 'RP11-403I13.4', 'LINC00675']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K6_human_kinase_ARCHS4_coexpression	-0.935576749	1.028494617	0.999513231	0.3330988	"['KANK2', 'SMTN', 'TNXB', 'CSRP1', 'FLNA', 'ITGA7', 'MYL9', 'AQP1', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+PDIK1L_human_kinase_ARCHS4_coexpression	-1.073585665	1.180210045	0.999513231	0.3330988	"['REEP1', 'CSNK1G3', 'ZEB1', 'NLGN4X', 'ADGRB3', 'IL1RAPL1', 'FXYD6', 'SORBS2', 'PHKB']"	ARCHS4 (coexpressed genes)	downregulated
+ERBB4_human_kinase_ARCHS4_coexpression	-1.04436231	1.148084339	0.999513231	0.3330988	"['ARL4D', 'NLGN4X', 'NBEA', 'ENPP7P4', 'UBBP5', 'RHOBTB3', 'LIFR', 'CWC27', 'DYNC1I1']"	ARCHS4 (coexpressed genes)	downregulated
+FGFR3_human_kinase_ARCHS4_coexpression	-1.208428258	1.328444682	0.999513231	0.3330988	"['CAMSAP3', 'SLC6A8', 'KLF5', 'MMP15', 'KIAA1522', 'LMTK3', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+BRAF_human_kinase_ARCHS4_coexpression	-0.978571154	1.07575906	0.999513231	0.3330988	"['PTPRD', 'FAM13B', 'DGKB', 'AKT3', 'CNTN1', 'UTRN', 'PLEKHM3', 'SLC8A1', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+AURKC_human_kinase_ARCHS4_coexpression	-1.338366629	1.471288031	0.999513231	0.3330988	"['MAGEA12', 'CCNE1', 'UBE2C', 'RP11-402P6.15', 'MAGEA2', 'KIF2C', 'DPPA5', 'ACTL8', 'TEX19']"	ARCHS4 (coexpressed genes)	upregulated
+SGK2_human_kinase_ARCHS4_coexpression	-0.777340918	0.854543414	0.999513231	0.3330988	"['FABP4', 'C14ORF180', 'NR1H4', 'ME1', 'AOX1', 'MS4A12', 'HSD17B6', 'C4B_2', 'ADH6']"	ARCHS4 (coexpressed genes)	downregulated
+DYRK2_human_kinase_ARCHS4_coexpression	-1.074953662	1.181713905	0.999513231	0.3330988	"['DOCK11', 'TMIGD1', 'SI', 'FGL2', 'CEP85L', 'OLFM4', 'UTRN', 'LINC00675', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+CDK18_human_kinase_ARCHS4_coexpression	-0.983733244	1.081433828	0.999513231	0.3330988	"['CADM3', 'CSRP1', 'SPARCL1', 'ATP1A2', 'PHYHIP', 'CRYAB', 'MAPK4', 'ADCY5', 'PRIMA1']"	ARCHS4 (coexpressed genes)	downregulated
+LRRK2_human_kinase_ARCHS4_coexpression	-0.990936813	1.089352828	0.999513231	0.3330988	"['DOCK11', 'RGS2', 'EIF4E3', 'FGL2', 'FAM129A', 'AC013264.1', 'RP11-814E24.3', 'UTRN', 'RBBP8P1']"	ARCHS4 (coexpressed genes)	downregulated
+PRKG2_human_kinase_ARCHS4_coexpression	-1.032864128	1.135444202	0.999513231	0.3330988	"['PREX2', 'TMIGD1', 'DPY19L2', 'METTL24', 'KIAA1586', 'SI', 'RAVER2', 'KIAA0125P1', 'RP11-339B21.8']"	ARCHS4 (coexpressed genes)	downregulated
+NEK11_human_kinase_ARCHS4_coexpression	-1.043063796	1.146656862	0.999513231	0.3330988	"['DYNC2H1', 'WDR49', 'C2ORF40', 'MORN2', 'BBS9', 'CARF', 'STON1-GTF2A1L', 'CCDC60', 'HIPK3']"	ARCHS4 (coexpressed genes)	downregulated
+TEC_human_kinase_ARCHS4_coexpression	-0.955639009	1.050549382	0.999513231	0.3330988	"['DUSP2', 'MCTP1', 'DUSP1', 'SMG1P2', 'P2RX1', 'ANKAR', 'TRAF5', 'KIAA0125P1', 'CD69']"	ARCHS4 (coexpressed genes)	downregulated
+FLT1_human_kinase_ARCHS4_coexpression	-0.955503466	1.050400378	0.999513231	0.3330988	"['PREX2', 'IL33', 'SMTN', 'ADAMTS1', 'LIFR', 'TEK', 'ITM2A', 'SELE', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK7	5.355404965	-5.885937889	0.528496348	0.33318248	['FOS']	KEA (experimentally validated targets)	downregulated
+GSK3B	1.671383052	-1.800377023	0.531035265	0.340555224	"['JUN', 'MYOCD', 'HSPB8', 'PLA2G4A', 'LIFR', 'SORBS1', 'RIMS1', 'ZFP36', 'DES', 'MAP1B', 'DPYSL3', 'GRB10', 'FLNA', 'NCAM1', 'MAPK4']"	KEA (experimentally validated targets)	downregulated
+CSNK2A2	1.224769247	-1.290097762	0.609975482	0.348771099	"['TOP2A', 'IGFBP3', 'SPP1', 'EIF4EBP1', 'HMGA1', 'CDK1', 'MCM2']"	KEA (experimentally validated targets)	upregulated
+CDK4	4.724553913	-4.961746816	0.609975482	0.349866265	['CEBPA']	KEA (experimentally validated targets)	upregulated
+ERBB2	4.532858779	-4.760427763	0.609975482	0.349866265	['CDK1']	KEA (experimentally validated targets)	upregulated
+IGF1R	1.815958766	-1.833091099	0.609975482	0.36442507	"['MUC1', 'ADAM15', 'CDK1']"	KEA (experimentally validated targets)	upregulated
+PDGFRB	4.484175686	-4.505508851	0.609975482	0.366133436	['MUC1']	KEA (experimentally validated targets)	upregulated
+PLK3	4.149062573	-4.16880146	0.561404602	0.366133436	['JUN']	KEA (experimentally validated targets)	downregulated
+PIM1	4.394570538	-4.415477413	0.609975482	0.366133436	['CDC25A']	KEA (experimentally validated targets)	upregulated
+ATM	1.698764176	-1.661231166	0.609975482	0.376097938	"['CDS1', 'E2F1', 'EIF4EBP1', 'HMGA1', 'CDC25A']"	KEA (experimentally validated targets)	upregulated
+MAP2K1	4.65186139	-4.476715998	0.609975482	0.381994375	['KRT8']	KEA (experimentally validated targets)	upregulated
+PRKAA1	2.532441805	-2.426518957	0.609975482	0.383592829	"['KPNA2', 'HIST1H2BB']"	KEA (experimentally validated targets)	upregulated
+CAMK2A	2.163283966	-2.027919686	0.572358532	0.391634416	"['PPP1R14A', 'FLNA', 'PLA2G4A']"	KEA (experimentally validated targets)	downregulated
+MAPK3	1.955275116	-1.826441087	0.611961001	0.392935614	"['TOP2A', 'CEBPA', 'CDCA5', 'WWC1', 'KRT8', 'EIF4EBP1']"	KEA (experimentally validated targets)	upregulated
+PRKACA	1.869525491	-1.738743943	0.572358532	0.394535722	"['RIMS1', 'PPP1R14A', 'DES', 'HSPB6', 'SI', 'HSPB8', 'PDE4D', 'FLNA', 'KCNN2', 'PDE5A', 'FOS']"	KEA (experimentally validated targets)	downregulated
+CAMK1	5.163809703	-4.764456016	0.572358532	0.397459207	['MYL9']	KEA (experimentally validated targets)	downregulated
+CAMK1	5.163809703	-4.764456016	0.611961001	0.397459207	['KRT18']	KEA (experimentally validated targets)	upregulated
+CSNK1E	2.024220815	-1.864095178	0.572358532	0.398162457	"['RIMS1', 'MAP1B', 'CASQ2', 'MYL9']"	KEA (experimentally validated targets)	downregulated
+CDK2	1.860512197	-1.656694117	0.622119763	0.410470772	"['UHRF1', 'HMGA1', 'CBLC', 'PYCR1', 'CDC6', 'MKI67', 'CDC25A', 'LMNB2', 'CCNA2', 'CCNE1', 'E2F1', 'BIRC5', 'TK1', 'HIST1H1B', 'MCM2']"	KEA (experimentally validated targets)	upregulated
+CSNK2A1	1.963207714	-1.68431329	0.632790603	0.42403494	"['TOP2A', 'IGFBP3', 'SPP1', 'EIF4EBP1', 'HMGA1', 'CDK1', 'BIRC5', 'MCM2']"	KEA (experimentally validated targets)	upregulated
+PRKCA	2.113734124	-1.799713316	0.604087285	0.426800799	"['PPP1R14A', 'RGS5', 'JPH2', 'TAGLN', 'RGS2', 'NLGN4X', 'HSPB8', 'NR1H4', 'FOS', 'MYL9', 'PRKG1', 'AQP1']"	KEA (experimentally validated targets)	downregulated
+PRKCB	2.123323242	-1.769850474	0.605685332	0.43451339	"['NR4A1', 'CNN1', 'PPP1R14A', 'DES', 'MAP1B', 'FLNA', 'MS4A1']"	KEA (experimentally validated targets)	downregulated
+IKBKB	4.805863404	-3.636939199	0.635217381	0.469178851	['FOS']	KEA (experimentally validated targets)	downregulated
+IKBKB	4.705710146	-3.561146094	0.689550735	0.469178851	['CDKN2A']	KEA (experimentally validated targets)	upregulated
+PRKDC	2.270218285	-1.716441392	0.635217381	0.469508499	"['CNN1', 'RIMS1', 'SVIL', 'JUN', 'MAP1B']"	KEA (experimentally validated targets)	downregulated
+KDR_human_kinase_ARCHS4_coexpression	-0.770015316	0.576349833	0.999513231	0.473079708	"['PREX2', 'SMTN', 'MMRN1', 'PMP22', 'LIFR', 'TEK', 'SELE', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+ITK_human_kinase_ARCHS4_coexpression	-0.836095348	0.625810169	0.999513231	0.473079708	"['DOCK11', 'GIMAP1-GIMAP5', 'FGL2', 'GPR171', 'THEMIS', 'AC013264.1', 'SYTL3', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+MAP2K4_human_kinase_ARCHS4_coexpression	-0.80294868	0.601000173	0.999513231	0.473079708	"['CADM3', 'RCAN2', 'CNTN1', 'SPARCL1', 'MICU3', 'PHYHIP', 'DYNC1I1', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+FLT4_human_kinase_ARCHS4_coexpression	-0.798089971	0.597363471	0.999513231	0.473079708	"['SMTN', 'TNXB', 'C7', 'MMRN1', 'ADH1B', 'TEK', 'AQP1', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K8_human_kinase_ARCHS4_coexpression	-0.784982433	0.587552591	0.999513231	0.473079708	"['DUSP2', 'ZFP36', 'RGS2', 'RGS1', 'SLAMF7', 'FOSB', 'PTGS2', 'ATF3']"	ARCHS4 (coexpressed genes)	downregulated
+TIE1_human_kinase_ARCHS4_coexpression	-0.767398949	0.574391505	0.999513231	0.473079708	"['PREX2', 'SRPX', 'SMTN', 'MCTP1', 'MMRN1', 'TEK', 'SELE', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK9_human_kinase_ARCHS4_coexpression	-0.754285548	0.564576238	0.999513231	0.473079708	"['KRT8P47', 'EEF1A1P5', 'PDE4D', 'ID1', 'NR1H4', 'LIFR', 'MAPK4', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+ROR1_human_kinase_ARCHS4_coexpression	-0.739706622	0.553664037	0.999513231	0.473079708	"['SFRP1', 'SFRP2', 'RP11-701H24.9', 'NLGN4X', 'ADAMTS19', 'CACHD1', 'FERMT2', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK11_human_kinase_ARCHS4_coexpression	-1.20348476	0.90079798	0.999513231	0.473079708	"['MEX3A', 'CAMK2N1', 'TMEM132A', 'LMTK3', 'ATP13A2', 'AC255361.1', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+TGFBR2_human_kinase_ARCHS4_coexpression	-0.672171096	0.503114278	0.999513231	0.473079708	"['KANK2', 'SRPX', 'FGL2', 'FAM129A', 'FLNA', 'A2M', 'UTRN', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+CAMKK1_human_kinase_ARCHS4_coexpression	-1.167075602	0.873546039	0.999513231	0.473079708	"['EPHB6', 'CAMK2N1', 'LMTK3', 'ATP6V0E2', 'AC255361.1', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+PIK3R4_human_kinase_ARCHS4_coexpression	-1.16207491	0.869803064	0.999513231	0.473079708	"['CDC20', 'CCNA2', 'CCNE1', 'CDCA5', 'KIF2C', 'CDC6', 'CDC25A', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+CSNK1E_human_kinase_ARCHS4_coexpression	-1.128436447	0.844624964	0.999513231	0.473079708	"['PODXL2', 'FASN', 'TMEM132A', 'RAC3', 'ATP13A2', 'CDC25A', 'LMNB2', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+SCYL1_human_kinase_ARCHS4_coexpression	-1.097070507	0.821147828	0.999513231	0.473079708	"['ADAM15', 'IRAK1', 'FASN', 'GIPC1', 'AP1S1', 'RP11-343C2.11', 'SLC25A10', 'CALR']"	ARCHS4 (coexpressed genes)	upregulated
+STK16_human_kinase_ARCHS4_coexpression	-1.078655321	0.807364219	0.999513231	0.473079708	"['SLC35A2', 'RPS19BP1', 'IRAK1', 'GIPC1', 'AP1S1', 'TSPO', 'JOSD2', 'MRPL12']"	ARCHS4 (coexpressed genes)	upregulated
+FGFR4_human_kinase_ARCHS4_coexpression	-0.843516031	0.631364486	0.999513231	0.473079708	"['SERPINA3', 'F10', 'ID1', 'SLC43A1', 'NR1H4', 'C4B_2', 'A2M', 'ADH6']"	ARCHS4 (coexpressed genes)	downregulated
+SRPK2_human_kinase_ARCHS4_coexpression	-0.858422171	0.642521603	0.999513231	0.473079708	"['REEP1', 'RIMS1', 'SPZ1', 'CCDC7', 'CNTN1', 'AL596220.1', 'FXYD6', 'NCAM1']"	ARCHS4 (coexpressed genes)	downregulated
+PRKCA_human_kinase_ARCHS4_coexpression	-0.781980441	0.585305627	0.999513231	0.473079708	"['CSRP1', 'PDE4D', 'AKT3', 'LPAR1', 'CNTN1', 'SPARCL1', 'ATP1A2', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+AXL_human_kinase_ARCHS4_coexpression	-0.880226883	0.658842242	0.999513231	0.473079708	"['SEPT10', 'CSNK1G3', 'PDE1C', 'BNC2', 'PTPRQ', 'SEMA3A', 'PMP22', 'PDCD1LG2']"	ARCHS4 (coexpressed genes)	downregulated
+NUAK1_human_kinase_ARCHS4_coexpression	-0.893127383	0.668498156	0.999513231	0.473079708	"['JPH2', 'ACTC1', 'MYL1', 'RP11-206L10.8', 'SYNPO2', 'CASQ2', 'RP11-74E24.2', 'LIMS2']"	ARCHS4 (coexpressed genes)	downregulated
+ADCK5_human_kinase_ARCHS4_coexpression	-1.311890893	0.981939037	0.999513231	0.473079708	"['CAMSAP3', 'COMTD1', 'CLIC3', 'RP11-2C24.9', 'TMEM238', 'HAGHL', 'SLC25A10', 'SPINT2']"	ARCHS4 (coexpressed genes)	upregulated
+PTK7_human_kinase_ARCHS4_coexpression	-0.874922773	0.654872162	0.999513231	0.473079708	"['KANK2', 'SEPT10', 'TAGLN', 'ADAM33', 'HOMER2P2', 'FLNA', 'MYL9', 'PAMR1']"	ARCHS4 (coexpressed genes)	downregulated
+PRKCD	2.618136376	-1.90067279	0.641954206	0.483857899	"['PPP1R14A', 'TAGLN', 'AKT3']"	KEA (experimentally validated targets)	downregulated
+RPS6KA1	2.874457484	-2.074320245	0.699258745	0.485955187	"['WWC1', 'CDC25A']"	KEA (experimentally validated targets)	upregulated
+MAPK10	2.408822377	-1.717340318	0.699258745	0.490202007	"['CDC20', 'EIF4EBP1', 'HMGA1']"	KEA (experimentally validated targets)	upregulated
+MAPK8	2.382404815	-1.678688366	0.641954206	0.494296727	"['NR4A1', 'JUN', 'DES', 'ZEB1', 'MAP1B', 'PLA2G4A']"	KEA (experimentally validated targets)	downregulated
+PDPK1	4.626183256	-3.249185971	0.641954206	0.49542118	['AKT3']	KEA (experimentally validated targets)	downregulated
+CSNK2A2	2.433013258	-1.631483609	0.653483195	0.511421631	"['GTF2A1L', 'EGR1', 'JUN', 'CASQ2', 'UTRN', 'MS4A1']"	KEA (experimentally validated targets)	downregulated
+MAPK14	2.261548435	-1.427034396	0.74796855	0.532060103	"['FEN1', 'CCNE1', 'EIF4EBP1', 'KRT8', 'E2F1', 'BIRC5', 'CDC6', 'MKI67', 'HIST1H1B', 'NR2F6']"	KEA (experimentally validated targets)	upregulated
+AKT2	4.613200718	-2.807823957	0.685696122	0.544084966	['FLNC']	KEA (experimentally validated targets)	downregulated
+PDK1	4.449651344	-2.527612338	0.689979648	0.566630831	['AKT3']	KEA (experimentally validated targets)	downregulated
+MAPK1	2.403979874	-1.346891577	0.791314341	0.571051586	"['TOP2A', 'CEBPA', 'CCNE1', 'CDCA5', 'WWC1', 'KRT8', 'E2F1', 'EIF4EBP1']"	KEA (experimentally validated targets)	upregulated
+CSNK2A1	2.598052309	-1.43451097	0.689979648	0.575711501	"['GTF2A1L', 'EGR1', 'JUN', 'CASQ2', 'FOSB', 'MS4A1', 'CORO1C']"	KEA (experimentally validated targets)	downregulated
+AURKB	3.380938146	-1.858660045	0.689979648	0.577095892	"['DES', 'MYL9']"	KEA (experimentally validated targets)	downregulated
+GSK3A	4.070529083	-2.235031181	0.689979648	0.577482966	['JUN']	KEA (experimentally validated targets)	downregulated
+MTOR	2.974783338	-1.599306446	0.792252727	0.584136172	"['FASN', 'EIF4EBP1']"	KEA (experimentally validated targets)	upregulated
+PRKCQ	4.258383349	-2.260859602	0.792252727	0.58806388	['NR2F6']	KEA (experimentally validated targets)	upregulated
+AKT1	2.914586576	-1.460105511	0.712043297	0.605945713	"['NR4A1', 'FAM129A', 'GRB10', 'FLNA', 'FLNC']"	KEA (experimentally validated targets)	downregulated
+PRKCG	3.88499283	-1.930292593	0.808473651	0.608438934	['TOP2A']	KEA (experimentally validated targets)	upregulated
+LYN	3.475214295	-1.709656986	0.712043297	0.611428483	"['GRB10', 'PTGS2']"	KEA (experimentally validated targets)	downregulated
+CSNK2A3_human_kinase_ARCHS4_coexpression	-1.857638424	0.880517412	0.999513231	0.622508325	"['HSPA8P18', 'HNRNPA1P63', 'TUBB4BP7', 'AP1S1', 'YBX1P1', 'RP3-437C15.1', 'POU5F1P5']"	ARCHS4 (coexpressed genes)	upregulated
+BMX_human_kinase_ARCHS4_coexpression	-0.717466118	0.340077704	0.999513231	0.622508325	"['IL33', 'SRPX', 'CNTNAP3P2', 'MCTP1', 'TEK', 'ACKR1', 'SELE']"	ARCHS4 (coexpressed genes)	downregulated
+TBK1_human_kinase_ARCHS4_coexpression	-0.707267127	0.3352434	0.999513231	0.622508325	"['MCFD2P1', 'RP11-30L15.4', 'NPIPB9', 'C7', 'PPP2R3C', 'SMG1P2', 'BZW1P2']"	ARCHS4 (coexpressed genes)	downregulated
+BRSK1_human_kinase_ARCHS4_coexpression	-1.151011639	0.545577534	0.999513231	0.622508325	"['CAMK2N1', 'LMTK3', 'ATP6V0E2', 'AC255361.1', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK15_human_kinase_ARCHS4_coexpression	-1.146418173	0.543400239	0.999513231	0.622508325	"['CDS1', 'TMEM125', 'SCNN1A', 'KIAA1522', 'FOXJ1', 'CYB561', 'CAPS']"	ARCHS4 (coexpressed genes)	upregulated
+EPHB6_human_kinase_ARCHS4_coexpression	-1.105722805	0.524110705	0.999513231	0.622508325	"['CAMK2N1', 'LMTK3', 'ATP13A2', 'AC255361.1', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+ACVRL1_human_kinase_ARCHS4_coexpression	-1.104772439	0.523660233	0.999513231	0.622508325	"['ESM1', 'ADAM15', 'TMEM54', 'PRR15L', 'ITLN1', 'KRT20', 'AC255361.1']"	ARCHS4 (coexpressed genes)	upregulated
+CDK18_human_kinase_ARCHS4_coexpression	-1.098552655	0.520712066	0.999513231	0.622508325	"['SLC6A8', 'LMTK3', 'ATP13A2', 'AC255361.1', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+PXK_human_kinase_ARCHS4_coexpression	-0.703613679	0.333511672	0.999513231	0.622508325	"['DOCK11', 'MCTP1', 'LPAR1', 'MRVI1', 'RP11-578F21.3', 'LYPLAL1', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+STK32B_human_kinase_ARCHS4_coexpression	-1.088397787	0.515898676	0.999513231	0.622508325	"['PPM1AP1', 'CCNE1', 'RP11-402P6.15', 'HMGB3P4', 'DPPA5', 'GPX1P2', 'ACTL8']"	ARCHS4 (coexpressed genes)	upregulated
+WNK2_human_kinase_ARCHS4_coexpression	-0.474968955	0.225134466	0.999513231	0.622508325	"['CADM3', 'PRUNE2', 'SPEG', 'NCAM1', 'SORBS1', 'PHYHIP', 'ADCY5']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K10_human_kinase_ARCHS4_coexpression	-1.059360293	0.502134954	0.999513231	0.622508325	"['LMTK3', 'ATP13A2', 'ATP6V0E2', 'AC255361.1', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+LMTK3_human_kinase_ARCHS4_coexpression	-1.063874996	0.504274915	0.999513231	0.622508325	"['CAMK2N1', 'ATP13A2', 'ATP6V0E2', 'AC255361.1', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+ABL2_human_kinase_ARCHS4_coexpression	-0.675850287	0.320351871	0.999513231	0.622508325	"['ARHGAP10', 'SMTN', 'ADAMTS1', 'FLNA', 'PDCD1LG2', 'ATF3', 'CYR61']"	ARCHS4 (coexpressed genes)	downregulated
+STK32A_human_kinase_ARCHS4_coexpression	-0.668892999	0.317054129	0.999513231	0.622508325	"['HPSE2', 'CFH', 'CRTAC1', 'MAP1B', 'CNTN1', 'FXYD6', 'NCAM1']"	ARCHS4 (coexpressed genes)	downregulated
+FYN_human_kinase_ARCHS4_coexpression	-0.650521726	0.308346177	0.999513231	0.622508325	"['GIMAP1-GIMAP5', 'DPYSL3', 'THEMIS', 'NCAM1', 'PTN', 'TNIK', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+EPHA1_human_kinase_ARCHS4_coexpression	-0.645344177	0.305892028	0.999513231	0.622508325	"['SFRP1', 'SFRP2', 'RP11-701H24.9', 'NLGN4X', 'ADAMTS19', 'ROR1', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K9_human_kinase_ARCHS4_coexpression	-0.644942527	0.305701647	0.999513231	0.622508325	"['CADM3', 'CNTN1', 'NCAM1', 'PHYHIP', 'DYNC1I1', 'ELAVL2', 'ANKS1B']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K1_human_kinase_ARCHS4_coexpression	-0.686475869	0.325388379	0.999513231	0.622508325	"['DOCK11', 'SMG1P2', 'FGL2', 'FAM129A', 'AC013264.1', 'UTRN', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+RPS6KA3_human_kinase_ARCHS4_coexpression	-0.627514451	0.297440769	0.999513231	0.622508325	"['FGL2', 'TCEA3', 'NR1H4', 'FAM129A', 'A2M', 'UTRN', 'BIVM-ERCC5']"	ARCHS4 (coexpressed genes)	downregulated
+PRKCH_human_kinase_ARCHS4_coexpression	-0.607883893	0.288135918	0.999513231	0.622508325	"['DOCK11', 'GIMAP1-GIMAP5', 'THEMIS', 'AC013264.1', 'UTRN', 'SYTL3', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+TRIB2_human_kinase_ARCHS4_coexpression	-0.604656877	0.286606318	0.999513231	0.622508325	"['PTPRD', 'ADGRB3', 'DPYSL3', 'LIFR', 'NCAM1', 'TNIK', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+SNRK_human_kinase_ARCHS4_coexpression	-0.578868619	0.274382728	0.999513231	0.622508325	"['DOCK11', 'RGS2', 'FGL2', 'FAM129A', 'AC013264.1', 'UTRN', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+TGFBR1_human_kinase_ARCHS4_coexpression	-0.567987494	0.269225094	0.999513231	0.622508325	"['DYNC2H1', 'MAP1B', 'SEMA3A', 'DCUN1D4', 'RHOBTB3', 'LIFR', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+WNK3_human_kinase_ARCHS4_coexpression	-0.544826982	0.258247051	0.999513231	0.622508325	"['EPHA7', 'NLGN4X', 'MAP1B', 'DCUN1D4', 'SORBS2', 'MSANTD3-TMEFF1', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+TRIB1_human_kinase_ARCHS4_coexpression	-0.517885089	0.24547664	0.999513231	0.622508325	"['NR4A1', 'BTG2', 'ZFP36', 'FOSB', 'PTGS2', 'UTRN', 'ATF3']"	ARCHS4 (coexpressed genes)	downregulated
+LRRK1_human_kinase_ARCHS4_coexpression	-0.614349154	0.29120044	0.999513231	0.622508325	"['SFRP1', 'SFRP2', 'NLGN4X', 'ADAMTS19', 'CACHD1', 'ROR1', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+BMPR1A_human_kinase_ARCHS4_coexpression	-0.689603993	0.326871104	0.999513231	0.622508325	"['SEPT10', 'SFRP2', 'NLGN4X', 'ADAMTS19', 'CACHD1', 'DMD', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+RNASEL_human_kinase_ARCHS4_coexpression	-1.045039262	0.49534681	0.999513231	0.622508325	"['LRRC59', 'IGFL1P1', 'ADAM15', 'CDKN2A', 'AMIGO2', 'KRT7', 'CALR']"	ARCHS4 (coexpressed genes)	upregulated
+CSNK1G1_human_kinase_ARCHS4_coexpression	-1.105710652	0.524104944	0.999513231	0.622508325	"['RP11-123K3.4', 'BMS1P7', 'ENPP7P4', 'CEP85L', 'CTD-2547E10.6', 'LMOD1', 'RP11-403I13.4']"	ARCHS4 (coexpressed genes)	downregulated
+AKT1_human_kinase_ARCHS4_coexpression	-1.05738583	0.501199062	0.999513231	0.622508325	"['ADAM15', 'IRAK1', 'FASN', 'GIPC1', 'AP1S1', 'CALR', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+TRIO_human_kinase_ARCHS4_coexpression	-0.50127172	0.237601932	0.999513231	0.622508325	"['KANK2', 'ARHGAP10', 'SMTN', 'CSRP1', 'FLNA', 'FLNC', 'BIVM-ERCC5']"	ARCHS4 (coexpressed genes)	downregulated
+CHEK2_human_kinase_ARCHS4_coexpression	-1.041164023	0.493509953	0.999513231	0.622508325	"['BIRC5', 'FAM64A', 'OIP5', 'MND1', 'CDC6', 'ZWINT', 'TRAIP']"	ARCHS4 (coexpressed genes)	upregulated
+PNCK_human_kinase_ARCHS4_coexpression	-1.034917067	0.490548907	0.999513231	0.622508325	"['SLC6A8', 'CAMK2N1', 'LMTK3', 'ATP6V0E2', 'AC255361.1', 'RAB11FIP4', 'PPFIA3']"	ARCHS4 (coexpressed genes)	upregulated
+PRKCG_human_kinase_ARCHS4_coexpression	-1.023488414	0.485131745	0.999513231	0.622508325	"['PCP2', 'CAMK2N1', 'LMTK3', 'ATP6V0E2', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+ILK_human_kinase_ARCHS4_coexpression	-1.013760561	0.480520759	0.999513231	0.622508325	"['MYDGF', 'TRAPPC1', 'ZNF185', 'AC093724.2', 'CFL1', 'PDZK1IP1', 'DDX11L2']"	ARCHS4 (coexpressed genes)	upregulated
+EIF2AK1_human_kinase_ARCHS4_coexpression	-1.013430058	0.480364102	0.999513231	0.622508325	"['SLC6A8', 'ZNF185', 'IRAK1', 'PYCR1', 'SLC25A10', 'CALR', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+CSNK1A1L_human_kinase_ARCHS4_coexpression	-1.111466026	0.526832981	0.999513231	0.622508325	"['RPL4P3', 'EIF4E3', 'RPS17P2', 'FAM129A', 'CTD-2061E19.1', 'RP11-814E24.3', 'RBBP8P1']"	ARCHS4 (coexpressed genes)	downregulated
+CSNK2A1_human_kinase_ARCHS4_coexpression	-0.983865528	0.466350565	0.999513231	0.622508325	"['CCNA2', 'CDCA5', 'BIRC5', 'CDC6', 'KPNA2', 'CDC25A', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+RIOK1_human_kinase_ARCHS4_coexpression	-0.935729071	0.443533967	0.999513231	0.622508325	"['UHRF1', 'BIRC5', 'MND1', 'CDC6', 'ACTL8', 'ZWINT', 'NME1']"	ARCHS4 (coexpressed genes)	upregulated
+MTOR_human_kinase_ARCHS4_coexpression	-0.923872341	0.437913898	0.999513231	0.622508325	"['IRAK1', 'FASN', 'CALR', 'MKI67', 'CDC25A', 'LMNB2', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+CAMK2D_human_kinase_ARCHS4_coexpression	-0.739475151	0.350509948	0.999513231	0.622508325	"['F10', 'ENPP7P4', 'RHOBTB3', 'LIFR', 'CWC27', 'ANO5', 'CAP2']"	ARCHS4 (coexpressed genes)	downregulated
+CDK19_human_kinase_ARCHS4_coexpression	-0.81646304	0.387002074	0.999513231	0.622508325	"['SPZ1', 'EIF4E3', 'FAM13B', 'AKT3', 'PRUNE2', 'SORBS2', 'ARHGAP6']"	ARCHS4 (coexpressed genes)	downregulated
+CDK15_human_kinase_ARCHS4_coexpression	-0.833697527	0.395171191	0.999513231	0.622508325	"['BNC2', 'DGKB', 'ADAMTS1', 'RP11-667F9.1', 'LPAR1', 'PDCD1LG2', 'SPATA6']"	ARCHS4 (coexpressed genes)	downregulated
+CDK3_human_kinase_ARCHS4_coexpression	-0.92072195	0.436420618	0.999513231	0.622508325	"['RP11-123K3.4', 'BMS1P7', 'ENPP7P4', 'CTD-2547E10.6', 'LMOD1', 'RP11-403I13.4', 'LINC00675']"	ARCHS4 (coexpressed genes)	downregulated
+IGF1R	3.423142945	-1.541997156	0.732268924	0.637333386	"['FABP4', 'ACTC1']"	KEA (experimentally validated targets)	downregulated
+MAPK9	2.649538347	-1.183924832	0.824782063	0.639645008	"['CDC20', 'HMGA1', 'MCM2']"	KEA (experimentally validated targets)	upregulated
+PRKACG	3.170944184	-1.391876032	0.732268924	0.644715031	"['NR4A1', 'PPP1R14A', 'SI', 'PDE5A']"	KEA (experimentally validated targets)	downregulated
+PRKD1	3.93168398	-1.716627214	0.824782063	0.646220998	['CFL1']	KEA (experimentally validated targets)	upregulated
+HCK	3.937014099	-1.718954417	0.824782063	0.646220998	['ADAM15']	KEA (experimentally validated targets)	upregulated
+CAMK2A	3.26889602	-1.349055479	0.833777278	0.661864437	"['KRT18', 'KRT8']"	KEA (experimentally validated targets)	upregulated
+ABL1	3.602969399	-1.362895625	0.760308323	0.685045439	"['JUN', 'SORBS1']"	KEA (experimentally validated targets)	downregulated
+PRKCE	3.70296609	-1.382778341	0.85605353	0.688372942	['KRT18']	KEA (experimentally validated targets)	upregulated
+PRKCE	4.055103316	-1.514275016	0.760308323	0.688372942	['PPP1R14A']	KEA (experimentally validated targets)	downregulated
+CDK1	3.249917067	-1.186229536	0.760308323	0.694194556	"['ZFP36', 'SMTN', 'DES', 'ZEB1', 'DUSP1', 'MAP1B', 'HSPB8', 'GRB10', 'FLNA', 'NCAM1', 'SORBS1']"	KEA (experimentally validated targets)	downregulated
+PAK1	3.86767887	-1.35859282	0.864153268	0.70379493	['KIF2C']	KEA (experimentally validated targets)	upregulated
+PRKCZ	3.892822475	-1.287169492	0.871126877	0.718455156	['WWC1']	KEA (experimentally validated targets)	upregulated
+MAPK10	3.504669397	-1.045272182	0.803230166	0.742114827	"['JUN', 'LIFR']"	KEA (experimentally validated targets)	downregulated
+PSKH2_human_kinase_ARCHS4_coexpression	-0.406119951	0.110750649	0.999513231	0.761317891	"['MYOCD', 'UBBP5', 'RHOBTB3', 'TSPY2', 'GTF2H2B', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+CIT_human_kinase_ARCHS4_coexpression	-0.405825831	0.110670441	0.999513231	0.761317891	"['CADM3', 'SPARCL1', 'PHYHIP', 'MAPK4', 'CDR1', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+ROCK1_human_kinase_ARCHS4_coexpression	-0.390679331	0.106539926	0.999513231	0.761317891	"['DOCK11', 'SMG1P2', 'FGL2', 'FAM129A', 'HSPB2', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK4_human_kinase_ARCHS4_coexpression	-0.340555841	0.092871036	0.999513231	0.761317891	"['CADM3', 'DTNA', 'SPARCL1', 'ATP1A2', 'PHYHIP', 'ADCY5']"	ARCHS4 (coexpressed genes)	downregulated
+GSK3B_human_kinase_ARCHS4_coexpression	-0.374452213	0.102114721	0.999513231	0.761317891	"['CACNA2D1', 'DPYSL3', 'AKT3', 'NCAM1', 'TNIK', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+JAK1_human_kinase_ARCHS4_coexpression	-0.363710694	0.099185463	0.999513231	0.761317891	"['DOCK11', 'FGL2', 'FAM129A', 'AC013264.1', 'UTRN', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+PIK3CA_human_kinase_ARCHS4_coexpression	-0.359154544	0.097942982	0.999513231	0.761317891	"['DOCK11', 'FAM13B', 'FGL2', 'FAM129A', 'AC013264.1', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+DAPK1_human_kinase_ARCHS4_coexpression	-0.429449529	0.117112725	0.999513231	0.761317891	"['PID1', 'P2RX1', 'KRT24', 'SLAMF7', 'CCL2', 'RPL12P24']"	ARCHS4 (coexpressed genes)	downregulated
+LATS1_human_kinase_ARCHS4_coexpression	-0.449522469	0.122586701	0.999513231	0.761317891	"['EPHA6', 'SMG1P2', 'CEP85L', 'C2ORF66', 'UTRN', 'CARF']"	ARCHS4 (coexpressed genes)	downregulated
+FGFR3_human_kinase_ARCHS4_coexpression	-0.421618028	0.114977041	0.999513231	0.761317891	"['ID1', 'LY6D', 'CKB', 'A2M', 'AQP3', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+MAP4K3_human_kinase_ARCHS4_coexpression	-0.337252833	0.091970291	0.999513231	0.761317891	"['EPB41L5', 'SEPT10', 'BBS9', 'DMD', 'FERMT2', 'CAP2']"	ARCHS4 (coexpressed genes)	downregulated
+MAP4K4_human_kinase_ARCHS4_coexpression	-0.313775354	0.085567882	0.999513231	0.761317891	"['PTPRD', 'DPYSL3', 'LPAR1', 'NCAM1', 'PTN', 'TNIK']"	ARCHS4 (coexpressed genes)	downregulated
+ALK_human_kinase_ARCHS4_coexpression	-0.45457976	0.123965847	0.999513231	0.761317891	"['TMOD1', 'EPHA6', 'HAND2', 'LPAR3', 'SLIT3', 'NCAM1']"	ARCHS4 (coexpressed genes)	downregulated
+NEK9_human_kinase_ARCHS4_coexpression	-0.300491517	0.081945323	0.999513231	0.761317891	"['KANK2', 'SVIL', 'JPH2', 'HSPB6', 'FHL1', 'ASB2']"	ARCHS4 (coexpressed genes)	downregulated
+PIK3CG_human_kinase_ARCHS4_coexpression	-0.299769625	0.08174846	0.999513231	0.761317891	"['DOCK11', 'P2RX1', 'FGL2', 'FAM129A', 'AC013264.1', 'SYTL3']"	ARCHS4 (coexpressed genes)	downregulated
+STK17A_human_kinase_ARCHS4_coexpression	-0.295418526	0.080561897	0.999513231	0.761317891	"['DOCK11', 'GIMAP1-GIMAP5', 'DUSP2', 'DCUN1D4', 'FAM129A', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+PIM2_human_kinase_ARCHS4_coexpression	-0.279084256	0.076107471	0.999513231	0.761317891	"['GIMAP1-GIMAP5', 'DUSP2', 'BTG2', 'ZFP36', 'RGS1', 'THEMIS']"	ARCHS4 (coexpressed genes)	downregulated
+PRKAA1_human_kinase_ARCHS4_coexpression	-0.273363561	0.074547413	0.999513231	0.761317891	"['EIF4E3', 'PDE4D', 'GLP2R', 'AC013264.1', 'UTRN', 'BIVM-ERCC5']"	ARCHS4 (coexpressed genes)	downregulated
+STK38L_human_kinase_ARCHS4_coexpression	-0.272195702	0.074228933	0.999513231	0.761317891	"['ACTA2', 'TAGLN', 'DUSP2', 'FAM129A', 'AC013264.1', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+RIPK2_human_kinase_ARCHS4_coexpression	-0.269536272	0.073503695	0.999513231	0.761317891	"['RPL7P26', 'MCTP1', 'KIAA0125P1', 'SLAMF7', 'PTGS2', 'ATF3']"	ARCHS4 (coexpressed genes)	downregulated
+PRKCE_human_kinase_ARCHS4_coexpression	-0.267627126	0.072983063	0.999513231	0.761317891	"['CADM3', 'RCAN2', 'CNTN1', 'SPARCL1', 'PHYHIP', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+STK4_human_kinase_ARCHS4_coexpression	-0.263451082	0.071844238	0.999513231	0.761317891	"['DOCK11', 'FGL2', 'FAM129A', 'AC013264.1', 'UTRN', 'RBBP8P1']"	ARCHS4 (coexpressed genes)	downregulated
+TTBK1_human_kinase_ARCHS4_coexpression	-0.208633299	0.056895194	0.999513231	0.761317891	"['CADM3', 'SPARCL1', 'ATP1A2', 'NCAM1', 'PHYHIP', 'MAPK4']"	ARCHS4 (coexpressed genes)	downregulated
+PLK2_human_kinase_ARCHS4_coexpression	-0.176183664	0.048046039	0.999513231	0.761317891	"['BTG2', 'CSRP1', 'ADAMTS1', 'ID1', 'FLNA', 'CYR61']"	ARCHS4 (coexpressed genes)	downregulated
+STYK1_human_kinase_ARCHS4_coexpression	-0.170992164	0.046630295	0.999513231	0.761317891	"['TMIGD1', 'ACTC1', 'SI', 'KRT24', 'MS4A12', 'LINC00675']"	ARCHS4 (coexpressed genes)	downregulated
+NUAK2_human_kinase_ARCHS4_coexpression	-0.328495558	0.089582145	0.999513231	0.761317891	"['GIMAP1-GIMAP5', 'RGS2', 'SLC46A2', 'FGL2', 'LLNLF-173C4.2', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+GRK3_human_kinase_ARCHS4_coexpression	-0.462976721	0.126255734	0.999513231	0.761317891	"['DOCK11', 'SMG1P2', 'FGL2', 'AC013264.1', 'UTRN', 'MS4A1']"	ARCHS4 (coexpressed genes)	downregulated
+CSNK1G3_human_kinase_ARCHS4_coexpression	-0.475744146	0.129737465	0.999513231	0.761317891	"['SEPT10', 'FAM114A2', 'ORC3', 'CEP85L', 'BTBD10', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+STK38_human_kinase_ARCHS4_coexpression	-0.145369169	0.039642795	0.999513231	0.761317891	"['DOCK11', 'GIMAP1-GIMAP5', 'SLC46A2', 'FGL2', 'FAM129A', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+STK25_human_kinase_ARCHS4_coexpression	-0.772794152	0.210744273	0.999513231	0.761317891	"['MYBPC1', 'TNNC1', 'E2F1', 'DUPD1', 'ATP13A2', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+WNK2_human_kinase_ARCHS4_coexpression	-0.775430295	0.211463161	0.999513231	0.761317891	"['CAMSAP3', 'LMTK3', 'MYH14', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+RPS6KA4_human_kinase_ARCHS4_coexpression	-0.794038684	0.216537748	0.999513231	0.761317891	"['ADAM15', 'IRAK1', 'GIPC1', 'AP1S1', 'CALR', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+PRKCZ_human_kinase_ARCHS4_coexpression	-0.851284057	0.232148806	0.999513231	0.761317891	"['LMTK3', 'ATP6V0E2', 'AC255361.1', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+ROS1_human_kinase_ARCHS4_coexpression	-0.862427457	0.235187659	0.999513231	0.761317891	"['MUC1', 'TMEM125', 'SCNN1A', 'KRT7', 'LAMC2', 'ACTL8']"	ARCHS4 (coexpressed genes)	upregulated
+MAP3K7_human_kinase_ARCHS4_coexpression	-0.865396232	0.235997257	0.999513231	0.761317891	"['CCNA2', 'LRRC59', 'CDK1', 'KIF2C', 'FAM72D', 'GIMAP3P']"	ARCHS4 (coexpressed genes)	upregulated
+CIT_human_kinase_ARCHS4_coexpression	-0.86958633	0.237139915	0.999513231	0.761317891	"['LMTK3', 'KIF2C', 'MKI67', 'PPFIA3', 'LMNB2', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+LRRK1_human_kinase_ARCHS4_coexpression	-0.877331162	0.239251963	0.999513231	0.761317891	"['PALM3', 'HMGA1', 'KLHDC7A', 'AP1M2', 'CDC25A', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+ABL1_human_kinase_ARCHS4_coexpression	-0.883343857	0.240891651	0.999513231	0.761317891	"['SLC6A8', 'IRAK1', 'FASN', 'PYCR1', 'CALR', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+NEK4_human_kinase_ARCHS4_coexpression	-0.886679397	0.241801267	0.999513231	0.761317891	"['HIST1H2BO', 'MTRNR2L10', 'HIST1H2AH', 'CDK1', 'CDC6', 'CDC25A']"	ARCHS4 (coexpressed genes)	upregulated
+CHUK_human_kinase_ARCHS4_coexpression	-0.891883889	0.243220554	0.999513231	0.761317891	"['CCNA2', 'LRRC59', 'CDC6', 'MKI67', 'CDC25A', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+MAP3K6_human_kinase_ARCHS4_coexpression	-0.894876124	0.244036549	0.999513231	0.761317891	"['ADAM15', 'FASN', 'GIPC1', 'KIAA1522', 'AGRN', 'AL513122.2']"	ARCHS4 (coexpressed genes)	upregulated
+DAPK3_human_kinase_ARCHS4_coexpression	-0.895668333	0.244252588	0.999513231	0.761317891	"['ADAM15', 'IRAK1', 'GIPC1', 'AP1S1', 'CALR', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+DYRK3_human_kinase_ARCHS4_coexpression	-0.898372597	0.244990053	0.999513231	0.761317891	"['LRRC59', 'NEU1', 'AP1S1', 'CALR', 'C17ORF96', 'RP3-437C15.1']"	ARCHS4 (coexpressed genes)	upregulated
+CDK7_human_kinase_ARCHS4_coexpression	-0.925613158	0.25241867	0.999513231	0.761317891	"['CCNE1', 'OIP5', 'TRIAP1', 'DPPA5', 'ACTL8', 'NME1']"	ARCHS4 (coexpressed genes)	upregulated
+CAMK2B_human_kinase_ARCHS4_coexpression	-0.947109482	0.25828081	0.999513231	0.761317891	"['CAMK2N1', 'LMTK3', 'ATP6V0E2', 'AC255361.1', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+CAMK2A_human_kinase_ARCHS4_coexpression	-0.957737649	0.261179157	0.999513231	0.761317891	"['EPHB6', 'CAMK2N1', 'LMTK3', 'AC255361.1', 'RAB11FIP4', 'PPFIA3']"	ARCHS4 (coexpressed genes)	upregulated
+PDK3_human_kinase_ARCHS4_coexpression	-0.965490184	0.263293306	0.999513231	0.761317891	"['ZNF593', 'MTRNR2L10', 'RPL29P22', 'SLC25A39P1', 'KIF2C', 'CTD-2545M3.6']"	ARCHS4 (coexpressed genes)	upregulated
+AMHR2_human_kinase_ARCHS4_coexpression	-1.007459563	0.274738535	0.999513231	0.761317891	"['CAMSAP3', 'RP11-184J23.2', 'RASAL1', 'KIF2C', 'FAM71E1', 'CTD-2545M3.6']"	ARCHS4 (coexpressed genes)	upregulated
+CSNK2A3_human_kinase_ARCHS4_coexpression	-1.129468639	0.308010933	0.999513231	0.761317891	"['RPL4P3', 'HNRNPA1P13', 'RPS17P2', 'CTD-2061E19.1', 'CTD-2017C7.3', 'RP11-717K11.2']"	ARCHS4 (coexpressed genes)	downregulated
+ATM_human_kinase_ARCHS4_coexpression	-0.588226216	0.160411807	0.999513231	0.761317891	"['DOCK11', 'FGL2', 'FAM129A', 'AC013264.1', 'UTRN', 'RBBP8P1']"	ARCHS4 (coexpressed genes)	downregulated
+ATR_human_kinase_ARCHS4_coexpression	-0.536971044	0.146434302	0.999513231	0.761317891	"['DOCK11', 'AKT3', 'C2ORF66', 'AC013264.1', 'UTRN', 'BIVM-ERCC5']"	ARCHS4 (coexpressed genes)	downregulated
+CDK20_human_kinase_ARCHS4_coexpression	-0.536798181	0.146387162	0.999513231	0.761317891	"['REEP1', 'RIMS1', 'MAP1B', 'AC007347.1', 'FXYD6', 'NCAM1']"	ARCHS4 (coexpressed genes)	downregulated
+DAPK2_human_kinase_ARCHS4_coexpression	-0.52921492	0.144319174	0.999513231	0.761317891	"['SVIL', 'PDLIM3', 'FHL1', 'ASB2', 'KLHL41', 'TRDN']"	ARCHS4 (coexpressed genes)	downregulated
+CAMK1G_human_kinase_ARCHS4_coexpression	-0.509492925	0.138940902	0.999513231	0.761317891	"['CADM3', 'RCAN2', 'SPARCL1', 'PHYHIP', 'DYNC1I1', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+ULK4_human_kinase_ARCHS4_coexpression	-0.497953052	0.135793929	0.999513231	0.761317891	"['WDR49', 'SH3GL3', 'SPZ1', 'CCDC7', 'HOMER2P2', 'EFCAB13']"	ARCHS4 (coexpressed genes)	downregulated
+DYRK1A_human_kinase_ARCHS4_coexpression	-0.496090783	0.13528608	0.999513231	0.761317891	"['DOCK11', 'FAM13B', 'SMG1P2', 'FGL2', 'FAM129A', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+CAMKV_human_kinase_ARCHS4_coexpression	-0.492771703	0.134380953	0.999513231	0.761317891	"['CADM3', 'MAP1B', 'FXYD6', 'NCAM1', 'PHYHIP', 'ADCY5']"	ARCHS4 (coexpressed genes)	downregulated
+NEK3_human_kinase_ARCHS4_coexpression	-0.476113945	0.129838311	0.999513231	0.761317891	"['NPIPB9', 'RP11-329J18.4', 'LPAR1', 'CWC27', 'FKBP3', 'PRKG1']"	ARCHS4 (coexpressed genes)	downregulated
+MAP4K5_human_kinase_ARCHS4_coexpression	-0.467413059	0.127465542	0.999513231	0.761317891	"['PTPRD', 'LRCH2', 'KIAA1586', 'AKT3', 'MAMDC2', 'CARF']"	ARCHS4 (coexpressed genes)	downregulated
+RIPK4_human_kinase_ARCHS4_coexpression	-0.132739013	0.036198497	0.999513231	0.761317891	"['KRT17', 'ID1', 'KRT13', 'LY6D', 'KRT5', 'AQP3']"	ARCHS4 (coexpressed genes)	downregulated
+ERN1_human_kinase_ARCHS4_coexpression	-0.390397598	0.106463096	0.999513231	0.761317891	"['BTG2', 'ZFP36', 'DUSP1', 'THEMIS', 'FAM129A', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+PRKACB	3.18570209	-0.835305206	0.910236344	0.769353727	"['NEU1', 'CDC25A']"	KEA (experimentally validated targets)	upregulated
+ATM	3.441537787	-0.897648012	0.824163529	0.770413734	"['RIMS1', 'JUN', 'APLF']"	KEA (experimentally validated targets)	downregulated
+AKT1	3.177382587	-0.816365689	0.910236344	0.773422161	"['IRAK1', 'EIF4EBP1', 'PKMYT1', 'HIST1H2BB']"	KEA (experimentally validated targets)	upregulated
+SRC	3.18746893	-0.796616587	0.910236344	0.778862026	"['MUC1', 'ADAM15', 'CFL1', 'CDK1', 'CBLC']"	KEA (experimentally validated targets)	upregulated
+CDK2	3.308440302	-0.658562718	0.8666025	0.819504538	"['RIMS1', 'JUN', 'ZFP36', 'DES', 'MAP1B', 'DPYSL3', 'PLA2G4A', 'NCAM1', 'FOS', 'CRYAB', 'MAPK4']"	KEA (experimentally validated targets)	downregulated
+SGK1	4.162103639	-0.817127469	0.93540377	0.821744636	['HIST1H2BM']	KEA (experimentally validated targets)	upregulated
+CSNK1E	3.336065416	-0.608275763	0.93540377	0.833323561	"['KRT8', 'EIF4EBP1']"	KEA (experimentally validated targets)	upregulated
+CSNK1D	4.118309245	-0.723092173	0.871203505	0.838970392	['AKT3']	KEA (experimentally validated targets)	downregulated
+CSNK1D	3.982778632	-0.699295727	0.93540377	0.838970392	['UHRF1']	KEA (experimentally validated targets)	upregulated
+EGFR	4.356432675	-0.764901852	0.93540377	0.838970392	['MUC1']	KEA (experimentally validated targets)	upregulated
+MAPK9	3.60907752	-0.617267356	0.871203505	0.842794695	"['JUN', 'FOS']"	KEA (experimentally validated targets)	downregulated
+WEE2_human_kinase_ARCHS4_coexpression	-0.620187295	0.085486582	0.999513231	0.871238127	"['PIWIL3', 'UHRF1', 'FAM228A', 'DPPA5', 'ACTL8']"	ARCHS4 (coexpressed genes)	upregulated
+PKDCC_human_kinase_ARCHS4_coexpression	-0.614360866	0.084683468	0.999513231	0.871238127	"['MYBPC1', 'MMP15', 'TNNC1', 'DUPD1', 'NR2F6']"	ARCHS4 (coexpressed genes)	upregulated
+STK39_human_kinase_ARCHS4_coexpression	-0.604800874	0.083365719	0.999513231	0.871238127	"['MMP15', 'CAMK2N1', 'GIPC1', 'WWC1', 'MAL2']"	ARCHS4 (coexpressed genes)	upregulated
+PRKCI_human_kinase_ARCHS4_coexpression	-0.580772209	0.080053609	0.999513231	0.871238127	"['MAL2', 'CDC6', 'AP1M2', 'CDC25A', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+STK35_human_kinase_ARCHS4_coexpression	-0.497756755	0.068610763	0.999513231	0.871238127	"['CDCA5', 'LSR', 'MKI67', 'CDC25A', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+OXSR1_human_kinase_ARCHS4_coexpression	-0.535544959	0.073819487	0.999513231	0.871238127	"['LRRC59', 'PSMD2', 'KIF2C', 'CALR', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+YES1_human_kinase_ARCHS4_coexpression	-0.504562045	0.069548804	0.999513231	0.871238127	"['PSMD2', 'MAL2', 'CDC6', 'CALR', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+TTBK1_human_kinase_ARCHS4_coexpression	-0.621905725	0.085723451	0.999513231	0.871238127	"['LMTK3', 'ATP6V0E2', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+ERN2_human_kinase_ARCHS4_coexpression	-0.145267339	0.020023642	0.999513231	0.871238127	"['C2ORF40', 'MS4A12', 'AQP3', 'CCDC60', 'LINC00675']"	ARCHS4 (coexpressed genes)	downregulated
+MERTK_human_kinase_ARCHS4_coexpression	0.090764482	-0.012510971	0.999513231	0.871238127	"['ARHGAP10', 'PID1', 'GPR34', 'CCL2', 'A2M']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K3_human_kinase_ARCHS4_coexpression	0.07870693	-0.010848959	0.999513231	0.871238127	"['SLC46A2', 'FGL2', 'FAM129A', 'LLNLF-173C4.2', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+SIK2_human_kinase_ARCHS4_coexpression	-0.536825699	0.073996025	0.999513231	0.871238127	"['CEBPA', 'SCD', 'FASN', 'AC255361.1', 'AL513122.2']"	ARCHS4 (coexpressed genes)	upregulated
+ROR1_human_kinase_ARCHS4_coexpression	-0.62641143	0.086344517	0.999513231	0.871238127	"['FAM64A', 'MT-CO2', 'KLHDC7A', 'AP1M2', 'CDC25A']"	ARCHS4 (coexpressed genes)	upregulated
+MAP3K19_human_kinase_ARCHS4_coexpression	-0.167027796	0.023023102	0.999513231	0.871238127	"['WDR49', 'C2ORF40', 'AQP3', 'CCDC60', 'HIPK3']"	ARCHS4 (coexpressed genes)	downregulated
+CAMK2G_human_kinase_ARCHS4_coexpression	-0.793251318	0.109341718	0.999513231	0.871238127	"['LMTK3', 'ATP13A2', 'ATP6V0E2', 'RAB11FIP4', 'PPFIA3']"	ARCHS4 (coexpressed genes)	upregulated
+PRKG2_human_kinase_ARCHS4_coexpression	-0.795185954	0.109608388	0.999513231	0.871238127	"['RP11-599B13.6', 'ZNHIT2', 'AC079250.1', 'CTC-435M10.3', 'FDPSP7']"	ARCHS4 (coexpressed genes)	upregulated
+CAMKK2_human_kinase_ARCHS4_coexpression	-0.804464546	0.110887348	0.999513231	0.871238127	"['LMTK3', 'AC255361.1', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+CAMKV_human_kinase_ARCHS4_coexpression	-0.806986993	0.111235042	0.999513231	0.871238127	"['CAMK2N1', 'LMTK3', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+CDK20_human_kinase_ARCHS4_coexpression	-0.829701248	0.114365974	0.999513231	0.871238127	"['SNTG1', 'HN1', 'PAFAH1B3', 'NIPSNAP1', 'GRIN2D']"	ARCHS4 (coexpressed genes)	upregulated
+BRSK2_human_kinase_ARCHS4_coexpression	-0.856970719	0.118124796	0.999513231	0.871238127	"['CAMK2N1', 'LMTK3', 'ATP6V0E2', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+CDK10_human_kinase_ARCHS4_coexpression	-0.908446154	0.125220167	0.999513231	0.871238127	"['COMTD1', 'HAGHL', 'RP11-1029F8.1', 'STRA13', 'SPINT2']"	ARCHS4 (coexpressed genes)	upregulated
+CDKL4_human_kinase_ARCHS4_coexpression	-0.970442478	0.133765737	0.999513231	0.871238127	"['PCP2', 'PDCL2', 'MRPL58', 'TMX2-CTNND1', 'GIMAP3P']"	ARCHS4 (coexpressed genes)	upregulated
+CSNK1A1L_human_kinase_ARCHS4_coexpression	-1.203993704	0.165958425	0.999513231	0.871238127	"['RP1-229K20.5', 'TUBB4BP7', 'EEF1A1P16', 'AC079250.1', 'POU5F1P5']"	ARCHS4 (coexpressed genes)	upregulated
+TIE1_human_kinase_ARCHS4_coexpression	-0.63491305	0.08751638	0.999513231	0.871238127	"['ESM1', 'ADAM15', 'AC093724.2', 'AC255361.1', 'AL513122.2']"	ARCHS4 (coexpressed genes)	upregulated
+PDPK2P_human_kinase_ARCHS4_coexpression	-1.239196789	0.170810817	0.999513231	0.871238127	"['DUXAP9', 'RP11-456N14.6', 'AC093724.2', 'ACTL8', 'PFN1P6']"	ARCHS4 (coexpressed genes)	upregulated
+MAP3K9_human_kinase_ARCHS4_coexpression	-0.737074401	0.101598295	0.999513231	0.871238127	"['CAMK2N1', 'LMTK3', 'ATP13A2', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+CSNK2A2_human_kinase_ARCHS4_coexpression	-0.726584951	0.100152429	0.999513231	0.871238127	"['CDK1', 'BIRC5', 'CDC6', 'TRIAP1', 'KPNA2']"	ARCHS4 (coexpressed genes)	upregulated
+FLT4_human_kinase_ARCHS4_coexpression	-0.701666532	0.096717676	0.999513231	0.871238127	"['ESM1', 'ADAM15', 'RAC3', 'AC255361.1', 'AL513122.2']"	ARCHS4 (coexpressed genes)	upregulated
+MARK4_human_kinase_ARCHS4_coexpression	-0.682022237	0.094009907	0.999513231	0.871238127	"['TMEM132A', 'LMTK3', 'ATP13A2', 'AC255361.1', 'PPFIA3']"	ARCHS4 (coexpressed genes)	upregulated
+LIMK1_human_kinase_ARCHS4_coexpression	-0.675071954	0.093051881	0.999513231	0.871238127	"['TMEM132A', 'LMTK3', 'AP1S1', 'ATP13A2', 'TREM2']"	ARCHS4 (coexpressed genes)	upregulated
+MAP2K2_human_kinase_ARCHS4_coexpression	-0.669220657	0.092245338	0.999513231	0.871238127	"['ADAM15', 'IRAK1', 'GIPC1', 'ATP13A2', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+SBK1_human_kinase_ARCHS4_coexpression	-0.657191675	0.090587264	0.999513231	0.871238127	"['MEX3A', 'PODXL2', 'LMTK3', 'PPFIA3', 'GRIN2D']"	ARCHS4 (coexpressed genes)	upregulated
+FASTK_human_kinase_ARCHS4_coexpression	-0.646361424	0.089094423	0.999513231	0.871238127	"['ADAM15', 'IRAK1', 'SLC25A10', 'JOSD2', 'MRPL12']"	ARCHS4 (coexpressed genes)	upregulated
+NRK_human_kinase_ARCHS4_coexpression	-0.743062457	0.102423688	0.999513231	0.871238127	"['PCP2', 'RP11-364B14.3', 'DUX4L37', 'HMGB3P4', 'DUX4L9']"	ARCHS4 (coexpressed genes)	upregulated
+SBK1_human_kinase_ARCHS4_coexpression	0.055110413	-0.007596416	0.999513231	0.871238127	"['CADM3', 'MAP1B', 'NCAM1', 'SOBP', 'ANKS1B']"	ARCHS4 (coexpressed genes)	downregulated
+ALK_human_kinase_ARCHS4_coexpression	-0.758322475	0.104527128	0.999513231	0.871238127	"['ADAM15', 'PODXL2', 'MMP15', 'TMEM132A', 'MTCO1P12']"	ARCHS4 (coexpressed genes)	upregulated
+IRAK2_human_kinase_ARCHS4_coexpression	-0.017126163	0.002360669	0.999513231	0.871238127	"['DUSP2', 'SLAMF7', 'CCL2', 'PTGS2', 'ATF3']"	ARCHS4 (coexpressed genes)	downregulated
+SBK3_human_kinase_ARCHS4_coexpression	-0.132338786	0.018241571	0.999513231	0.871238127	"['IGSF10', 'RANBP3L', 'STAC', 'HOMER2P2', 'BTBD10']"	ARCHS4 (coexpressed genes)	downregulated
+ACVR2A_human_kinase_ARCHS4_coexpression	-0.129369939	0.017832345	0.999513231	0.871238127	"['REEP1', 'KHDRBS2', 'PPP2R3C', 'MAP1B', 'ELAVL2']"	ARCHS4 (coexpressed genes)	downregulated
+CAMK2B_human_kinase_ARCHS4_coexpression	-0.118615722	0.016349985	0.999513231	0.871238127	"['CADM3', 'RCAN2', 'SPARCL1', 'ATP1A2', 'DYNC1I1']"	ARCHS4 (coexpressed genes)	downregulated
+DCLK3_human_kinase_ARCHS4_coexpression	-0.451706357	0.062263179	0.999513231	0.871238127	"['RP11-323I15.2', 'NLGN4X', 'HPSE2', 'DGKB', 'ACOT6']"	ARCHS4 (coexpressed genes)	downregulated
+IRAK3_human_kinase_ARCHS4_coexpression	0.021713036	-0.002992924	0.999513231	0.871238127	"['DOCK11', 'SLC46A2', 'P2RX1', 'FGL2', 'FAM129A']"	ARCHS4 (coexpressed genes)	downregulated
+PLK5_human_kinase_ARCHS4_coexpression	-0.001305873	0.000180001	0.999513231	0.871238127	"['CADM3', 'PHYHIP', 'DYNC1I1', 'MAPK4', 'ANKS1B']"	ARCHS4 (coexpressed genes)	downregulated
+PAK6_human_kinase_ARCHS4_coexpression	0.032554575	-0.004487321	0.999513231	0.871238127	"['CADM3', 'RCAN2', 'CNTN1', 'PHYHIP', 'DYNC1I1']"	ARCHS4 (coexpressed genes)	downregulated
+CAMK2G_human_kinase_ARCHS4_coexpression	-0.11741376	0.016184306	0.999513231	0.871238127	"['CADM3', 'RCAN2', 'SPARCL1', 'ATP1A2', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+IGF1R_human_kinase_ARCHS4_coexpression	-0.089295991	0.012308555	0.999513231	0.871238127	"['EPB41L5', 'PLCB4', 'PRUNE2', 'CACHD1', 'LIFR']"	ARCHS4 (coexpressed genes)	downregulated
+MAST1_human_kinase_ARCHS4_coexpression	-0.043519693	0.005998752	0.999513231	0.871238127	"['CADM3', 'DPYSL3', 'NCAM1', 'PHYHIP', 'ANKS1B']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K5_human_kinase_ARCHS4_coexpression	-0.047638661	0.00656651	0.999513231	0.871238127	"['DOCK11', 'FGL2', 'FAM129A', 'AC013264.1', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+JAK2_human_kinase_ARCHS4_coexpression	-0.049884023	0.006876011	0.999513231	0.871238127	"['DOCK11', 'NPIPB9', 'FAM129A', 'AC013264.1', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+MOS_human_kinase_ARCHS4_coexpression	-0.050600848	0.006974818	0.999513231	0.871238127	"['GTF2A1L', 'IGSF10', 'HPSE2', 'SYTL3', 'TMEM252']"	ARCHS4 (coexpressed genes)	downregulated
+MYO3A_human_kinase_ARCHS4_coexpression	-0.052662454	0.00725899	0.999513231	0.871238127	"['TMOD1', 'LMBRD1', 'PARM1', 'F10', 'HMGCLL1']"	ARCHS4 (coexpressed genes)	downregulated
+NLK_human_kinase_ARCHS4_coexpression	0.043325246	-0.005971949	0.999513231	0.871238127	"['RIMS1', 'CADM3', 'RCAN2', 'PHYHIP', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+MARK3_human_kinase_ARCHS4_coexpression	-0.076448563	0.010537666	0.999513231	0.871238127	"['DOCK11', 'FAM13B', 'FAM129A', 'UTRN', 'RPL12P24']"	ARCHS4 (coexpressed genes)	downregulated
+DAPK3_human_kinase_ARCHS4_coexpression	-0.079313731	0.0109326	0.999513231	0.871238127	"['TAGLN', 'SMTN', 'FLNA', 'FLNC', 'MYL9']"	ARCHS4 (coexpressed genes)	downregulated
+CDK17_human_kinase_ARCHS4_coexpression	-0.171061772	0.023579145	0.999513231	0.871238127	"['MCTP1', 'MMRN1', 'SMG1P2', 'BTBD10', 'CORO1C']"	ARCHS4 (coexpressed genes)	downregulated
+MAP2K6_human_kinase_ARCHS4_coexpression	-0.17793762	0.024526912	0.999513231	0.871238127	"['ZEB1', 'CACNA2D1', 'ZNF208', 'TPM1', 'TMEM252']"	ARCHS4 (coexpressed genes)	downregulated
+BMP2K_human_kinase_ARCHS4_coexpression	-0.187548217	0.025851636	0.999513231	0.871238127	"['DOCK11', 'SMG1P2', 'FGL2', 'BIVM-ERCC5', 'PTGS1']"	ARCHS4 (coexpressed genes)	downregulated
+SCYL2_human_kinase_ARCHS4_coexpression	0.035707097	-0.004921864	0.999513231	0.871238127	"['EGR1', 'DPY19L2', 'FAM13B', 'IFIT6P', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+CDK8_human_kinase_ARCHS4_coexpression	-0.325079773	0.044808978	0.999513231	0.871238127	"['METTL24', 'SNX29P1', 'SPATA6', 'ANGPTL1', 'ELAVL2']"	ARCHS4 (coexpressed genes)	downregulated
+CAMKK1_human_kinase_ARCHS4_coexpression	-0.142696294	0.019669249	0.999513231	0.871238127	"['CADM3', 'RCAN2', 'SPARCL1', 'OR7E28P', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+DSTYK_human_kinase_ARCHS4_coexpression	-0.18933534	0.026097973	0.999513231	0.871238127	"['GTF2A1L', 'MAP1B', 'MSANTD3-TMEFF1', 'ANKS1B', 'ADGRL3']"	ARCHS4 (coexpressed genes)	downregulated
+CAMK2A_human_kinase_ARCHS4_coexpression	-0.144348658	0.019897011	0.999513231	0.871238127	"['CADM3', 'RCAN2', 'SPARCL1', 'ATP1A2', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+CLK4_human_kinase_ARCHS4_coexpression	-0.217690592	0.030006459	0.999513231	0.871238127	"['DOCK11', 'CEP85L', 'RP11-64D22.1', 'TRAF5', 'RP11-548K23.11']"	ARCHS4 (coexpressed genes)	downregulated
+TAOK3_human_kinase_ARCHS4_coexpression	-0.19319319	0.026629739	0.999513231	0.871238127	"['KIAA0125P1', 'LCA5', 'GTF2H2B', 'CARF', 'ATF3']"	ARCHS4 (coexpressed genes)	downregulated
+CDC42BPA_human_kinase_ARCHS4_coexpression	-0.189346189	0.026099468	0.999513231	0.871238127	"['PLCB4', 'NBEA', 'AKT3', 'CNTN1', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+MST1R_human_kinase_ARCHS4_coexpression	0.041076349	-0.005661962	0.999513231	0.871238127	"['TMIGD1', 'MS4A12', 'OLFM4', 'DUOX2', 'LINC00675']"	ARCHS4 (coexpressed genes)	downregulated
+LYN	4.094518461	-0.546227506	0.960520793	0.87511097	['CDK1']	KEA (experimentally validated targets)	upregulated
+CSNK1A1	4.045445296	-0.511159238	0.960520793	0.881302583	['CDC25A']	KEA (experimentally validated targets)	upregulated
+ABL1	4.151289712	-0.400842934	0.972688909	0.907956644	['MUC1']	KEA (experimentally validated targets)	upregulated
+LCK	4.214577746	-0.385812743	0.972688909	0.912522585	['ADAM15']	KEA (experimentally validated targets)	upregulated
+CDK5	3.948785301	-0.351983652	0.935047181	0.914720068	['DPYSL3']	KEA (experimentally validated targets)	downregulated
+PRKG1	4.018889936	-0.282258756	0.981640417	0.932176584	['SPP1']	KEA (experimentally validated targets)	upregulated
+INSR	3.931553578	-0.229707076	0.981640417	0.943247528	['NEU1']	KEA (experimentally validated targets)	upregulated
+INSR	3.803284024	-0.222212729	0.953612885	0.943247528	['FABP4']	KEA (experimentally validated targets)	downregulated
+TESK2_human_kinase_ARCHS4_coexpression	-0.541266837	0.031548959	0.999513231	0.943378916	"['C4ORF51', 'CCNE1', 'RP11-402P6.15', 'S100A14']"	ARCHS4 (coexpressed genes)	upregulated
+TLK2_human_kinase_ARCHS4_coexpression	-0.423971482	0.024712135	0.999513231	0.943378916	"['CDCA5', 'MKI67', 'CDC25A', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+PHKG1_human_kinase_ARCHS4_coexpression	-0.510618918	0.029762576	0.999513231	0.943378916	"['MYBPC1', 'TNNC1', 'CTC-260F20.3', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK12_human_kinase_ARCHS4_coexpression	-0.556119469	0.032414678	0.999513231	0.943378916	"['MYBPC1', 'ENDOG', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+PXK_human_kinase_ARCHS4_coexpression	-0.556448909	0.032433881	0.999513231	0.943378916	"['AL049758.2', 'F8A3', 'EEF1DP1', 'ACTL8']"	ARCHS4 (coexpressed genes)	upregulated
+MOS_human_kinase_ARCHS4_coexpression	-0.569572496	0.033198818	0.999513231	0.943378916	"['PIWIL3', 'FAM228A', 'DPPA5', 'ACTL8']"	ARCHS4 (coexpressed genes)	upregulated
+EPHB2_human_kinase_ARCHS4_coexpression	-0.59938746	0.034936651	0.999513231	0.943378916	"['MEX3A', 'TMEM132A', 'HN1', 'PAFAH1B3']"	ARCHS4 (coexpressed genes)	upregulated
+PSKH2_human_kinase_ARCHS4_coexpression	-0.607218594	0.035393106	0.999513231	0.943378916	"['MRPL58', 'DUX4L9', 'LGR5', 'RPL31P58']"	ARCHS4 (coexpressed genes)	upregulated
+NEK3_human_kinase_ARCHS4_coexpression	-0.635277969	0.03702861	0.999513231	0.943378916	"['UBE2C', 'MRPL58', 'OIP5', 'MND1']"	ARCHS4 (coexpressed genes)	upregulated
+HIPK4_human_kinase_ARCHS4_coexpression	-0.651068145	0.037948976	0.999513231	0.943378916	"['RP11-402P6.15', 'LMTK3', 'ACTL8', 'TEX19']"	ARCHS4 (coexpressed genes)	upregulated
+NRBP2_human_kinase_ARCHS4_coexpression	-0.510274258	0.029742487	0.999513231	0.943378916	"['CAMK2N1', 'TMEM132A', 'LMTK3', 'AC255361.1']"	ARCHS4 (coexpressed genes)	upregulated
+SBK3_human_kinase_ARCHS4_coexpression	-0.661321523	0.038546618	0.999513231	0.943378916	"['EFNA2', 'HSFX2', 'ACTL8', 'C17ORF96']"	ARCHS4 (coexpressed genes)	upregulated
+KDR_human_kinase_ARCHS4_coexpression	-0.495327204	0.028871264	0.999513231	0.943378916	"['ESM1', 'CALR', 'AC255361.1', 'AL358113.1']"	ARCHS4 (coexpressed genes)	upregulated
+EIF2AK4_human_kinase_ARCHS4_coexpression	-0.816528169	0.047593187	0.999513231	0.943378916	"['TMEM132A', 'YDJC', 'NIPSNAP1', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+ROR2_human_kinase_ARCHS4_coexpression	-0.491141157	0.028627271	0.999513231	0.943378916	"['MMP11', 'LEFTY1', 'COL10A1', 'PYCR1']"	ARCHS4 (coexpressed genes)	upregulated
+LMTK2_human_kinase_ARCHS4_coexpression	-0.482586115	0.028128621	0.999513231	0.943378916	"['LMTK3', 'RAB11FIP4', 'PPFIA3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+PINK1_human_kinase_ARCHS4_coexpression	-0.479610426	0.027955176	0.999513231	0.943378916	"['MYBPC1', 'AC093724.2', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+RIPK2_human_kinase_ARCHS4_coexpression	-0.461336854	0.02689006	0.999513231	0.943378916	"['VAMP8', 'SLC31A2', 'HUS1B', 'PSMC1P2']"	ARCHS4 (coexpressed genes)	upregulated
+MERTK_human_kinase_ARCHS4_coexpression	-0.431673084	0.02516104	0.999513231	0.943378916	"['CEBPA', 'SPP1', 'RASAL1', 'TREM2']"	ARCHS4 (coexpressed genes)	upregulated
+TRPM6_human_kinase_ARCHS4_coexpression	-0.423417703	0.024679856	0.999513231	0.943378916	"['PRR15L', 'ITLN1', 'DPEP1', 'KRT20']"	ARCHS4 (coexpressed genes)	upregulated
+CDKL2_human_kinase_ARCHS4_coexpression	-0.592220651	0.034518917	0.999513231	0.943378916	"['PODXL2', 'GABRA3', 'HN1', 'BEX5']"	ARCHS4 (coexpressed genes)	upregulated
+RPS6KL1_human_kinase_ARCHS4_coexpression	0.242858356	-0.014155547	0.999513231	0.943378916	"['DGKB', 'MAP1B', 'NCAM1', 'ANKS1B']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK14_human_kinase_ARCHS4_coexpression	0.424964862	-0.024770036	0.999513231	0.943378916	"['DOCK11', 'P2RX1', 'FGL2', 'FAM129A']"	ARCHS4 (coexpressed genes)	downregulated
+MAP2K5_human_kinase_ARCHS4_coexpression	0.168155364	-0.009801315	0.999513231	0.943378916	"['CNTNAP3P2', 'PGM5', 'PTN', 'LIMS2']"	ARCHS4 (coexpressed genes)	downregulated
+AATK_human_kinase_ARCHS4_coexpression	0.158370161	-0.009230962	0.999513231	0.943378916	"['CADM3', 'SPARCL1', 'ATP1A2', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+ERBB3_human_kinase_ARCHS4_coexpression	0.157175972	-0.009161356	0.999513231	0.943378916	"['TMIGD1', 'SI', 'NR1H4', 'A2M']"	ARCHS4 (coexpressed genes)	downregulated
+CDK13_human_kinase_ARCHS4_coexpression	0.152972833	-0.008916367	0.999513231	0.943378916	"['DOCK11', 'UTRN', 'BIVM-ERCC5', 'HIPK3']"	ARCHS4 (coexpressed genes)	downregulated
+BRSK1_human_kinase_ARCHS4_coexpression	0.14612702	-0.008517343	0.999513231	0.943378916	"['CADM3', 'SPARCL1', 'ATP1A2', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK7_human_kinase_ARCHS4_coexpression	0.14018774	-0.008171159	0.999513231	0.943378916	"['ZNF208', 'KIAA0125P1', 'RPS7P1', 'AC003002.6']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K13_human_kinase_ARCHS4_coexpression	0.126220712	-0.007357059	0.999513231	0.943378916	"['MAP1B', 'OR7E28P', 'SORBS2', 'ANKS1B']"	ARCHS4 (coexpressed genes)	downregulated
+AMHR2_human_kinase_ARCHS4_coexpression	0.101056976	-0.005890334	0.999513231	0.943378916	"['PPP1R14A', 'HFM1', 'SMIM1', 'LIMS2']"	ARCHS4 (coexpressed genes)	downregulated
+TSSK1B_human_kinase_ARCHS4_coexpression	0.087802213	-0.00511775	0.999513231	0.943378916	"['SH3GL3', 'SPZ1', 'CCDC7', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+TGFBR1_human_kinase_ARCHS4_coexpression	-0.410194949	0.023909138	0.999513231	0.943378916	"['TOP2A', 'CDK1', 'BIRC5', 'KPNA2']"	ARCHS4 (coexpressed genes)	upregulated
+INSR_human_kinase_ARCHS4_coexpression	0.071756788	-0.004182506	0.999513231	0.943378916	"['EGR1', 'NBEA', 'MAP1B', 'SMG1P2']"	ARCHS4 (coexpressed genes)	downregulated
+SBK2_human_kinase_ARCHS4_coexpression	0.051944376	-0.003027695	0.999513231	0.943378916	"['SH3GL3', 'SPZ1', 'RP1-302G2.5', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+AURKC_human_kinase_ARCHS4_coexpression	0.02279061	-0.001328402	0.999513231	0.943378916	"['GTF2A1L', 'ARL4D', 'RFPL4B', 'TMEM252']"	ARCHS4 (coexpressed genes)	downregulated
+CDKL4_human_kinase_ARCHS4_coexpression	-0.008006831	0.000466696	0.999513231	0.943378916	"['SH3GL3', 'SPZ1', 'MAP1B', 'TRAF5']"	ARCHS4 (coexpressed genes)	downregulated
+ALPK1_human_kinase_ARCHS4_coexpression	-0.025456899	0.001483813	0.999513231	0.943378916	"['BMS1P17', 'FGL2', 'FAM129A', 'RP11-814E24.3']"	ARCHS4 (coexpressed genes)	downregulated
+ADCK1_human_kinase_ARCHS4_coexpression	-0.091553754	0.005336417	0.999513231	0.943378916	"['TMOD1', 'SMIM1', 'RP11-578F21.3', 'CTC-454I21.3']"	ARCHS4 (coexpressed genes)	downregulated
+CDK11A_human_kinase_ARCHS4_coexpression	-0.188413147	0.010982086	0.999513231	0.943378916	"['SH3GL3', 'SPZ1', 'CCDC7', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+EPHB3_human_kinase_ARCHS4_coexpression	0.173577216	-0.01011734	0.999513231	0.943378916	"['ZEB1', 'TPM1', 'LY6D', 'COL21A1']"	ARCHS4 (coexpressed genes)	downregulated
+KIT_human_kinase_ARCHS4_coexpression	0.18587999	-0.010834435	0.999513231	0.943378916	"['P2RX1', 'KIAA0125P1', 'CD69', 'TPSAB1']"	ARCHS4 (coexpressed genes)	downregulated
+DYRK3_human_kinase_ARCHS4_coexpression	0.193078599	-0.011254022	0.999513231	0.943378916	"['SLAMF7', 'CTD-2017C7.3', 'PTGS2', 'ATF3']"	ARCHS4 (coexpressed genes)	downregulated
+KSR2_human_kinase_ARCHS4_coexpression	0.239952513	-0.013986174	0.999513231	0.943378916	"['DGKB', 'CNTN1', 'ANKS1B', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+PRKCB_human_kinase_ARCHS4_coexpression	0.419284583	-0.024438948	0.999513231	0.943378916	"['DOCK11', 'FGL2', 'PHYHIP', 'MS4A1']"	ARCHS4 (coexpressed genes)	downregulated
+RYK_human_kinase_ARCHS4_coexpression	0.400722969	-0.023357043	0.999513231	0.943378916	"['SEPT10', 'SFRP1', 'RAB23', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+WEE2_human_kinase_ARCHS4_coexpression	0.392809941	-0.022895814	0.999513231	0.943378916	"['GTF2A1L', 'IGSF10', 'SYTL3', 'TMEM252']"	ARCHS4 (coexpressed genes)	downregulated
+PRKX_human_kinase_ARCHS4_coexpression	0.384612697	-0.022418019	0.999513231	0.943378916	"['DOCK11', 'DPYSL3', 'TRAF5', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+PIM3_human_kinase_ARCHS4_coexpression	0.368954521	-0.021505347	0.999513231	0.943378916	"['DUSP2', 'SLAMF7', 'PTGS2', 'ATF3']"	ARCHS4 (coexpressed genes)	downregulated
+PAK1_human_kinase_ARCHS4_coexpression	0.36195887	-0.02109759	0.999513231	0.943378916	"['CADM3', 'PHYHIP', 'AC003002.6', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK6_human_kinase_ARCHS4_coexpression	0.361745532	-0.021085155	0.999513231	0.943378916	"['CSNK1G3', 'ZBED8', 'NLGN4X', 'ORC3']"	ARCHS4 (coexpressed genes)	downregulated
+TRPM6_human_kinase_ARCHS4_coexpression	0.357479483	-0.020836499	0.999513231	0.943378916	"['TMIGD1', 'SI', 'MS4A12', 'LINC00675']"	ARCHS4 (coexpressed genes)	downregulated
+TYRO3_human_kinase_ARCHS4_coexpression	0.462195856	-0.026940129	0.999513231	0.943378916	"['CADM3', 'ATP1A2', 'PHYHIP', 'MAPK4']"	ARCHS4 (coexpressed genes)	downregulated
+HCK_human_kinase_ARCHS4_coexpression	0.35453767	-0.020665028	0.999513231	0.943378916	"['SLC46A2', 'FGL2', 'FAM129A', 'LLNLF-173C4.2']"	ARCHS4 (coexpressed genes)	downregulated
+PTK6_human_kinase_ARCHS4_coexpression	0.334934265	-0.0195224	0.999513231	0.943378916	"['TMIGD1', 'KRT13', 'LY6D', 'MS4A12']"	ARCHS4 (coexpressed genes)	downregulated
+LMTK2_human_kinase_ARCHS4_coexpression	0.32065901	-0.018690334	0.999513231	0.943378916	"['CADM3', 'PRUNE2', 'PHYHIP', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+MAST3_human_kinase_ARCHS4_coexpression	0.319413013	-0.018617708	0.999513231	0.943378916	"['CNTN1', 'LLNLF-173C4.2', 'PHYHIP', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+FES_human_kinase_ARCHS4_coexpression	0.31017832	-0.018079443	0.999513231	0.943378916	"['ZFP36', 'SLC46A2', 'P2RX1', 'LLNLF-173C4.2']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K4_human_kinase_ARCHS4_coexpression	0.293355145	-0.017098867	0.999513231	0.943378916	"['PREX2', 'USP45', 'UTRN', 'LIMS2']"	ARCHS4 (coexpressed genes)	downregulated
+EPHA2_human_kinase_ARCHS4_coexpression	0.280958762	-0.016376316	0.999513231	0.943378916	"['SMTN', 'ID1', 'FLNA', 'CYR61']"	ARCHS4 (coexpressed genes)	downregulated
+TLK1_human_kinase_ARCHS4_coexpression	0.27224178	-0.015868227	0.999513231	0.943378916	"['NPIPB9', 'DCUN1D4', 'ANO5', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+ICK_human_kinase_ARCHS4_coexpression	0.248105788	-0.014461406	0.999513231	0.943378916	"['ALS2CR11', 'MAP1B', 'SORBS2', 'PGM5']"	ARCHS4 (coexpressed genes)	downregulated
+PKN2_human_kinase_ARCHS4_coexpression	0.347789446	-0.020271693	0.999513231	0.943378916	"['SMG1P2', 'FGL2', 'FAM129A', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+SIK1_human_kinase_ARCHS4_coexpression	-0.368584454	0.021483777	0.999513231	0.943378916	"['KLF5', 'ADAM15', 'CDKN2A', 'TMEM238']"	ARCHS4 (coexpressed genes)	upregulated
+YES1_human_kinase_ARCHS4_coexpression	0.523623746	-0.030520592	0.999513231	0.943378916	"['SEPT10', 'RHOBTB3', 'LIFR', 'FERMT2']"	ARCHS4 (coexpressed genes)	downregulated
+STK26_human_kinase_ARCHS4_coexpression	-0.32076907	0.018696749	0.999513231	0.943378916	"['CCNA2', 'CDC6', 'CDC25A', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+WNK1_human_kinase_ARCHS4_coexpression	0.497136466	-0.028976721	0.999513231	0.943378916	"['ANKHD1-EIF4EBP3', 'UTRN', 'BIVM-ERCC5', 'TNS1']"	ARCHS4 (coexpressed genes)	downregulated
+TRIB1_human_kinase_ARCHS4_coexpression	-0.35036675	0.020421917	0.999513231	0.943378916	"['RP1-229K20.5', 'MAL2', 'LSR', 'MAGEA2B']"	ARCHS4 (coexpressed genes)	upregulated
+PRKCB	3.9596902	-0.197772302	0.981640417	0.951280404	"['TOP2A', 'HIST1H2BM', 'HMGA1']"	KEA (experimentally validated targets)	upregulated
+SRC	3.772296768	-0.158397812	0.958879606	0.958879606	"['MAP1B', 'GRB10', 'SORBS1']"	KEA (experimentally validated targets)	downregulated
+MAPK8	3.998048486	-0.089833372	0.989519232	0.977781249	"['KRT8', 'S100A11']"	KEA (experimentally validated targets)	upregulated
+RIOK2_human_kinase_ARCHS4_coexpression	0.703480256	-0.013458944	0.999513231	0.981049911	"['ORC3', 'CTD-2017C7.3', 'CTD-2140B24.4']"	ARCHS4 (coexpressed genes)	downregulated
+WNK4_human_kinase_ARCHS4_coexpression	0.694010028	-0.01327776	0.999513231	0.981049911	"['SMTN', 'SHROOM1', 'KRT18P4']"	ARCHS4 (coexpressed genes)	downregulated
+FGR_human_kinase_ARCHS4_coexpression	0.692526356	-0.013249375	0.999513231	0.981049911	"['SLC46A2', 'FGL2', 'LLNLF-173C4.2']"	ARCHS4 (coexpressed genes)	downregulated
+TP53RK_human_kinase_ARCHS4_coexpression	0.691614079	-0.013231921	0.999513231	0.981049911	"['DYNC2H1', 'RP4-641G12.3', 'SMIM1']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K7_human_kinase_ARCHS4_coexpression	0.673683892	-0.012888882	0.999513231	0.981049911	"['EYA4', 'PI16', 'BTBD10']"	ARCHS4 (coexpressed genes)	downregulated
+STK32B_human_kinase_ARCHS4_coexpression	0.717241641	-0.013722226	0.999513231	0.981049911	"['PDE1C', 'STAC', 'COL19A1']"	ARCHS4 (coexpressed genes)	downregulated
+CSF1R_human_kinase_ARCHS4_coexpression	0.658023936	-0.012589276	0.999513231	0.981049911	"['SLC46A2', 'GPR34', 'CCL2']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K12_human_kinase_ARCHS4_coexpression	0.619770632	-0.011857416	0.999513231	0.981049911	"['CADM3', 'NCAM1', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+PDK1_human_kinase_ARCHS4_coexpression	0.585249458	-0.011196959	0.999513231	0.981049911	"['MYOCD', 'DMD', 'SLC8A1']"	ARCHS4 (coexpressed genes)	downregulated
+GRK1_human_kinase_ARCHS4_coexpression	0.582979977	-0.011153539	0.999513231	0.981049911	"['MAPK4', 'CDR1', 'PRIMA1']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K10_human_kinase_ARCHS4_coexpression	0.68727549	-0.013148915	0.999513231	0.981049911	"['CADM3', 'ATP1A2', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+NRBP2_human_kinase_ARCHS4_coexpression	0.723798954	-0.01384768	0.999513231	0.981049911	"['CADM3', 'SPARCL1', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+PRPF4B_human_kinase_ARCHS4_coexpression	0.752446206	-0.014395758	0.999513231	0.981049911	"['DOCK11', 'RP11-213G2.3', 'TRAF5']"	ARCHS4 (coexpressed genes)	downregulated
+NEK10_human_kinase_ARCHS4_coexpression	0.580475185	-0.011105618	0.999513231	0.981049911	"['C2ORF40', 'DMD', 'CCDC60']"	ARCHS4 (coexpressed genes)	downregulated
+TSSK4_human_kinase_ARCHS4_coexpression	0.762827702	-0.014594376	0.999513231	0.981049911	"['UTRN', 'MS4A1', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+LTK_human_kinase_ARCHS4_coexpression	0.775807314	-0.014842701	0.999513231	0.981049911	"['P2RX1', 'FOSB', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+MLKL_human_kinase_ARCHS4_coexpression	0.782394827	-0.014968733	0.999513231	0.981049911	"['SLC46A2', 'FGL2', 'FAM129A']"	ARCHS4 (coexpressed genes)	downregulated
+PRKCI_human_kinase_ARCHS4_coexpression	0.786592923	-0.015049051	0.999513231	0.981049911	"['SEPT10', 'SFRP1', 'NLGN4X']"	ARCHS4 (coexpressed genes)	downregulated
+PNCK_human_kinase_ARCHS4_coexpression	0.78819682	-0.015079736	0.999513231	0.981049911	"['CADM3', 'SPARCL1', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+MAP4K2_human_kinase_ARCHS4_coexpression	0.789992208	-0.015114086	0.999513231	0.981049911	"['GIMAP1-GIMAP5', 'P2RX1', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+PRKD3_human_kinase_ARCHS4_coexpression	0.794571564	-0.015201698	0.999513231	0.981049911	"['APLF', 'RHOBTB3', 'MS4A1']"	ARCHS4 (coexpressed genes)	downregulated
+NEK6_human_kinase_ARCHS4_coexpression	0.7985585	-0.015277975	0.999513231	0.981049911	"['ARHGAP10', 'FLNA', 'CORO1C']"	ARCHS4 (coexpressed genes)	downregulated
+RET_human_kinase_ARCHS4_coexpression	0.802191078	-0.015347474	0.999513231	0.981049911	"['HSPB8', 'HAND2', 'ADARB1']"	ARCHS4 (coexpressed genes)	downregulated
+SLK_human_kinase_ARCHS4_coexpression	0.836003943	-0.01599438	0.999513231	0.981049911	"['UTRN', 'AQP3', 'BIVM-ERCC5']"	ARCHS4 (coexpressed genes)	downregulated
+UHMK1_human_kinase_ARCHS4_coexpression	0.870224485	-0.016649085	0.999513231	0.981049911	"['FAM13B', 'FLNA', 'BIVM-ERCC5']"	ARCHS4 (coexpressed genes)	downregulated
+PRKD2_human_kinase_ARCHS4_coexpression	0.900344543	-0.01722534	0.999513231	0.981049911	"['GIMAP1-GIMAP5', 'LLNLF-173C4.2', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+SRC_human_kinase_ARCHS4_coexpression	0.900923376	-0.017236414	0.999513231	0.981049911	"['SLAMF7', 'CCL2', 'PTGS2']"	ARCHS4 (coexpressed genes)	downregulated
+JAK3_human_kinase_ARCHS4_coexpression	0.734696659	-0.014056174	0.999513231	0.981049911	"['GIMAP1-GIMAP5', 'LLNLF-173C4.2', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+FLT3_human_kinase_ARCHS4_coexpression	0.577826947	-0.011054952	0.999513231	0.981049911	"['DOCK11', 'P2RX1', 'KIAA0125P1']"	ARCHS4 (coexpressed genes)	downregulated
+BTK_human_kinase_ARCHS4_coexpression	0.56922525	-0.010890385	0.999513231	0.981049911	"['DOCK11', 'P2RX1', 'MS4A1']"	ARCHS4 (coexpressed genes)	downregulated
+SYK_human_kinase_ARCHS4_coexpression	0.940248921	-0.017988788	0.999513231	0.981049911	"['P2RX1', 'FGL2', 'MS4A1']"	ARCHS4 (coexpressed genes)	downregulated
+DYRK4_human_kinase_ARCHS4_coexpression	0.237957093	-0.004552581	0.999513231	0.981049911	"['SH3GL3', 'SPZ1', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+TAOK2_human_kinase_ARCHS4_coexpression	0.098516351	-0.001884809	0.999513231	0.981049911	"['ADAM15', 'IRAK1', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+ANKK1_human_kinase_ARCHS4_coexpression	0.308871917	-0.00590932	0.999513231	0.981049911	"['C2ORF40', 'ANKAR', 'CCDC60']"	ARCHS4 (coexpressed genes)	downregulated
+EPHA10_human_kinase_ARCHS4_coexpression	0.347591018	-0.006650091	0.999513231	0.981049911	"['KATNAL1', 'GKAP1', 'AC007347.1']"	ARCHS4 (coexpressed genes)	downregulated
+GRK4_human_kinase_ARCHS4_coexpression	0.352176774	-0.006737826	0.999513231	0.981049911	"['RP11-701H24.9', 'MAP1B', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+SPEG_human_kinase_ARCHS4_coexpression	0.07565887	-0.001447501	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+FER_human_kinase_ARCHS4_coexpression	0.448408442	-0.008578925	0.999513231	0.981049911	"['ZBED8', 'BMS1P17', 'MAP1B']"	ARCHS4 (coexpressed genes)	downregulated
+CDKL5_human_kinase_ARCHS4_coexpression	0.463959185	-0.008876441	0.999513231	0.981049911	"['DGKB', 'ANKS1B', 'CDR1']"	ARCHS4 (coexpressed genes)	downregulated
+BLK_human_kinase_ARCHS4_coexpression	0.485856433	-0.009295377	0.999513231	0.981049911	"['TRAF5', 'MS4A1', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+BRSK2_human_kinase_ARCHS4_coexpression	0.48753086	-0.009327412	0.999513231	0.981049911	"['CADM3', 'NCAM1', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+CAMK1D_human_kinase_ARCHS4_coexpression	0.493525236	-0.009442097	0.999513231	0.981049911	"['CADM3', 'SPARCL1', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+AAK1_human_kinase_ARCHS4_coexpression	0.496311642	-0.009495406	0.999513231	0.981049911	"['CNTN1', 'UTRN', 'STXBP5L']"	ARCHS4 (coexpressed genes)	downregulated
+UHMK1_human_kinase_ARCHS4_coexpression	0.105744671	-0.002023101	0.999513231	0.981049911	"['LRRC59', 'IRAK1', 'CALR']"	ARCHS4 (coexpressed genes)	upregulated
+TEK_human_kinase_ARCHS4_coexpression	0.110625282	-0.002116477	0.999513231	0.981049911	"['ESM1', 'ADAM15', 'AC255361.1']"	ARCHS4 (coexpressed genes)	upregulated
+TSSK6_human_kinase_ARCHS4_coexpression	0.575534862	-0.0110111	0.999513231	0.981049911	"['SH3GL3', 'SPZ1', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+SRC_human_kinase_ARCHS4_coexpression	0.13574145	-0.002596998	0.999513231	0.981049911	"['SLC31A2', 'TREM2', 'C17ORF96']"	ARCHS4 (coexpressed genes)	upregulated
+TTN_human_kinase_ARCHS4_coexpression	0.146317364	-0.002799335	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+HIPK4_human_kinase_ARCHS4_coexpression	0.510928001	-0.009775045	0.999513231	0.981049911	"['CHRM3', 'CADM3', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+PSKH1_human_kinase_ARCHS4_coexpression	0.031497966	-0.000602617	0.999513231	0.981049911	"['ADAM15', 'IRAK1', 'RP11-343C2.11']"	ARCHS4 (coexpressed genes)	upregulated
+MATK_human_kinase_ARCHS4_coexpression	0.515661504	-0.009865606	0.999513231	0.981049911	"['TMOD1', 'PGM5', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+ABL1_human_kinase_ARCHS4_coexpression	0.525559499	-0.010054974	0.999513231	0.981049911	"['KANK2', 'SMTN', 'FLNA']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK15_human_kinase_ARCHS4_coexpression	0.529724259	-0.010134654	0.999513231	0.981049911	"['C2ORF40', 'AQP3', 'CCDC60']"	ARCHS4 (coexpressed genes)	downregulated
+PRKY_human_kinase_ARCHS4_coexpression	0.534533395	-0.010226662	0.999513231	0.981049911	"['DUSP1', 'TRAF5', 'CTC-454I21.3']"	ARCHS4 (coexpressed genes)	downregulated
+LCK_human_kinase_ARCHS4_coexpression	0.535544063	-0.010245998	0.999513231	0.981049911	"['GIMAP1-GIMAP5', 'GZMA', 'GPR171']"	ARCHS4 (coexpressed genes)	downregulated
+CDK6_human_kinase_ARCHS4_coexpression	0.544098368	-0.010409659	0.999513231	0.981049911	"['KRT8P47', 'P2RX1', 'KIAA0125P1']"	ARCHS4 (coexpressed genes)	downregulated
+EPHB6_human_kinase_ARCHS4_coexpression	0.545417759	-0.010434901	0.999513231	0.981049911	"['CADM3', 'SPARCL1', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+EIF2AK3_human_kinase_ARCHS4_coexpression	0.555482068	-0.010627451	0.999513231	0.981049911	"['DUSP2', 'BTG2', 'MS4A1']"	ARCHS4 (coexpressed genes)	downregulated
+CDC42BPB_human_kinase_ARCHS4_coexpression	0.566107548	-0.010830737	0.999513231	0.981049911	"['SMTN', 'CSRP1', 'FLNA']"	ARCHS4 (coexpressed genes)	downregulated
+VRK2_human_kinase_ARCHS4_coexpression	0.065505136	-0.00125324	0.999513231	0.981049911	"['VAMP8', 'ZWINT', 'APOBEC3B']"	ARCHS4 (coexpressed genes)	upregulated
+TSSK2_human_kinase_ARCHS4_coexpression	0.568211917	-0.010870998	0.999513231	0.981049911	"['SH3GL3', 'SPZ1', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+TYRO3_human_kinase_ARCHS4_coexpression	0.138386518	-0.002647603	0.999513231	0.981049911	"['LMTK3', 'RAB11FIP4', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+SRPK3_human_kinase_ARCHS4_coexpression	0.046591971	-0.000891395	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+NTRK1_human_kinase_ARCHS4_coexpression	0.56860363	-0.010878492	0.999513231	0.981049911	"['ARL4D', 'ZNF418', 'HAND2']"	ARCHS4 (coexpressed genes)	downregulated
+MYLK4_human_kinase_ARCHS4_coexpression	-0.12792346	0.002447424	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+NEK10_human_kinase_ARCHS4_coexpression	-0.216683211	0.004145571	0.999513231	0.981049911	"['CDS1', 'FOXJ1', 'CAPS']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK8_human_kinase_ARCHS4_coexpression	-0.215187644	0.004116958	0.999513231	0.981049911	"['GABRA3', 'HN1', 'PAFAH1B3']"	ARCHS4 (coexpressed genes)	upregulated
+MAST1_human_kinase_ARCHS4_coexpression	-0.197344424	0.003775582	0.999513231	0.981049911	"['LMTK3', 'ATP6V0E2', 'PPFIA3']"	ARCHS4 (coexpressed genes)	upregulated
+CSF1R_human_kinase_ARCHS4_coexpression	-0.193357035	0.003699296	0.999513231	0.981049911	"['SLC31A2', 'SPP1', 'TREM2']"	ARCHS4 (coexpressed genes)	upregulated
+GSK3A_human_kinase_ARCHS4_coexpression	-0.155250633	0.002970246	0.999513231	0.981049911	"['IRAK1', 'LMTK3', 'ATP13A2']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK1_human_kinase_ARCHS4_coexpression	-0.146612648	0.002804985	0.999513231	0.981049911	"['CT45A10', 'SLC6A8', 'MAGEA3']"	ARCHS4 (coexpressed genes)	upregulated
+HIPK2_human_kinase_ARCHS4_coexpression	-0.129363782	0.00247498	0.999513231	0.981049911	"['CAMK2N1', 'LMTK3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+NEK11_human_kinase_ARCHS4_coexpression	-0.220877365	0.004225813	0.999513231	0.981049911	"['CDS1', 'FOXJ1', 'CAPS']"	ARCHS4 (coexpressed genes)	upregulated
+MAP2K1_human_kinase_ARCHS4_coexpression	-0.120040046	0.002296599	0.999513231	0.981049911	"['IRAK1', 'ATP13A2', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+MAST2_human_kinase_ARCHS4_coexpression	-0.105156626	0.002011851	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+MYLK2_human_kinase_ARCHS4_coexpression	-0.09990327	0.001911344	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+PTK7_human_kinase_ARCHS4_coexpression	-0.099827133	0.001909887	0.999513231	0.981049911	"['CALR', 'AGRN', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+PAK6_human_kinase_ARCHS4_coexpression	-0.098930963	0.001892742	0.999513231	0.981049911	"['CAMK2N1', 'LMTK3', 'RAB11FIP4']"	ARCHS4 (coexpressed genes)	upregulated
+PDK4_human_kinase_ARCHS4_coexpression	-0.098139581	0.001877601	0.999513231	0.981049911	"['RNF128', 'TNNC1', 'CTD-2522E6.4']"	ARCHS4 (coexpressed genes)	upregulated
+NLK_human_kinase_ARCHS4_coexpression	-0.096633179	0.00184878	0.999513231	0.981049911	"['CAMK2N1', 'LMTK3', 'RAB11FIP4']"	ARCHS4 (coexpressed genes)	upregulated
+EPHA10_human_kinase_ARCHS4_coexpression	-0.489283784	0.009360949	0.999513231	0.981049911	"['EFNA3', 'HAGHL', 'MANEAL']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK10_human_kinase_ARCHS4_coexpression	-0.116252764	0.002224141	0.999513231	0.981049911	"['SNTG1', 'HN1', 'ATP6V0E2']"	ARCHS4 (coexpressed genes)	upregulated
+STK36_human_kinase_ARCHS4_coexpression	-0.07932177	0.00151758	0.999513231	0.981049911	"['FOXJ1', 'CAPS', 'TMEM187']"	ARCHS4 (coexpressed genes)	upregulated
+FLT1_human_kinase_ARCHS4_coexpression	-0.226127184	0.004326252	0.999513231	0.981049911	"['ESM1', 'AC255361.1', 'LY6G6E']"	ARCHS4 (coexpressed genes)	upregulated
+CAMK1_human_kinase_ARCHS4_coexpression	-0.252974608	0.004839896	0.999513231	0.981049911	"['CEBPA', 'SLC31A2', 'RASAL1']"	ARCHS4 (coexpressed genes)	upregulated
+CAMK1G_human_kinase_ARCHS4_coexpression	-0.360904141	0.006904797	0.999513231	0.981049911	"['CAMK2N1', 'LMTK3', 'ATP6V0E2']"	ARCHS4 (coexpressed genes)	upregulated
+STK32C_human_kinase_ARCHS4_coexpression	-0.338691918	0.006479834	0.999513231	0.981049911	"['LRRC26', 'NUDT8', 'TMEM238']"	ARCHS4 (coexpressed genes)	upregulated
+DAPK2_human_kinase_ARCHS4_coexpression	-0.408158105	0.007808857	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+DYRK1B_human_kinase_ARCHS4_coexpression	-0.328089277	0.006276985	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+ERBB4_human_kinase_ARCHS4_coexpression	-0.326668147	0.006249796	0.999513231	0.981049911	"['MSMO1', 'LGR5', 'HSPD1P11']"	ARCHS4 (coexpressed genes)	upregulated
+MAP3K19_human_kinase_ARCHS4_coexpression	-0.326211878	0.006241067	0.999513231	0.981049911	"['CDS1', 'FOXJ1', 'CAPS']"	ARCHS4 (coexpressed genes)	upregulated
+AATK_human_kinase_ARCHS4_coexpression	-0.319699552	0.006116474	0.999513231	0.981049911	"['LMTK3', 'AC255361.1', 'RAB11FIP4']"	ARCHS4 (coexpressed genes)	upregulated
+IGF1R_human_kinase_ARCHS4_coexpression	-0.235612759	0.00450773	0.999513231	0.981049911	"['FASN', 'WWC1', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+EIF2AK2_human_kinase_ARCHS4_coexpression	-0.315422663	0.006034648	0.999513231	0.981049911	"['IFI6', 'ISG15', 'MKI67']"	ARCHS4 (coexpressed genes)	upregulated
+AKT2_human_kinase_ARCHS4_coexpression	-0.294560029	0.005635506	0.999513231	0.981049911	"['IRAK1', 'FASN', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+DMPK_human_kinase_ARCHS4_coexpression	-0.293958177	0.005623991	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK3_human_kinase_ARCHS4_coexpression	-0.270848418	0.005181856	0.999513231	0.981049911	"['TMEM54', 'LMTK3', 'ATP13A2']"	ARCHS4 (coexpressed genes)	upregulated
+EEF2K_human_kinase_ARCHS4_coexpression	-0.268647468	0.005139748	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+EPHB1_human_kinase_ARCHS4_coexpression	-0.261630905	0.005005507	0.999513231	0.981049911	"['GABRA3', 'HN1', 'PAFAH1B3']"	ARCHS4 (coexpressed genes)	upregulated
+HIPK3_human_kinase_ARCHS4_coexpression	-0.259404228	0.004962907	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'CAPS']"	ARCHS4 (coexpressed genes)	upregulated
+CDK12_human_kinase_ARCHS4_coexpression	-0.258303084	0.00494184	0.999513231	0.981049911	"['MKI67', 'CDC25A', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+LCK_human_kinase_ARCHS4_coexpression	-0.312001975	0.005969204	0.999513231	0.981049911	"['PFN1P1', 'AC079250.1', 'RP11-550F7.1']"	ARCHS4 (coexpressed genes)	upregulated
+TBK1_human_kinase_ARCHS4_coexpression	-0.067428146	0.001290031	0.999513231	0.981049911	"['RPSAP1', 'TRIAP1', 'GPX1P2']"	ARCHS4 (coexpressed genes)	upregulated
+DYRK2_human_kinase_ARCHS4_coexpression	-0.371821322	0.007113664	0.999513231	0.981049911	"['PRR15L', 'ITLN1', 'KRT20']"	ARCHS4 (coexpressed genes)	upregulated
+RIOK3_human_kinase_ARCHS4_coexpression	-0.033957674	0.000649676	0.999513231	0.981049911	"['ZNF185', 'BPGM', 'DDX11L2']"	ARCHS4 (coexpressed genes)	upregulated
+RPS6KC1_human_kinase_ARCHS4_coexpression	-0.045516399	0.000870817	0.999513231	0.981049911	"['C4ORF51', 'MTRNR2L11', 'RPL29P22']"	ARCHS4 (coexpressed genes)	upregulated
+PRKG1_human_kinase_ARCHS4_coexpression	0.015645862	-0.000299336	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+PRKAA2_human_kinase_ARCHS4_coexpression	0.01129164	-0.000216031	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+PRKD3_human_kinase_ARCHS4_coexpression	0.005778232	-0.000110549	0.999513231	0.981049911	"['MAGEA1', 'MKI67', 'CTAG2']"	ARCHS4 (coexpressed genes)	upregulated
+TNNI3K_human_kinase_ARCHS4_coexpression	0.001270457	-2.43E-05	0.999513231	0.981049911	"['MMP15', 'RP11-184J23.2', 'TNNC1']"	ARCHS4 (coexpressed genes)	upregulated
+NEK6_human_kinase_ARCHS4_coexpression	-0.004770623	9.13E-05	0.999513231	0.981049911	"['SEMA7A', 'TREM2', 'CALR']"	ARCHS4 (coexpressed genes)	upregulated
+PRKCQ_human_kinase_ARCHS4_coexpression	-0.014193117	0.000271542	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+PDK2_human_kinase_ARCHS4_coexpression	0.005244505	-0.000100338	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+OBSCN_human_kinase_ARCHS4_coexpression	-0.016502696	0.000315729	0.999513231	0.981049911	"['MYBPC1', 'TNNC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+CDK8_human_kinase_ARCHS4_coexpression	-0.543835937	0.010404638	0.999513231	0.981049911	"['RP11-294C11.5', 'C19ORF33', 'RP5-1059H15.1']"	ARCHS4 (coexpressed genes)	upregulated
+PRKCE_human_kinase_ARCHS4_coexpression	-0.027872905	0.000533263	0.999513231	0.981049911	"['CAMK2N1', 'LMTK3', 'RAB11FIP4']"	ARCHS4 (coexpressed genes)	upregulated
+PRKACG	4.150935185	-0.04751337	0.989519232	0.988618836	['KPNA2']	KEA (experimentally validated targets)	upregulated
+PRKACA	4.187871418	-0.04412374	0.989519232	0.989519232	"['SLC9A3R1', 'UHRF1', 'BIRC5', 'HIST1H3B']"	KEA (experimentally validated targets)	upregulated
+CSK_human_kinase_ARCHS4_coexpression	1.057747917	-0.004533234	0.999513231	0.995723429	"['GIMAP1-GIMAP5', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+STK39_human_kinase_ARCHS4_coexpression	1.246835745	-0.005343615	0.999513231	0.995723429	"['SEPT10', 'PRUNE2']"	ARCHS4 (coexpressed genes)	downregulated
+EIF2AK1_human_kinase_ARCHS4_coexpression	1.070941345	-0.004589777	0.999513231	0.995723429	"['SDPR', 'SMIM1']"	ARCHS4 (coexpressed genes)	downregulated
+RAF1_human_kinase_ARCHS4_coexpression	1.246088943	-0.005340415	0.999513231	0.995723429	"['FAM129A', 'LLNLF-173C4.2']"	ARCHS4 (coexpressed genes)	downregulated
+CDK12_human_kinase_ARCHS4_coexpression	1.002632166	-0.004297022	0.999513231	0.995723429	"['ANKHD1-EIF4EBP3', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+TRPM7_human_kinase_ARCHS4_coexpression	1.221786541	-0.005236261	0.999513231	0.995723429	"['SMG1P2', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+PASK_human_kinase_ARCHS4_coexpression	1.220363033	-0.00523016	0.999513231	0.995723429	"['GIMAP1-GIMAP5', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+PDK3_human_kinase_ARCHS4_coexpression	1.072219656	-0.004595256	0.999513231	0.995723429	"['FOS', 'LIMS2']"	ARCHS4 (coexpressed genes)	downregulated
+LYN_human_kinase_ARCHS4_coexpression	1.21591978	-0.005211118	0.999513231	0.995723429	"['FGL2', 'FAM129A']"	ARCHS4 (coexpressed genes)	downregulated
+IKBKB_human_kinase_ARCHS4_coexpression	0.99823484	-0.004278176	0.999513231	0.995723429	"['PGM5', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+MAP2K1_human_kinase_ARCHS4_coexpression	1.203456307	-0.005157702	0.999513231	0.995723429	"['CADM3', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+PIM1_human_kinase_ARCHS4_coexpression	1.236860468	-0.005300864	0.999513231	0.995723429	"['SMIM1', 'HBA1']"	ARCHS4 (coexpressed genes)	downregulated
+TNK1_human_kinase_ARCHS4_coexpression	1.256441659	-0.005384784	0.999513231	0.995723429	"['KRT17', 'AQP3']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK3_human_kinase_ARCHS4_coexpression	1.004265246	-0.004304021	0.999513231	0.995723429	"['HOMER2P2', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+KALRN_human_kinase_ARCHS4_coexpression	0.373447645	-0.0016005	0.999513231	0.995723429	"['CAMK2N1', 'LMTK3']"	ARCHS4 (coexpressed genes)	upregulated
+CSNK2A1_human_kinase_ARCHS4_coexpression	1.022052315	-0.004380252	0.999513231	0.995723429	"['NLGN4X', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+STK31_human_kinase_ARCHS4_coexpression	0.360708769	-0.001545904	0.999513231	0.995723429	"['AC079250.1', 'CXADRP2']"	ARCHS4 (coexpressed genes)	upregulated
+VRK3_human_kinase_ARCHS4_coexpression	1.036693976	-0.004443002	0.999513231	0.995723429	"['SH3GL3', 'SPZ1']"	ARCHS4 (coexpressed genes)	downregulated
+TSSK3_human_kinase_ARCHS4_coexpression	1.041573924	-0.004463916	0.999513231	0.995723429	"['SPZ1', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+OXSR1_human_kinase_ARCHS4_coexpression	1.307779217	-0.005604803	0.999513231	0.995723429	"['FLNA', 'BIVM-ERCC5']"	ARCHS4 (coexpressed genes)	downregulated
+PRKD1_human_kinase_ARCHS4_coexpression	0.361607444	-0.001549756	0.999513231	0.995723429	"['RASAL1', 'FAM71E1']"	ARCHS4 (coexpressed genes)	upregulated
+ZAP70_human_kinase_ARCHS4_coexpression	1.373697818	-0.005887313	0.999513231	0.995723429	"['GIMAP1-GIMAP5', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+STK10_human_kinase_ARCHS4_coexpression	1.346645339	-0.005771373	0.999513231	0.995723429	"['GIMAP1-GIMAP5', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+ERBB2_human_kinase_ARCHS4_coexpression	1.04266684	-0.0044686	0.999513231	0.995723429	"['ID1', 'SHROOM1']"	ARCHS4 (coexpressed genes)	downregulated
+SCYL3_human_kinase_ARCHS4_coexpression	0.402062895	-0.001723138	0.999513231	0.995723429	"['YIPF2', 'CTC-260F20.3']"	ARCHS4 (coexpressed genes)	upregulated
+STK26_human_kinase_ARCHS4_coexpression	1.262236595	-0.005409619	0.999513231	0.995723429	"['NLGN4X', 'ADAMTS19']"	ARCHS4 (coexpressed genes)	downregulated
+MAP3K14_human_kinase_ARCHS4_coexpression	1.193150599	-0.005113535	0.999513231	0.995723429	"['MS4A1', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+SRMS_human_kinase_ARCHS4_coexpression	1.154622596	-0.004948414	0.999513231	0.995723429	"['PRUNE2', 'SHROOM1']"	ARCHS4 (coexpressed genes)	downregulated
+GRK6_human_kinase_ARCHS4_coexpression	1.18761926	-0.005089829	0.999513231	0.995723429	"['GIMAP1-GIMAP5', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+PLK5_human_kinase_ARCHS4_coexpression	0.415539933	-0.001780897	0.999513231	0.995723429	"['LMTK3', 'SPTBN2']"	ARCHS4 (coexpressed genes)	upregulated
+INSRR_human_kinase_ARCHS4_coexpression	0.718086352	-0.003077532	0.999513231	0.995723429	"['RP11-497H16.5', 'LIMS2']"	ARCHS4 (coexpressed genes)	downregulated
+EIF2AK4_human_kinase_ARCHS4_coexpression	0.771899088	-0.00330816	0.999513231	0.995723429	"['SFRP1', 'AL135791.1']"	ARCHS4 (coexpressed genes)	downregulated
+CDK10_human_kinase_ARCHS4_coexpression	0.779957461	-0.003342696	0.999513231	0.995723429	"['ADGRB3', 'ITGA8']"	ARCHS4 (coexpressed genes)	downregulated
+CLK3_human_kinase_ARCHS4_coexpression	0.652025804	-0.002794414	0.999513231	0.995723429	"['SPZ1', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+STK32C_human_kinase_ARCHS4_coexpression	0.866597197	-0.003714011	0.999513231	0.995723429	"['SDPR', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+ACVR1B_human_kinase_ARCHS4_coexpression	0.90501066	-0.003878641	0.999513231	0.995723429	"['CADM3', 'DPYSL3']"	ARCHS4 (coexpressed genes)	downregulated
+MINK1_human_kinase_ARCHS4_coexpression	0.452056277	-0.001937396	0.999513231	0.995723429	"['ADAM15', 'ATP13A2']"	ARCHS4 (coexpressed genes)	upregulated
+CSNK1A1_human_kinase_ARCHS4_coexpression	0.910266043	-0.003901165	0.999513231	0.995723429	"['EGR1', 'OR7E28P']"	ARCHS4 (coexpressed genes)	downregulated
+MAP4K1_human_kinase_ARCHS4_coexpression	1.084299589	-0.004647027	0.999513231	0.995723429	"['MS4A1', 'KLF2']"	ARCHS4 (coexpressed genes)	downregulated
+MAPK4_human_kinase_ARCHS4_coexpression	0.357702735	-0.001533021	0.999513231	0.995723429	"['CAMK2N1', 'LMTK3']"	ARCHS4 (coexpressed genes)	upregulated
+AURKA_human_kinase_ARCHS4_coexpression	0.915468086	-0.003923459	0.999513231	0.995723429	"['GTF2A1L', 'TMEM252']"	ARCHS4 (coexpressed genes)	downregulated
+CAMKK2_human_kinase_ARCHS4_coexpression	0.925835312	-0.003967891	0.999513231	0.995723429	"['CADM3', 'SPARCL1']"	ARCHS4 (coexpressed genes)	downregulated
+EIF2AK2_human_kinase_ARCHS4_coexpression	0.927151463	-0.003973531	0.999513231	0.995723429	"['FAM129A', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+LMTK3_human_kinase_ARCHS4_coexpression	1.115848077	-0.004782236	0.999513231	0.995723429	"['CADM3', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+NRBP1_human_kinase_ARCHS4_coexpression	0.927717964	-0.003975959	0.999513231	0.995723429	"['SPZ1', 'HOMER2P2']"	ARCHS4 (coexpressed genes)	downregulated
+MET_human_kinase_ARCHS4_coexpression	1.134528438	-0.004862295	0.999513231	0.995723429	"['SEPT10', 'FLNA']"	ARCHS4 (coexpressed genes)	downregulated
+CDC7_human_kinase_ARCHS4_coexpression	0.942558777	-0.004039563	0.999513231	0.995723429	"['NLGN4X', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+LIMK2_human_kinase_ARCHS4_coexpression	1.142260397	-0.004895432	0.999513231	0.995723429	"['FAM129A', 'LLNLF-173C4.2']"	ARCHS4 (coexpressed genes)	downregulated
+RIOK2_human_kinase_ARCHS4_coexpression	0.40456774	-0.001733873	0.999513231	0.995723429	"['TRIAP1', 'NME1']"	ARCHS4 (coexpressed genes)	upregulated
+PAK5_human_kinase_ARCHS4_coexpression	0.398804843	-0.001709174	0.999513231	0.995723429	"['HN1', 'PAFAH1B3']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK11_human_kinase_ARCHS4_coexpression	1.152834718	-0.004940751	0.999513231	0.995723429	"['CADM3', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+CSNK2A2_human_kinase_ARCHS4_coexpression	0.979594666	-0.004198289	0.999513231	0.995723429	"['ORC3', 'AASS']"	ARCHS4 (coexpressed genes)	downregulated
+NEK1_human_kinase_ARCHS4_coexpression	0.984976075	-0.004221353	0.999513231	0.995723429	"['NBEA', 'PHKB']"	ARCHS4 (coexpressed genes)	downregulated
+SMG1_human_kinase_ARCHS4_coexpression	1.159932146	-0.004971169	0.999513231	0.995723429	"['SMG1P2', 'UTRN']"	ARCHS4 (coexpressed genes)	downregulated
+PRKCG_human_kinase_ARCHS4_coexpression	1.17720659	-0.005045203	0.999513231	0.995723429	"['CADM3', 'PHYHIP']"	ARCHS4 (coexpressed genes)	downregulated
+RPS6KB1_human_kinase_ARCHS4_coexpression	1.183270224	-0.00507119	0.999513231	0.995723429	"['EPB41L5', 'ADAMTS19']"	ARCHS4 (coexpressed genes)	downregulated
+MARK4_human_kinase_ARCHS4_coexpression	1.188688117	-0.00509441	0.999513231	0.995723429	"['DPYSL3', 'SPEG']"	ARCHS4 (coexpressed genes)	downregulated
+MATK_human_kinase_ARCHS4_coexpression	0.196535252	-0.000842299	0.999513231	0.995723429	"['LRRC8E', 'TOMM6']"	ARCHS4 (coexpressed genes)	upregulated
+PIM3_human_kinase_ARCHS4_coexpression	0.492261918	-0.002109707	0.999513231	0.995723429	"['IRAK1', 'C17ORF96']"	ARCHS4 (coexpressed genes)	upregulated
+MAP3K4_human_kinase_ARCHS4_coexpression	0.351123485	-0.001504824	0.999513231	0.995723429	"['CCNA2', 'KIF2C']"	ARCHS4 (coexpressed genes)	upregulated
+TSSK1B_human_kinase_ARCHS4_coexpression	0.287175757	-0.001230761	0.999513231	0.995723429	"['MTRNR2L11', 'FAM71F2']"	ARCHS4 (coexpressed genes)	upregulated
+DCLK1_human_kinase_ARCHS4_coexpression	0.276797794	-0.001186284	0.999513231	0.995723429	"['CAMK2N1', 'LMTK3']"	ARCHS4 (coexpressed genes)	upregulated
+CDK11A_human_kinase_ARCHS4_coexpression	-0.137999809	0.000591431	0.999513231	0.995723429	"['MTRNR2L11', 'FAM71F2']"	ARCHS4 (coexpressed genes)	upregulated
+CSNK1G1_human_kinase_ARCHS4_coexpression	-0.119422659	0.000511815	0.999513231	0.995723429	"['AC093724.2', 'PFN1P6']"	ARCHS4 (coexpressed genes)	upregulated
+DCLK3_human_kinase_ARCHS4_coexpression	-0.074788369	0.000320524	0.999513231	0.995723429	"['RPS16P8', 'AL590762.6']"	ARCHS4 (coexpressed genes)	upregulated
+ARAF_human_kinase_ARCHS4_coexpression	0.274115418	-0.001174788	0.999513231	0.995723429	"['TRAPPC1', 'CFL1']"	ARCHS4 (coexpressed genes)	upregulated
+INSRR_human_kinase_ARCHS4_coexpression	-0.035057954	0.000150249	0.999513231	0.995723429	"['POM121L14P', 'YDJC']"	ARCHS4 (coexpressed genes)	upregulated
+CDK11B_human_kinase_ARCHS4_coexpression	0.268708062	-0.001151613	0.999513231	0.995723429	"['RP11-2C24.9', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+FLT3_human_kinase_ARCHS4_coexpression	0.268469829	-0.001150592	0.999513231	0.995723429	"['VAMP8', 'UHRF1']"	ARCHS4 (coexpressed genes)	upregulated
+ANKK1_human_kinase_ARCHS4_coexpression	-0.009550758	4.09E-05	0.999513231	0.995723429	"['FOXJ1', 'CAPS']"	ARCHS4 (coexpressed genes)	upregulated
+CDK3_human_kinase_ARCHS4_coexpression	0.007626945	-3.27E-05	0.999513231	0.995723429	"['AC093724.2', 'PFN1P6']"	ARCHS4 (coexpressed genes)	upregulated
+ACVR1_human_kinase_ARCHS4_coexpression	0.145255851	-0.000622529	0.999513231	0.995723429	"['ZNF185', 'DDX11L2']"	ARCHS4 (coexpressed genes)	upregulated
+CDK6_human_kinase_ARCHS4_coexpression	0.267830796	-0.001147853	0.999513231	0.995723429	"['MKI67', 'MCM2']"	ARCHS4 (coexpressed genes)	upregulated
+EPHA3_human_kinase_ARCHS4_coexpression	0.158598022	-0.00067971	0.999513231	0.995723429	"['MSMO1', 'TMEM187']"	ARCHS4 (coexpressed genes)	upregulated
+DCLK2_human_kinase_ARCHS4_coexpression	0.265336335	-0.001137163	0.999513231	0.995723429	"['PODXL2', 'LMTK3']"	ARCHS4 (coexpressed genes)	upregulated
+ALPK2_human_kinase_ARCHS4_coexpression	0.160448013	-0.000687639	0.999513231	0.995723429	"['MYBPC1', 'TNNC1']"	ARCHS4 (coexpressed genes)	upregulated
+CDK14_human_kinase_ARCHS4_coexpression	0.265022703	-0.001135819	0.999513231	0.995723429	"['CAMK2N1', 'LMTK3']"	ARCHS4 (coexpressed genes)	upregulated
+CAMK1D_human_kinase_ARCHS4_coexpression	0.165514302	-0.000709351	0.999513231	0.995723429	"['LMTK3', 'RAB11FIP4']"	ARCHS4 (coexpressed genes)	upregulated
+AXL_human_kinase_ARCHS4_coexpression	0.0877735	-0.000376175	0.999513231	0.995723429	"['BIRC5', 'DKK1']"	ARCHS4 (coexpressed genes)	upregulated
+BMX_human_kinase_ARCHS4_coexpression	0.186652432	-0.000799944	0.999513231	0.995723429	"['ESM1', 'ADAM15']"	ARCHS4 (coexpressed genes)	upregulated
+SBK2_human_kinase_ARCHS4_coexpression	0.18682534	-0.000800685	0.999513231	0.995723429	"['MTRNR2L11', 'FAM71F2']"	ARCHS4 (coexpressed genes)	upregulated
+CAMK4_human_kinase_ARCHS4_coexpression	0.214681554	-0.00092007	0.999513231	0.995723429	"['LMTK3', 'RAB11FIP4']"	ARCHS4 (coexpressed genes)	upregulated
+ALPK3_human_kinase_ARCHS4_coexpression	0.211257962	-0.000905397	0.999513231	0.995723429	"['MYBPC1', 'DUPD1']"	ARCHS4 (coexpressed genes)	upregulated
+MAPK7_human_kinase_ARCHS4_coexpression	0.189707478	-0.000813037	0.999513231	0.995723429	"['SNTG1', 'RP11-343C2.11']"	ARCHS4 (coexpressed genes)	upregulated
+MOK_human_kinase_ARCHS4_coexpression	0.205517751	-0.000880796	0.999513231	0.995723429	"['FOXJ1', 'CAPS']"	ARCHS4 (coexpressed genes)	upregulated
+STK40_human_kinase_ARCHS4_coexpression	1.436505379	-0.00615649	0.999513231	0.995723429	"['SLC46A2', 'LLNLF-173C4.2']"	ARCHS4 (coexpressed genes)	downregulated
+EPHB4_human_kinase_ARCHS4_coexpression	1.078693229	-0.004623	0.999513231	0.995723429	"['SMTN', 'FLNA']"	ARCHS4 (coexpressed genes)	downregulated
+NEK8_human_kinase_ARCHS4_coexpression	0.121513354	-0.000520775	0.999513231	0.995723429	"['MTCYBP18', 'SYNE4']"	ARCHS4 (coexpressed genes)	upregulated
+TSSK6_human_kinase_ARCHS4_coexpression	0.318034432	-0.001363013	0.999513231	0.995723429	"['MTRNR2L11', 'FAM71F2']"	ARCHS4 (coexpressed genes)	upregulated
+MAP2K4_human_kinase_ARCHS4_coexpression	0.345021939	-0.001478675	0.999513231	0.995723429	"['CAMK2N1', 'RAB11FIP4']"	ARCHS4 (coexpressed genes)	upregulated
+IRAK2_human_kinase_ARCHS4_coexpression	0.343687179	-0.001472954	0.999513231	0.995723429	"['SLC31A2', 'C17ORF96']"	ARCHS4 (coexpressed genes)	upregulated
+MARK1_human_kinase_ARCHS4_coexpression	0.331768761	-0.001421875	0.999513231	0.995723429	"['SNTG1', 'PAFAH1B3']"	ARCHS4 (coexpressed genes)	upregulated
+GRK5_human_kinase_ARCHS4_coexpression	0.324499928	-0.001390723	0.999513231	0.995723429	"['ZNF185', 'DDX11L2']"	ARCHS4 (coexpressed genes)	upregulated
+PHKG2_human_kinase_ARCHS4_coexpression	0.324479749	-0.001390636	0.999513231	0.995723429	"['OXLD1', 'YDJC']"	ARCHS4 (coexpressed genes)	upregulated
+NEK7_human_kinase_ARCHS4_coexpression	0.45250481	-0.001939319	0.999513231	0.995723429	"['IGFBP3', 'DKK1']"	ARCHS4 (coexpressed genes)	upregulated
+NTRK2_human_kinase_ARCHS4_coexpression	0.460134235	-0.001972016	0.999513231	0.995723429	"['LMTK3', 'MSMO1']"	ARCHS4 (coexpressed genes)	upregulated
+PAK1_human_kinase_ARCHS4_coexpression	0.466901525	-0.002001019	0.999513231	0.995723429	"['LMTK3', 'RAB11FIP4']"	ARCHS4 (coexpressed genes)	upregulated
+STK32A_human_kinase_ARCHS4_coexpression	0.470474549	-0.002016332	0.999513231	0.995723429	"['CALML5', 'PODXL2']"	ARCHS4 (coexpressed genes)	upregulated
+PKN2_human_kinase_ARCHS4_coexpression	0.477508242	-0.002046477	0.999513231	0.995723429	"['RP1-229K20.5', 'KLF5']"	ARCHS4 (coexpressed genes)	upregulated
+STK17A_human_kinase_ARCHS4_coexpression	0.488690451	-0.002094401	0.999513231	0.995723429	"['RPIA', 'RP5-1057J7.1']"	ARCHS4 (coexpressed genes)	upregulated
+SGK1_human_kinase_ARCHS4_coexpression	0.489863263	-0.002099427	0.999513231	0.995723429	"['SLC31A2', 'TREM2']"	ARCHS4 (coexpressed genes)	upregulated
+MAP2K6_human_kinase_ARCHS4_coexpression	0.19008774	-0.000814667	0.999513231	0.995723429	"['RPL7AP11', 'MMP15']"	ARCHS4 (coexpressed genes)	upregulated
+NUAK1_human_kinase_ARCHS4_coexpression	0.311592515	-0.001335405	0.999513231	0.995723429	"['TMEM147', 'HSD17B10']"	ARCHS4 (coexpressed genes)	upregulated
+IRAK4_human_kinase_ARCHS4_coexpression	1.080941436	-0.004632635	0.999513231	0.995723429	"['GIMAP1-GIMAP5', 'FGL2']"	ARCHS4 (coexpressed genes)	downregulated
+RYK_human_kinase_ARCHS4_coexpression	0.52847942	-0.002264926	0.999513231	0.995723429	"['MAL2', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+PKN1_human_kinase_ARCHS4_coexpression	0.540952748	-0.002318383	0.999513231	0.995723429	"['IRAK1', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+STRADB_human_kinase_ARCHS4_coexpression	0.542162254	-0.002323567	0.999513231	0.995723429	"['RPIA', 'BPGM']"	ARCHS4 (coexpressed genes)	upregulated
+STK38L_human_kinase_ARCHS4_coexpression	0.551072754	-0.002361755	0.999513231	0.995723429	"['SEMA7A', 'RP5-1059H15.1']"	ARCHS4 (coexpressed genes)	upregulated
+SLK_human_kinase_ARCHS4_coexpression	0.566728736	-0.002428853	0.999513231	0.995723429	"['KLF5', 'TACSTD2']"	ARCHS4 (coexpressed genes)	upregulated
+ULK2_human_kinase_ARCHS4_coexpression	0.578766485	-0.002480443	0.999513231	0.995723429	"['C4ORF51', 'RP11-402P6.15']"	ARCHS4 (coexpressed genes)	upregulated
+STK11_human_kinase_ARCHS4_coexpression	0.58649989	-0.002513587	0.999513231	0.995723429	"['IRAK1', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+PRKACA_human_kinase_ARCHS4_coexpression	0.590000827	-0.002528591	0.999513231	0.995723429	"['MYBPC1', 'TNNC1']"	ARCHS4 (coexpressed genes)	upregulated
+TRIO_human_kinase_ARCHS4_coexpression	0.616345715	-0.002641498	0.999513231	0.995723429	"['CALR', 'LMNB2']"	ARCHS4 (coexpressed genes)	upregulated
+TTBK2_human_kinase_ARCHS4_coexpression	0.625410594	-0.002680348	0.999513231	0.995723429	"['MTRNR2L11', 'CAMK2N1']"	ARCHS4 (coexpressed genes)	upregulated
+WNK3_human_kinase_ARCHS4_coexpression	0.649059623	-0.002781702	0.999513231	0.995723429	"['SNTG1', 'MSMO1']"	ARCHS4 (coexpressed genes)	upregulated
+ULK3_human_kinase_ARCHS4_coexpression	0.656374471	-0.002813051	0.999513231	0.995723429	"['SLC9A3R1', 'COMTD1']"	ARCHS4 (coexpressed genes)	upregulated
+TSSK2_human_kinase_ARCHS4_coexpression	0.321087007	-0.001376096	0.999513231	0.995723429	"['MTRNR2L11', 'FAM71F2']"	ARCHS4 (coexpressed genes)	upregulated
+WNK1_human_kinase_ARCHS4_coexpression	1.339956926	-0.000652408	0.999513231	0.999513231	['MKI67']	ARCHS4 (coexpressed genes)	upregulated
+SIK3_human_kinase_ARCHS4_coexpression	1.291150165	-0.000628644	0.999513231	0.999513231	['RAB11FIP4']	ARCHS4 (coexpressed genes)	upregulated
+TNK2_human_kinase_ARCHS4_coexpression	1.312532777	-0.000639055	0.999513231	0.999513231	['LMTK3']	ARCHS4 (coexpressed genes)	upregulated
+CAMK1_human_kinase_ARCHS4_coexpression	1.424240618	-0.000693444	0.999513231	0.999513231	['CCL2']	ARCHS4 (coexpressed genes)	downregulated
+TYK2_human_kinase_ARCHS4_coexpression	1.803031289	-0.000877873	0.999513231	0.999513231	['KLF2']	ARCHS4 (coexpressed genes)	downregulated
+MUSK_human_kinase_ARCHS4_coexpression	0.870343044	-0.000423759	0.999513231	0.999513231	['LRRC59']	ARCHS4 (coexpressed genes)	upregulated
+LRRK2_human_kinase_ARCHS4_coexpression	0.885793593	-0.000431281	0.999513231	0.999513231	['RP1-229K20.5']	ARCHS4 (coexpressed genes)	upregulated
+PDK1_human_kinase_ARCHS4_coexpression	0.899146283	-0.000437783	0.999513231	0.999513231	['RP11-155G14.5']	ARCHS4 (coexpressed genes)	upregulated
+MYO3A_human_kinase_ARCHS4_coexpression	0.9046436	-0.000440459	0.999513231	0.999513231	['IGFL1P1']	ARCHS4 (coexpressed genes)	upregulated
+STKLD1_human_kinase_ARCHS4_coexpression	0.916493038	-0.000446229	0.999513231	0.999513231	['BOLA2B']	ARCHS4 (coexpressed genes)	upregulated
+MAP2K3_human_kinase_ARCHS4_coexpression	0.918418198	-0.000447166	0.999513231	0.999513231	['BPGM']	ARCHS4 (coexpressed genes)	upregulated
+MAP3K8_human_kinase_ARCHS4_coexpression	0.931661506	-0.000453614	0.999513231	0.999513231	['SLC31A2']	ARCHS4 (coexpressed genes)	upregulated
+IKBKE_human_kinase_ARCHS4_coexpression	0.933972934	-0.000454739	0.999513231	0.999513231	['VAMP8']	ARCHS4 (coexpressed genes)	upregulated
+LIMK2_human_kinase_ARCHS4_coexpression	0.940812095	-0.000458069	0.999513231	0.999513231	['SLC31A2']	ARCHS4 (coexpressed genes)	upregulated
+PDIK1L_human_kinase_ARCHS4_coexpression	0.94772699	-0.000461436	0.999513231	0.999513231	['HN1']	ARCHS4 (coexpressed genes)	upregulated
+MAST3_human_kinase_ARCHS4_coexpression	0.962346211	-0.000468554	0.999513231	0.999513231	['RAB11FIP4']	ARCHS4 (coexpressed genes)	upregulated
+MAPK6_human_kinase_ARCHS4_coexpression	0.962533943	-0.000468645	0.999513231	0.999513231	['CCNA2']	ARCHS4 (coexpressed genes)	upregulated
+NTRK1_human_kinase_ARCHS4_coexpression	0.858146788	-0.000417821	0.999513231	0.999513231	['LY6G6E']	ARCHS4 (coexpressed genes)	upregulated
+MAPKAPK2_human_kinase_ARCHS4_coexpression	0.990081649	-0.000482058	0.999513231	0.999513231	['IRAK1']	ARCHS4 (coexpressed genes)	upregulated
+TSSK3_human_kinase_ARCHS4_coexpression	1.01626084	-0.000494804	0.999513231	0.999513231	['FAM71F2']	ARCHS4 (coexpressed genes)	upregulated
+PAK2_human_kinase_ARCHS4_coexpression	1.018152912	-0.000495725	0.999513231	0.999513231	['CALR']	ARCHS4 (coexpressed genes)	upregulated
+MKNK1_human_kinase_ARCHS4_coexpression	1.028332239	-0.000500682	0.999513231	0.999513231	['TREM2']	ARCHS4 (coexpressed genes)	upregulated
+ROCK1_human_kinase_ARCHS4_coexpression	1.032840268	-0.000502877	0.999513231	0.999513231	['LRRC59']	ARCHS4 (coexpressed genes)	upregulated
+PAK3_human_kinase_ARCHS4_coexpression	1.041743249	-0.000507211	0.999513231	0.999513231	['BEX5']	ARCHS4 (coexpressed genes)	upregulated
+MKNK2_human_kinase_ARCHS4_coexpression	1.044912984	-0.000508755	0.999513231	0.999513231	['SEMA7A']	ARCHS4 (coexpressed genes)	upregulated
+PDPK1_human_kinase_ARCHS4_coexpression	1.045718737	-0.000509147	0.999513231	0.999513231	['AC093724.2']	ARCHS4 (coexpressed genes)	upregulated
+RPS6KL1_human_kinase_ARCHS4_coexpression	1.064440049	-0.000518262	0.999513231	0.999513231	['LY6G6E']	ARCHS4 (coexpressed genes)	upregulated
+MAPKAPK3_human_kinase_ARCHS4_coexpression	1.075044712	-0.000523425	0.999513231	0.999513231	['TSPO']	ARCHS4 (coexpressed genes)	upregulated
+PRPF4B_human_kinase_ARCHS4_coexpression	1.086553808	-0.000529029	0.999513231	0.999513231	['MKI67']	ARCHS4 (coexpressed genes)	upregulated
+PRKCA_human_kinase_ARCHS4_coexpression	1.088434242	-0.000529945	0.999513231	0.999513231	['CAMK2N1']	ARCHS4 (coexpressed genes)	upregulated
+WNK4_human_kinase_ARCHS4_coexpression	1.093512609	-0.000532417	0.999513231	0.999513231	['SLC6A8']	ARCHS4 (coexpressed genes)	upregulated
+HCK_human_kinase_ARCHS4_coexpression	0.995228889	-0.000484564	0.999513231	0.999513231	['SLC31A2']	ARCHS4 (coexpressed genes)	upregulated
+PRKAA1_human_kinase_ARCHS4_coexpression	1.094614556	-0.000532954	0.999513231	0.999513231	['KLF5']	ARCHS4 (coexpressed genes)	upregulated
+MAP3K2_human_kinase_ARCHS4_coexpression	0.855625722	-0.000416593	0.999513231	0.999513231	['RP1-229K20.5']	ARCHS4 (coexpressed genes)	upregulated
+KSR2_human_kinase_ARCHS4_coexpression	0.83852602	-0.000408267	0.999513231	0.999513231	['MTCYBP18']	ARCHS4 (coexpressed genes)	upregulated
+CDK19_human_kinase_ARCHS4_coexpression	0.554748625	-0.0002701	0.999513231	0.999513231	['SPTBN2']	ARCHS4 (coexpressed genes)	upregulated
+CDK15_human_kinase_ARCHS4_coexpression	0.560991526	-0.00027314	0.999513231	0.999513231	['LY6G6E']	ARCHS4 (coexpressed genes)	upregulated
+BMP2K_human_kinase_ARCHS4_coexpression	0.635120081	-0.000309232	0.999513231	0.999513231	['TREM2']	ARCHS4 (coexpressed genes)	upregulated
+EPHA7_human_kinase_ARCHS4_coexpression	0.652576554	-0.000317731	0.999513231	0.999513231	['RPL31P58']	ARCHS4 (coexpressed genes)	upregulated
+CASK_human_kinase_ARCHS4_coexpression	0.655678291	-0.000319241	0.999513231	0.999513231	['RP5-1115A15.2']	ARCHS4 (coexpressed genes)	upregulated
+CDK17_human_kinase_ARCHS4_coexpression	0.671464283	-0.000326927	0.999513231	0.999513231	['ESM1']	ARCHS4 (coexpressed genes)	upregulated
+ACVR1C_human_kinase_ARCHS4_coexpression	0.672644115	-0.000327502	0.999513231	0.999513231	['RNF128']	ARCHS4 (coexpressed genes)	upregulated
+DYRK1A_human_kinase_ARCHS4_coexpression	0.68223524	-0.000332171	0.999513231	0.999513231	['CTD-2545M3.6']	ARCHS4 (coexpressed genes)	upregulated
+CSNK1G3_human_kinase_ARCHS4_coexpression	0.6823181	-0.000332212	0.999513231	0.999513231	['MSMO1']	ARCHS4 (coexpressed genes)	upregulated
+ACVR2A_human_kinase_ARCHS4_coexpression	0.703905012	-0.000342722	0.999513231	0.999513231	['SPINT2']	ARCHS4 (coexpressed genes)	upregulated
+MAP3K13_human_kinase_ARCHS4_coexpression	0.726037741	-0.000353498	0.999513231	0.999513231	['SNTG1']	ARCHS4 (coexpressed genes)	upregulated
+GRK3_human_kinase_ARCHS4_coexpression	0.734125448	-0.000357436	0.999513231	0.999513231	['CAMK2N1']	ARCHS4 (coexpressed genes)	upregulated
+ICK_human_kinase_ARCHS4_coexpression	0.848345657	-0.000413049	0.999513231	0.999513231	['KLF5']	ARCHS4 (coexpressed genes)	upregulated
+DAPK1_human_kinase_ARCHS4_coexpression	0.746368526	-0.000363397	0.999513231	0.999513231	['TREM2']	ARCHS4 (coexpressed genes)	upregulated
+STRADA_human_kinase_ARCHS4_coexpression	1.25152268	-0.00060935	0.999513231	0.999513231	['ZACN']	ARCHS4 (coexpressed genes)	upregulated
+EIF2AK3_human_kinase_ARCHS4_coexpression	0.758700331	-0.000369401	0.999513231	0.999513231	['SEMA7A']	ARCHS4 (coexpressed genes)	upregulated
+BMPR2_human_kinase_ARCHS4_coexpression	0.760562361	-0.000370308	0.999513231	0.999513231	['CAMK2N1']	ARCHS4 (coexpressed genes)	upregulated
+GRK1_human_kinase_ARCHS4_coexpression	0.768370677	-0.00037411	0.999513231	0.999513231	['PAQR4']	ARCHS4 (coexpressed genes)	upregulated
+FGFR2_human_kinase_ARCHS4_coexpression	0.782274269	-0.000380879	0.999513231	0.999513231	['RAB11FIP4']	ARCHS4 (coexpressed genes)	upregulated
+NRBP1_human_kinase_ARCHS4_coexpression	0.785265532	-0.000382336	0.999513231	0.999513231	['FAM71F2']	ARCHS4 (coexpressed genes)	upregulated
+FGFR1_human_kinase_ARCHS4_coexpression	0.790664464	-0.000384964	0.999513231	0.999513231	['LMNB2']	ARCHS4 (coexpressed genes)	upregulated
+MAP4K5_human_kinase_ARCHS4_coexpression	0.800291588	-0.000389652	0.999513231	0.999513231	['COL10A1']	ARCHS4 (coexpressed genes)	upregulated
+IKBKB_human_kinase_ARCHS4_coexpression	0.803115233	-0.000391026	0.999513231	0.999513231	['TOMM6']	ARCHS4 (coexpressed genes)	upregulated
+GSK3B_human_kinase_ARCHS4_coexpression	0.805844419	-0.000392355	0.999513231	0.999513231	['CAMK2N1']	ARCHS4 (coexpressed genes)	upregulated
+EPHA4_human_kinase_ARCHS4_coexpression	0.808108736	-0.000393458	0.999513231	0.999513231	['NIPSNAP1']	ARCHS4 (coexpressed genes)	upregulated
+MAST4_human_kinase_ARCHS4_coexpression	0.828536968	-0.000403404	0.999513231	0.999513231	['MTCYBP18']	ARCHS4 (coexpressed genes)	upregulated
+NIM1K_human_kinase_ARCHS4_coexpression	0.753086694	-0.000366668	0.999513231	0.999513231	['SNTG1']	ARCHS4 (coexpressed genes)	upregulated
+RPS6KA1_human_kinase_ARCHS4_coexpression	1.84772102	-0.000899631	0.999513231	0.999513231	['SLC46A2']	ARCHS4 (coexpressed genes)	downregulated
+TEC_human_kinase_ARCHS4_coexpression	1.095253586	-0.000533265	0.999513231	0.999513231	['VAMP8']	ARCHS4 (coexpressed genes)	upregulated
+MARK2_human_kinase_ARCHS4_coexpression	1.106957715	-0.000538963	0.999513231	0.999513231	['ST14']	ARCHS4 (coexpressed genes)	upregulated
+DDR1_human_kinase_ARCHS4_coexpression	1.460078623	-0.000710893	0.999513231	0.999513231	['DPYSL3']	ARCHS4 (coexpressed genes)	downregulated
+LIMK1_human_kinase_ARCHS4_coexpression	1.478652396	-0.000719937	0.999513231	0.999513231	['FLNA']	ARCHS4 (coexpressed genes)	downregulated
+MAPK1_human_kinase_ARCHS4_coexpression	1.494556477	-0.00072768	0.999513231	0.999513231	['PHYHIP']	ARCHS4 (coexpressed genes)	downregulated
+IRAK1_human_kinase_ARCHS4_coexpression	1.498249397	-0.000729478	0.999513231	0.999513231	['FLNA']	ARCHS4 (coexpressed genes)	downregulated
+CSNK1G2_human_kinase_ARCHS4_coexpression	1.5101483	-0.000735272	0.999513231	0.999513231	['KLF2']	ARCHS4 (coexpressed genes)	downregulated
+PAK2_human_kinase_ARCHS4_coexpression	1.51251851	-0.000736426	0.999513231	0.999513231	['FAM129A']	ARCHS4 (coexpressed genes)	downregulated
+PDPK1_human_kinase_ARCHS4_coexpression	1.521675019	-0.000740884	0.999513231	0.999513231	['RP11-123K3.4']	ARCHS4 (coexpressed genes)	downregulated
+STK33_human_kinase_ARCHS4_coexpression	1.524735954	-0.000742374	0.999513231	0.999513231	['BMS1P17']	ARCHS4 (coexpressed genes)	downregulated
+IKBKE_human_kinase_ARCHS4_coexpression	1.5516895	-0.000755498	0.999513231	0.999513231	['GIMAP1-GIMAP5']	ARCHS4 (coexpressed genes)	downregulated
+GRK2_human_kinase_ARCHS4_coexpression	1.559207904	-0.000759158	0.999513231	0.999513231	['KLF2']	ARCHS4 (coexpressed genes)	downregulated
+MKNK1_human_kinase_ARCHS4_coexpression	1.559925128	-0.000759507	0.999513231	0.999513231	['LLNLF-173C4.2']	ARCHS4 (coexpressed genes)	downregulated
+MKNK2_human_kinase_ARCHS4_coexpression	1.586570172	-0.00077248	0.999513231	0.999513231	['ASB2']	ARCHS4 (coexpressed genes)	downregulated
+TEX14_human_kinase_ARCHS4_coexpression	1.453582909	-0.000707731	0.999513231	0.999513231	['SPZ1']	ARCHS4 (coexpressed genes)	downregulated
+RIOK1_human_kinase_ARCHS4_coexpression	1.595512599	-0.000776834	0.999513231	0.999513231	['AL022067.1']	ARCHS4 (coexpressed genes)	downregulated
+TESK1_human_kinase_ARCHS4_coexpression	1.614036502	-0.000785853	0.999513231	0.999513231	['HOMER2P2']	ARCHS4 (coexpressed genes)	downregulated
+VRK1_human_kinase_ARCHS4_coexpression	1.629817761	-0.000793537	0.999513231	0.999513231	['FKBP3']	ARCHS4 (coexpressed genes)	downregulated
+MAPKAPK3_human_kinase_ARCHS4_coexpression	1.632459896	-0.000794824	0.999513231	0.999513231	['P2RX1']	ARCHS4 (coexpressed genes)	downregulated
+PKN1_human_kinase_ARCHS4_coexpression	1.65130633	-0.000804	0.999513231	0.999513231	['FLNA']	ARCHS4 (coexpressed genes)	downregulated
+STRADA_human_kinase_ARCHS4_coexpression	1.684417681	-0.000820121	0.999513231	0.999513231	['GIMAP1-GIMAP5']	ARCHS4 (coexpressed genes)	downregulated
+RIPK1_human_kinase_ARCHS4_coexpression	1.688880595	-0.000822294	0.999513231	0.999513231	['SLAMF7']	ARCHS4 (coexpressed genes)	downregulated
+STK24_human_kinase_ARCHS4_coexpression	1.689478517	-0.000822585	0.999513231	0.999513231	['AQP3']	ARCHS4 (coexpressed genes)	downregulated
+RPS6KA4_human_kinase_ARCHS4_coexpression	1.69397741	-0.000824776	0.999513231	0.999513231	['FLNA']	ARCHS4 (coexpressed genes)	downregulated
+PTK2B_human_kinase_ARCHS4_coexpression	1.694291779	-0.000824929	0.999513231	0.999513231	['KLF2']	ARCHS4 (coexpressed genes)	downregulated
+TAOK2_human_kinase_ARCHS4_coexpression	1.702000209	-0.000828682	0.999513231	0.999513231	['FLNA']	ARCHS4 (coexpressed genes)	downregulated
+PRKCD_human_kinase_ARCHS4_coexpression	1.722840527	-0.000838829	0.999513231	0.999513231	['SLC46A2']	ARCHS4 (coexpressed genes)	downregulated
+SIK3_human_kinase_ARCHS4_coexpression	1.733911314	-0.000844219	0.999513231	0.999513231	['PHYHIP']	ARCHS4 (coexpressed genes)	downregulated
+PRKCZ_human_kinase_ARCHS4_coexpression	1.605522815	-0.000781708	0.999513231	0.999513231	['CADM3']	ARCHS4 (coexpressed genes)	downregulated
+PASK_human_kinase_ARCHS4_coexpression	1.09794755	-0.000534576	0.999513231	0.999513231	['IGLV7-46']	ARCHS4 (coexpressed genes)	upregulated
+PEAK1_human_kinase_ARCHS4_coexpression	1.430338736	-0.000696413	0.999513231	0.999513231	['KANK2']	ARCHS4 (coexpressed genes)	downregulated
+CHEK1_human_kinase_ARCHS4_coexpression	1.413523256	-0.000688226	0.999513231	0.999513231	['NLGN4X']	ARCHS4 (coexpressed genes)	downregulated
+TAOK1_human_kinase_ARCHS4_coexpression	1.111360725	-0.000541107	0.999513231	0.999513231	['AC093724.2']	ARCHS4 (coexpressed genes)	upregulated
+PLK3_human_kinase_ARCHS4_coexpression	1.11918928	-0.000544919	0.999513231	0.999513231	['SLC31A2']	ARCHS4 (coexpressed genes)	upregulated
+PIM1_human_kinase_ARCHS4_coexpression	1.130107938	-0.000550235	0.999513231	0.999513231	['SLC6A8']	ARCHS4 (coexpressed genes)	upregulated
+PTK2_human_kinase_ARCHS4_coexpression	1.1496537	-0.000559751	0.999513231	0.999513231	['WWC1']	ARCHS4 (coexpressed genes)	upregulated
+RPS6KA3_human_kinase_ARCHS4_coexpression	1.151011762	-0.000560413	0.999513231	0.999513231	['RNF128']	ARCHS4 (coexpressed genes)	upregulated
+PRKACB_human_kinase_ARCHS4_coexpression	1.159371486	-0.000564483	0.999513231	0.999513231	['CAMK2N1']	ARCHS4 (coexpressed genes)	upregulated
+PRKX_human_kinase_ARCHS4_coexpression	1.168702736	-0.000569026	0.999513231	0.999513231	['DHCR24']	ARCHS4 (coexpressed genes)	upregulated
+TRIB2_human_kinase_ARCHS4_coexpression	1.177624605	-0.00057337	0.999513231	0.999513231	['PODXL2']	ARCHS4 (coexpressed genes)	upregulated
+RAF1_human_kinase_ARCHS4_coexpression	1.196046433	-0.00058234	0.999513231	0.999513231	['RP1-229K20.5']	ARCHS4 (coexpressed genes)	upregulated
+RPS6KA2_human_kinase_ARCHS4_coexpression	1.201218268	-0.000584858	0.999513231	0.999513231	['AC255361.1']	ARCHS4 (coexpressed genes)	upregulated
+PRKCB_human_kinase_ARCHS4_coexpression	1.205027423	-0.000586712	0.999513231	0.999513231	['RAB11FIP4']	ARCHS4 (coexpressed genes)	upregulated
+RIPK1_human_kinase_ARCHS4_coexpression	1.243058545	-0.000605229	0.999513231	0.999513231	['SLC31A2']	ARCHS4 (coexpressed genes)	upregulated
+MYLK3_human_kinase_ARCHS4_coexpression	1.421712252	-0.000692213	0.999513231	0.999513231	['DMD']	ARCHS4 (coexpressed genes)	downregulated
+CDKL3_human_kinase_ARCHS4_coexpression	1.219242942	-0.000593634	0.999513231	0.999513231	['BMS1P17']	ARCHS4 (coexpressed genes)	downregulated
+HUNK_human_kinase_ARCHS4_coexpression	1.232574768	-0.000600125	0.999513231	0.999513231	['MAP1B']	ARCHS4 (coexpressed genes)	downregulated
+CDK5_human_kinase_ARCHS4_coexpression	1.268385186	-0.00061756	0.999513231	0.999513231	['REEP1']	ARCHS4 (coexpressed genes)	downregulated
+HIPK1_human_kinase_ARCHS4_coexpression	1.314688784	-0.000640105	0.999513231	0.999513231	['UTRN']	ARCHS4 (coexpressed genes)	downregulated
+FRK_human_kinase_ARCHS4_coexpression	1.316749958	-0.000641108	0.999513231	0.999513231	['BMS1P17']	ARCHS4 (coexpressed genes)	downregulated
+CDC42BPG_human_kinase_ARCHS4_coexpression	1.333291682	-0.000649162	0.999513231	0.999513231	['AQP3']	ARCHS4 (coexpressed genes)	downregulated
+CDK7_human_kinase_ARCHS4_coexpression	1.33948606	-0.000652178	0.999513231	0.999513231	['GTF2A1L']	ARCHS4 (coexpressed genes)	downregulated
+CHEK2_human_kinase_ARCHS4_coexpression	1.357439868	-0.00066092	0.999513231	0.999513231	['AASS']	ARCHS4 (coexpressed genes)	downregulated
+AKT1_human_kinase_ARCHS4_coexpression	1.36298374	-0.000663619	0.999513231	0.999513231	['FLNA']	ARCHS4 (coexpressed genes)	downregulated
+PAN3_human_kinase_ARCHS4_coexpression	1.389939147	-0.000676743	0.999513231	0.999513231	['CD69']	ARCHS4 (coexpressed genes)	downregulated
+MAK_human_kinase_ARCHS4_coexpression	1.390994932	-0.000677257	0.999513231	0.999513231	['CCDC60']	ARCHS4 (coexpressed genes)	downregulated
+CHUK_human_kinase_ARCHS4_coexpression	1.40600441	-0.000684565	0.999513231	0.999513231	['BIVM-ERCC5']	ARCHS4 (coexpressed genes)	downregulated
+CSNK1E_human_kinase_ARCHS4_coexpression	1.412769933	-0.000687859	0.999513231	0.999513231	['DPYSL3']	ARCHS4 (coexpressed genes)	downregulated
+ADCK5_human_kinase_ARCHS4_coexpression	1.224027256	-0.000595963	0.999513231	0.999513231	['GIMAP1-GIMAP5']	ARCHS4 (coexpressed genes)	downregulated
+TNIK_human_kinase_ARCHS4_coexpression	1.273496534	-0.000620049	0.999513231	0.999513231	['LMTK3']	ARCHS4 (coexpressed genes)	upregulated

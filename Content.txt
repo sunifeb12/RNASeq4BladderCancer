@@ -1,0 +1,24 @@
+Genetic mutations are known to cause malignant cancer. 
+
+This study, an attempt has been made to characterize gene expression patterns by leveraging computational pipeline. 
+
+
+Three pairs of human bladder cancer tissues compared with equivalent normal bladder tissues. 
+
+
+To quantify gene expression in an RNA-seq dataset, reads generated from the sequencing step are mapped to a reference genome. 
+
+
+ 
+
+To identify the biological processes, molecular functions and cellular components gene ontology enrichment analysis is performed.
+
+Characteristics of these specific DEGs and their Pathway, Transcription Factor, Kinase, and miRNA enrichment analysis might lead to the significance of these DEGs in human bladder cancer.
+
+
+
+
+
+
+
+

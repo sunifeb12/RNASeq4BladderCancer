@@ -1,0 +1,7 @@
+Sample Geo Accession	Sample Title	Age (years)	Gender
+GSM2560031	Cancer 1	74	female
+GSM2560032	Cancer 2	70	male
+GSM2560033	Cancer 3	58	male
+GSM2560034	Normal 1	74	female
+GSM2560035	Normal 2	70	male
+GSM2560036	Normal 3	58	male
